@@ -1,0 +1,42 @@
+a {
+    color:white;
+    text-decoration:none;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+  }
+  
+  #main{
+    padding: 1%;
+    font-size: larger;
+  }
+  
+  #description{
+    position: relative;
+  
+  }
+  
+  #description p{
+    float: right;
+    text-align: justify;
+    color: lightblue;
+    margin-top: -25%;
+    margin-right: 5%;
+    width: 40%;
+  }
+  
+  h1{
+    text-align: center;
+    color: aqua;
+  }
+  .container {
+    text-align: center;
+    background: url("./background/bg.jpg") no-repeat no-repeat fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 0;
+  }
+  

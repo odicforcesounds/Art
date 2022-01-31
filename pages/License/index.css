@@ -1,0 +1,23 @@
+#main {
+  text-align: center;
+  background: url("./backgrounds/License.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: -1%;
+  
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
+}
+
+#main a{
+  color:rgb(43, 121, 223);
+  font-size:26px;
+}
+
+.container{
+  text-align: center;
+}
+

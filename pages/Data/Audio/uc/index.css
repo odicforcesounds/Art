@@ -1,0 +1,42 @@
+html {
+  margin:0;
+  padding:0;
+  background-color: #333;
+}
+
+a {
+  color:white;
+  text-decoration:none;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+}
+
+#main{
+  padding: 1%;
+  font-size: larger;
+}
+
+#image{
+  float: left;
+  margin-top: 1rem;
+}
+
+#description{
+  position: relative;
+
+}
+
+#description p{
+  float: right;
+  text-align: justify;
+  color: lightblue;
+  margin-top: -25%;
+  margin-right: 5%;
+  width: 40%;
+}
+
+h1{
+  text-align: center;
+  color: aqua;
+}

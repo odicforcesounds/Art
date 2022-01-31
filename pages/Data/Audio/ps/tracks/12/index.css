@@ -1,0 +1,10 @@
+  
+  #main {
+    text-align: center;
+    height: 100%;
+    /* Set up proportionate scaling */
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    margin-left: 0%;
+  }

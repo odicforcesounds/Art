@@ -1,0 +1,64 @@
+.container {
+  text-align: center;
+  background: url("./backgrounds/WeBringFire.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  margin-top: -1%;
+}
+
+#main {
+  margin-left: 0%;
+  font-size: calc(1.5vw + 1vh + 0.2vmin);
+  text-align: center;
+  /* Safari */
+  display: flex;
+  width: max-content;
+  margin-top:0%;
+}
+
+#main div {
+  text-align: center;
+  padding: 1em;
+}
+
+#main div a{
+  display: inline-flex;
+}
+
+a {
+  color: yellow;
+}
+
+.t1 {
+  width: max-content;
+  position: relative;
+  display: inline-block;
+}
+
+.t2{
+  width: max-content;
+  display: inline-block;
+}
+
+.t3{
+  width: max-content;
+  display: inline-block;
+}
+
+.t4{
+  width: max-content;
+  display: inline-block;
+}
+
+.t5{
+  width: max-content;
+  display: inline-block;
+}
+
+#table{
+  flex: content;
+  flex-direction:column;
+}

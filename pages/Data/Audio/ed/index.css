@@ -1,0 +1,26 @@
+#description{
+  position: relative;
+  width: 90%;
+  margin-top: 5%;
+}
+p{
+  font-size: calc(2vw + 0.5vh + 0.2vmin) ;
+}
+#description p{
+  color: lightblue;
+  text-align: justify;
+  margin-left: 10%;
+}
+
+.container {
+  text-align: center;
+  background: url("./backgrounds/EternalDelay.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: -1%;
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
+}

@@ -1,0 +1,13 @@
+
+
+#main {
+  text-align: center;
+  background: url("../../backgrounds/BecauseWeLove.png") no-repeat no-repeat fixed;
+  background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  position: relative;
+  margin-left: 0%;
+}

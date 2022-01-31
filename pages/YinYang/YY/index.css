@@ -1,0 +1,153 @@
+.container {
+  background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: 0;
+
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
+}
+
+#main{
+  margin-top: 5rem;
+  margin-left:1rem;
+}
+
+#vt {
+  display: flex;
+  padding:1rem;
+  flex-direction:row;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#vt a{
+  color: yellow;
+  background-color: black;
+}
+
+#mw{
+  display: flex;
+  flex-direction:row;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#mw a{
+  color: yellow;
+  background-color: black;
+}
+
+#st{
+  display: flex;
+  padding:1rem;
+  flex-direction:row;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#st a{
+  color: yellow;
+  background-color: black;
+}
+
+#skd{
+  display: flex;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+  padding:1rem;
+  flex-direction:row;
+}
+
+#skd a{
+  color: yellow;
+  background-color: black;
+}
+
+#ed{
+  display: flex;
+  padding:1rem;
+  flex-direction:row;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#ed a{
+  color: yellow;
+  background-color: black;
+}
+
+#nf{
+  display: flex;
+  flex-direction:row;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#nf a{
+  color: yellow;
+  background-color: black;
+}
+
+#es{
+  display: flex;
+  flex-direction:row;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+
+#es a{
+  color: yellow;
+  background-color: black;
+}
+
+#ot {
+  display: flex;
+  flex-direction:row;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+}
+
+#ot a {
+  color: yellow;
+  background-color: black;
+}
+
+#wb{
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+  padding:1rem;
+}
+
+#left{
+  display:flex;
+  flex-direction: column;
+  float: left;
+}
+
+#right{
+    display:flex;
+    flex-direction: column;
+    float:right;
+}
+
+#upper{
+    display:flex;
+    position:relative;
+    text-align:center;
+}
+
+#tao{
+  float: left;
+}
+
+.spiritual{
+  text-align-last: center;
+  margin-top: 40%;
+  margin-left: 15%;
+  font-size: 200%;
+}
+
+.spiritual a {
+  background-color: black;
+  color: yellow;
+}

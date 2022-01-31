@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  background: url("./backgrounds/WeAreHereForChange.jpg") no-repeat no-repeat fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  position: absolute;
+  margin-top: -1%;
+  margin-left: 0;
+}

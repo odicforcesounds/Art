@@ -1,0 +1,15 @@
+#main {
+  text-align: center;
+  background: url("./backgrounds/boomcat.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  margin-left: 0%;
+}
+
+#dark p{
+  background-color: black;
+  display: inline-block;
+}
