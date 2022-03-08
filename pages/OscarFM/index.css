@@ -1,138 +1,134 @@
-
 .container {
-  text-align: center;
-  background: url("./backgrounds/MonkeyTouch.jpg") no-repeat no-repeat fixed;
-  background-size: cover;
-  
-  /* Set up proportionate scaling */
-  min-width: 100%;
-  min-height: 100%;
-  margin-top: -1%;
-  /* Set up positioning */
-  position: absolute;
-  left: 0;
+	text-align: center;
+	background: url("./backgrounds/MonkeyTouch.jpg") no-repeat no-repeat fixed;
+	background-size: cover;
+
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	margin-top: -1%;
+	/* Set up positioning */
+	position: absolute;
+	left: 0;
 }
 
-#love{
-  color: white;
-  background-color: black;
-  text-align: center;  
-  width: max-content;
-  margin-left: 45%;
+#love {
+	color: white;
+	background-color: black;
+	text-align: center;
+	width: max-content;
+	margin-left: 45%;
 }
 
-#love a{
-  color: red;
-  background-color: black;
+#love a {
+	color: red;
+	background-color: black;
 }
 
-#license{
-  color: white;
-  background-color: black;
-  width: max-content;
-  float: right;
-  margin-right: 1%;
-  margin-top: 5%;
+#license {
+	color: white;
+	background-color: black;
+	width: max-content;
+	float: right;
+	margin-right: 1%;
+	margin-top: 5%;
 }
 
-#license a{
-  color: orange;
-  background-color: black;
+#license a {
+	color: orange;
+	background-color: black;
 }
 
-#visions{
-  color: whitesmoke;
-  margin-left: 5%;
+#visions {
+	color: whitesmoke;
+	margin-left: 5%;
 }
 
-#visions a{
-  color: black;
-  background-color: orange;
+#visions a {
+	color: black;
+	background-color: orange;
 }
 
-#signature{
-  background-color: black;
-  color: white;
-  width:max-content;
+#signature {
+	background-color: black;
+	color: white;
+	width: max-content;
 }
 
-#signature a{
-  background-color: black;
-  color: orange;
+#signature a {
+	background-color: black;
+	color: orange;
 }
 
-#msg{
-  margin-top: 2%;
-  text-align: center;
-  font: 1em sans-serif;
+#msg {
+	margin-top: 2%;
+	text-align: center;
+	font: 1em sans-serif;
 }
 
-#p1{
-  background-color: aqua;
-  color:brown;
-  display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
- }
-
-#p2{
-  background-color: gray;
-  color:aqua;
-  display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+#p1 {
+	background-color: aqua;
+	color: brown;
+	display: inline;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-#p3{
-  background-color: orangered;
-  color: yellow;
-  display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
-}
-.signals{
-  display: block;
-  margin-top: 5%;
-  font-size: xx-large;
-}
-#p4{
-  background-color: black;
-  color:white;
-  display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+#p2 {
+	background-color: gray;
+	color: aqua;
+	display: inline;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-#slogan{
-  text-align: center;
+#p3 {
+	background-color: orangered;
+	color: yellow;
+	display: inline;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+}
+.signals {
+	display: block;
+	margin-top: 5%;
+	font-size: xx-large;
+}
+#p4 {
+	background-color: black;
+	color: white;
+	display: inline;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-#mplayer{
-  text-align: center;
-  margin-top: 2%;
+#slogan {
+	text-align: center;
 }
 
-#main{
-  margin-left: 1%;
-  text-align: center;
+#mplayer {
+	text-align: center;
+	margin-top: 2%;
 }
 
-#main p{
-  text-align: center;
-}
-#main h3{
- text-align:center;
+#main {
+	margin-left: 1%;
+	text-align: center;
 }
 
-
-#v{
-  text-align: center;
-  
+#main p {
+	text-align: center;
+}
+#main h3 {
+	text-align: center;
 }
 
-#who{
-  background-color: black;
-  color: white;
-  float: left;
+#v {
+	text-align: center;
 }
 
-#who a{
-  color: orange;
+#who {
+	background-color: black;
+	color: white;
+	float: left;
 }
 
+#who a {
+	color: orange;
+}
