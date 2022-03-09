@@ -1,12 +1,13 @@
 #main {
-  text-align: center;
-  background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
-  background-size: cover;
-  /* Set up proportionate scaling */
-  min-width: 100%;
-  min-height: 100%;
-  
-  /* Set up positioning */
-  position: absolute;
-  left: 0;
+	text-align: center;
+	background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	margin: 0%;
+
+	/* Set up positioning */
+	position: absolute;
+	left: 0;
 }

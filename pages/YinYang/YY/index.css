@@ -4,7 +4,7 @@
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
-	margin-top: 0;
+	margin: 0%;
 
 	/* Set up positioning */
 	position: absolute;
@@ -154,4 +154,3 @@
 	background-color: black;
 	color: yellow;
 }
-
