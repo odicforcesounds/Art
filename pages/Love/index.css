@@ -1,6 +1,6 @@
-h1 {
-	font-size: 36px;
+p{
 	color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 #main {

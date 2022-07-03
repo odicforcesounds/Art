@@ -1,10 +1,11 @@
 .container {
 	background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
-	background-size: cover;
+	background-size: calc(100% + 0% + 10%);
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
 	margin: 0%;
+	text-align: center;
 
 	/* Set up positioning */
 	position: absolute;
@@ -20,7 +21,7 @@
 	display: flex;
 	padding: 1rem;
 	flex-direction: row;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #vt a {
@@ -32,7 +33,7 @@
 	display: flex;
 	flex-direction: row;
 	padding: 1rem;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #mw a {
@@ -44,7 +45,7 @@
 	display: flex;
 	padding: 1rem;
 	flex-direction: row;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #st a {
@@ -54,7 +55,7 @@
 
 #skd {
 	display: flex;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 	padding: 1rem;
 	flex-direction: row;
 }
@@ -68,7 +69,7 @@
 	display: flex;
 	padding: 1rem;
 	flex-direction: row;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #ed a {
@@ -80,7 +81,7 @@
 	display: flex;
 	flex-direction: row;
 	padding: 1rem;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #nf a {
@@ -92,7 +93,7 @@
 	display: flex;
 	flex-direction: row;
 	padding: 1rem;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #es a {
@@ -104,7 +105,7 @@
 	display: flex;
 	flex-direction: row;
 	padding: 1rem;
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 }
 
 #ot a {
@@ -113,7 +114,7 @@
 }
 
 #wb {
-	font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
 	padding: 1rem;
 }
 
@@ -142,7 +143,6 @@
 #Dao {
 	text-align: center;
 	position: relative;
-	margin-right: 10%;
 }
 
 .spiritual {
