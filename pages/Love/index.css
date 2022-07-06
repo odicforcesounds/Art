@@ -4,7 +4,6 @@ p{
 }
 
 #main {
-	text-align: center;
 	background: url("./backgrounds/Love.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
 	/* Set up proportionate scaling */
@@ -15,4 +14,15 @@ p{
 	/* Set up positioning */
 	position: absolute;
 	left: 0;
+}
+
+.notes {
+	justify-content: left;
+	text-align: justify;
+	margin-left: 2em;
+	margin-right: 2em;
+	display: inline-block;
+	position: relative;
+	background-color: black;
+	line-height: 2em;
 }
