@@ -1,29 +1,30 @@
-
-#description{
-  position: relative;
-  width: 80%;
-  margin-left: 10%;
+#description {
+	position: relative;
+	width: 95%;
+	margin-left: 2rem;
+	margin-right: 4rem;
+	text-align: justify;
+	line-height: 3em;
 }
 
-#description p{
-  float: right;
-  text-align: justify;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+#description p {
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	display: inline;
+	background-color: black;
 }
 
-a{
-  color: white;
+a {
+	color: white;
 }
 
 .container {
-  text-align: center;
-  background: url("./backgrounds/VisionsOfThor.jpg") no-repeat no-repeat fixed;
-  background-size: cover;
-  /* Set up proportionate scaling */
-  min-width: 100%;
-  min-height: 100%;
-  margin-top: -1%;
-  /* Set up positioning */
-  position: absolute;
-  left: 0;
+	background: url("./backgrounds/VisionsOfThor.jpg") no-repeat no-repeat fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	/* Set up positioning */
+	position: absolute;
+	left: 0;
 }
+

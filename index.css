@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 .container {
+=======
+
+p {
+	font-size: 28px;
+	color: black;
+}
+
+h1 {
+	font-size: 36px;
+	color: black;
+}
+
+.container {
+#main {
+>>>>>>> 4a7a8ade7cd5539c5ab2eddf16068c57451c67d7
 	text-align: center;
 	background: url("./backgrounds/peaceCode.jpg") no-repeat no-repeat fixed;
 	background-size: 100% auto;
