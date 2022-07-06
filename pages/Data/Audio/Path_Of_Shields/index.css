@@ -1,22 +1,20 @@
-#main {
+.container {
 	text-align: center;
 	background: url("./backgrounds/PathOfShelds.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
+
 	height: 100%;
+	margin:0;
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
 	position: absolute;
-	margin: 0%;
 }
 
 #main {
 	margin-left: 0%;
-	font-size: calc(1vw + 0.5vh + 0.2vmin);
-	text-align: center;
+	text-align: left
 	/* Safari */
-	display: block;
-	width: max-content;
 }
 
 #main div {
@@ -26,42 +24,53 @@
 
 #main div a {
 	display: inline-flex;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	font-size: calc(3vw + 0.5vh + 0.2vmin);
 }
 
 a {
 	color: yellow;
+	margin:1rem; 
+	padding:1em;
 }
 
 .t1 {
 	width: max-content;
 	position: relative;
 	display: inline-block;
+	margin:1em;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	margin-top: 1em;
+
 }
 
 .t2 {
 	width: max-content;
+	position: relative;
 	display: inline-block;
+	margin:1em;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 .t3 {
 	width: max-content;
+	position: relative;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	margin:1em;
 	display: inline-block;
 }
 
 .t4 {
 	width: max-content;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	position: relative;
 	display: inline-block;
+	margin:1em;
 }
 
 .t5 {
 	width: max-content;
+	position: relative;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: inline-block;
+	margin:1em;
 }
-
-#table {
-	flex: content;
-	flex-direction: column;
-	text-align: center;
-}
-
