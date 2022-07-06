@@ -1,17 +1,43 @@
-
-a {
-  color:white;
-  text-decoration:none;
-  font-size:calc(1vw + 0.5vh + 0.2vmin);
-  text-align: center;
-  align-content: center;
-  align-self: center;
-
+article {
+	background-color: darkblue;
+	padding: 1em;
 }
 
-#main {
-  color: aqua;
-  text-align: center;
-  position: relative;
-  margin-top: 1rem;
+p {
+	font-size: calc(1.3vw + 0.5vh + 0.2vmin);
+	color: white;
+}
+
+.art {
+	text-align: justify;
+}
+
+.art article {
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+
+.art article a {
+	color: yellow;
+	text-decoration: none;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+}
+./tracks/09_Magnata_Evil_Inside/index.html button {
+	margin-top: 2em;
+	background-color: black;
+	border-radius: 10%;
+	min-width: 100%;
+}
+
+button p {
+	color: darkkhaki;
+	padding: 0.2%;
+}
+
+footer {
+	text-align: center;
+}
+
+.title {
+	text-align: center;
 }

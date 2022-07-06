@@ -8,7 +8,7 @@ h1 {
 	color: black;
 }
 
-#main {
+.container {
 	text-align: center;
 	background: url("./backgrounds/peaceCode.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
