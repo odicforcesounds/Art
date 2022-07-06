@@ -1,4 +1,4 @@
-#main {
+.container {
 	text-align: center;
 	background: url("./backgrounds/peaceCode.jpg") no-repeat no-repeat fixed;
 	background-size: 100% auto;
@@ -9,7 +9,7 @@
 	text-align: center;
 
 	/* Set up positioning */
-	position: relative;
+	position: absolute;
 	left: 0;
 }
 
