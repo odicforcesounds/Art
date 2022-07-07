@@ -17,7 +17,7 @@ h1 {
 }
 
 .notes {
-	text-align: left;
+	text-align: justify;
 	margin-left: 2em;
 	margin-right: 2em;
 	display: inline;
