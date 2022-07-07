@@ -1,7 +1,7 @@
 .container {
 	text-align: center;
 	background: url("./backgrounds/MonkeyTouch.jpg") no-repeat no-repeat fixed;
-	background-size: calc(0% + 100% + 10%);
+	background-size: cover;
 
 	/* Set up proportionate scaling */
 	min-width: 100%;
@@ -15,7 +15,7 @@
 #msg {
 	margin-top: 5%;
 	text-align: center;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 	font: 1em sans-serif;
 }
 
@@ -23,28 +23,28 @@
 	background-color: aqua;
 	color: brown;
 	display: inline;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 }
 
 #p2 {
 	background-color: gray;
 	color: aqua;
 	display: inline;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 }
 
 #p3 {
 	background-color: orangered;
 	color: yellow;
 	display: inline;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 }
 
 #p4 {
 	background-color: black;
 	color: white;
 	display: inline;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 }
 
 #mplayer {
@@ -53,117 +53,15 @@
 }
 
 .main {
-	padding:2em;
+	padding: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+	text-align: justify;
 }
 
-.signature{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
+.main p {
 	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
+	display: inline;
+	line-height: 2em;
 }
 
-.signature a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.license{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.license a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.visions{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.visions a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-
-
-.random{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.random a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-
-.learn{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.learn a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.network{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.network a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.brain{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.brain a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.way{
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.way a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}
-.us {
-		font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-		display: inline-block;
-		margin-bottom: 10px;
-}
-
-.us a{
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	background-color: black;
-	padding:0.5;
-}

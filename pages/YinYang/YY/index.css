@@ -1,11 +1,10 @@
 .container {
 	background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
-	background-size: calc(100% + 0% + 10%);
+	background-size: cover;
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
 	margin: 0%;
-	text-align: center;
 
 	/* Set up positioning */
 	position: absolute;
@@ -13,8 +12,8 @@
 }
 
 #main {
-	margin-top: 5rem;
-	margin-left: 1rem;
+	margin-top: 4em;
+	flex-wrap: wrap;
 }
 
 #vt {
@@ -119,19 +118,25 @@
 }
 
 #left {
-	display: flex;
-	flex-direction: column;
+	display: flex-start;
+	flex-direction: row;
+	flex-flow: column nowrap;
+	position: relative;
 	float: left;
 }
 
 #right {
-	display: flex;
+	display: flex-end;
 	flex-direction: column;
+	flex-flow: row nowrap;
+	position: relative;
 	float: right;
 }
 
 #upper {
 	display: flex;
+	flex-direction: row;
+	flex-flow: column nowrap;
 	position: relative;
 	text-align: center;
 }
@@ -146,12 +151,20 @@
 }
 
 .spiritual {
-	text-align-last: center;
-	margin-top: 30%;
+	text-align: center;
+	margin-bottom: 2%;
 	font-size: 200%;
 }
 
 .spiritual a {
 	background-color: black;
 	color: yellow;
+}
+
+.player {
+	text-align: center;
+}
+
+.foot {
+	margin-top: 2rem;
 }

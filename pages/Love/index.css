@@ -1,6 +1,6 @@
-p{
+h1 {
+	font-size: 36px;
 	color: black;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 #main {
@@ -17,11 +17,10 @@ p{
 }
 
 .notes {
-	justify-content: left;
-	text-align: justify;
+	text-align: left;
 	margin-left: 2em;
 	margin-right: 2em;
-	display: inline-block;
+	display: inline;
 	position: relative;
 	background-color: black;
 	line-height: 2em;
