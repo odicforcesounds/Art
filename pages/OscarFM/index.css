@@ -63,5 +63,10 @@
 	background-color: black;
 	display: inline;
 	line-height: 2em;
+	font-size: 2rem;
+	color: cyan;
 }
 
+.main a {
+	color: yellow;
+}
