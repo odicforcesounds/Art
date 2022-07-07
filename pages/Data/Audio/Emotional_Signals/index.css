@@ -1,35 +1,37 @@
-#image{
-  margin: 2rem;
-  text-align: center;
+#image {
+	margin: 2rem;
+	text-align: center;
 }
 
-#description{
-  position: relative;
-  margin: 2rem;
-  width: 80%;
-  margin-left: 10%;
+#description {
+	position: relative;
+	line-height: 4em;
+	margin: 2rem;
+	width: 80%;
+	margin-left: 10%;
 }
 
-#description p{
-  text-align: justify;
-  color: black;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+#description p {
+	text-align: justify;
+	color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-a:hover{
-  color: blue;
+a:hover {
+	color: blue;
 }
-
 
 .container {
-  text-align: center;
-  background: url("./backgrounds/emotional_signals.jpg") no-repeat no-repeat fixed;
-  background-size: cover;
-  /* Set up proportionate scaling */
-  min-width: 100%;
-  min-height: 100%;
-  margin-top: -1%;
-  /* Set up positioning */
-  position: absolute;
-  left: 0;
+	text-align: center;
+	background: url("./backgrounds/emotional_signals.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	margin-top: -1%;
+	/* Set up positioning */
+	position: absolute;
+	left: 0;
 }
+
