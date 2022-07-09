@@ -12,11 +12,21 @@
 }
 
 .notes {
-	text-align: left;
-	margin-left: 2em;
-	margin-right: 2em;
-	display: inline;
+	text-align: justify;
+	margin-left: 3em;
+	margin-right: 3em;
+	display: block;
 	position: relative;
 	background-color: black;
-	line-height: 2em;
+	padding: 0.7%;
+}
+
+.message {
+	background-color: black;
+	color: yellow;
+}
+
+.evil {
+	background-color: black;
+	color: red;
 }

@@ -1,0 +1,86 @@
+html,
+body {
+	margin: 0.5%;
+	padding: 0.5%;
+	background-color: darkblue;
+}
+
+header {
+	text-align: center;
+}
+
+.slogan1 {
+	font-size: calc(1.8vw + 0.5vh + 0.2vmin);
+	background-color: darkcyan;
+	color: white;
+	text-align: left;
+	display: inline-flex;
+	flex-direction: column nowrap;
+}
+.slogan2 {
+	font-size: calc(1.8vw + 0.5vh + 0.2vmin);
+	background-color: darkgoldenrod;
+	color: white;
+	flex-direction: row nowrap;
+}
+
+.navbar {
+	position: flex;
+	display: inline-flex;
+	flex-direction: column;
+	flex-flow: row-reverse;
+}
+
+.topmenus {
+	display: flex;
+	position: relative;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.listItem {
+	padding: 0.5em;
+	display: flex;
+	flex-direction: column;
+	flex-flow: nowrap;
+	text-decoration: none;
+	list-style: none;
+	background-color: black;
+	margin: 1rem;
+}
+
+.item {
+	font-size: calc(1vw + 0.5vh + 0.2vmin);
+	display: flex;
+	flex-direction: start;
+}
+
+a {
+	text-align: center;
+	text-decoration: none;
+	color: yellow;
+}
+
+a:hover {
+	color: black;
+	background-color: white;
+}
+
+.boasVindas {
+	display: flex;
+	flex-direction: column;
+	flex-flow: wrap;
+}
+
+.title {
+	color: white;
+	background-color: darkolivegreen;
+	display: flex;
+}
+
+.description {
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	color: white;
+	line-height: 2em;
+	text-align: justify;
+}
