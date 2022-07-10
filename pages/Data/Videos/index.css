@@ -41,7 +41,7 @@ header {
 .listItem {
 	padding: 0.5em;
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	flex-flow: nowrap;
 	text-decoration: none;
 	list-style: none;
@@ -50,7 +50,7 @@ header {
 }
 
 .item {
-	font-size: calc(1vw + 0.5vh + 0.2vmin);
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: flex;
 	flex-direction: start;
 }
