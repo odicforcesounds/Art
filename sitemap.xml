@@ -1,542 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="15" meta:paragraph-count="306" meta:word-count="306" meta:character-count="26888" meta:non-whitespace-character-count="26888"/><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator></office:meta>
- <office:settings>
-  <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
-   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
-  </config:config-item-set>
-  <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">207666</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">207666</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-  </config:config-item-set>
- </office:settings>
- <office:scripts>
-  <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
-  </office:script>
- </office:scripts>
- <office:font-face-decls>
-  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
-  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
- </office:font-face-decls>
- <office:styles>
-  <style:default-style style:family="graphic">
-   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
-  </style:default-style>
-  <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:default-style>
-  <style:default-style style:family="table">
-   <style:table-properties table:border-model="collapsing"/>
-  </style:default-style>
-  <style:default-style style:family="table-row">
-   <style:table-row-properties fo:keep-together="auto"/>
-  </style:default-style>
-  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
-  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
-   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
-  </style:style>
-  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
-   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
-  </style:style>
-  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
-   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
-   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
-  </style:style>
-  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
-  </style:style>
-  <text:outline-style style:name="Outline">
-   <text:outline-level-style text:level="1" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="2" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="3" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="4" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="5" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="6" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="7" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="8" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="9" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-   <text:outline-level-style text:level="10" style:num-format="">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab"/>
-    </style:list-level-properties>
-   </text:outline-level-style>
-  </text:outline-style>
-  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
-  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
-  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
- </office:styles>
- <office:automatic-styles>
-  <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
-    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
-   </style:page-layout-properties>
-   <style:header-style/>
-   <style:footer-style/>
-  </style:page-layout>
- </office:automatic-styles>
- <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
- </office:master-styles>
- <office:body>
-  <office:text text:use-soft-page-breaks="true">
-   <text:sequence-decls>
-    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
-    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
-    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
-    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
-    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
-   </text:sequence-decls>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/01_Darkness/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/02_Helpfu/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/03_Beat_Flow/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/04_Frustration/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/05_Black_Hole/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/06_Perfectio/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/07_Magical_Box/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signal/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/01_We_Came_in_Peace/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/02_Just_Another_Open_Door/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/03_Bigger_or_Equal_to_Zero/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/04_Tao_Yin_Yang/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/05_Magnetic_Condition_Psy_Cat/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/06_Dominated_by_Time_Ruled_by_Desire/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/07_Little_Box_Universe/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/08_Little_Box_Universe_2/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/09_Shamanic_Vision/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/10_The_Game_Project/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/11_Social_Tool_Kit/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/12_Hacking_Festival/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/13_Trust_Constant_Loop/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/01_Respect_Spiritual_Life/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/02_Organic_Fields/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/03_Remember_Why_You_Here/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/04_Show_us_some_Respect_Warning/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/05_Human_Test_Sent/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/06_Flow_Into_Darkness/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/07_Light_Interception/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/08_You_Dont_Believe/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/09_Wait_Madness_is_no_Good/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/10_Welcome_to_Yourself/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/11_Ladies_and_Gentleman/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/01_Tropical_Ignition_Master/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/02_We_Are_Here_for_Change/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/03_Prince_of_Darkness/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/04_It_Was_Only_a_Dream/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/05_Ask_an_Advice/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/06_Devine_Connections/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/07_What_is_Going_on/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/01_Storming_Plan_Enigmatic_War/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/02_Pain_Art_illusion_and_Expression/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/03_Control_Free_to_Ask/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/04_Time_to_Live_Cache_Cleaner/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/05_Panic_Luck/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/06_Thunder_with_within_and_without/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/07_Forest_Jungle_at_Night/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/08_Have_Fun_Nothing_Wrong/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/09_Noise_Breaker_Lead_the_Way/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/10_Strange_Groove_Noise/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/01_Bass_Drop_Blend/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/02_Between_Us_Image_and_Sound/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/03_Dimentional_Party_Bit_Parity/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/04_Not_Bad_Wrong/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/05_Failure_People_Dont_Care/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/06_Fuck_Politics_Sex_is_Fun/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/07_Extreme_Flow_Spiritual_Life/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/08_I_Know_Myself_Free_Man/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/09_Minimal_Life_Another_Planet/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/10_Time_Code_Stealth_Planet/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/11_Just_a_Technical_Skill_Set/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/12_Body_Answer_Common_Sense/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/01_Dogs_Like_to_Dance</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/02_Emerge_Internal_Upgrade</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/03_Bruce_Lee</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/04_Galactic_Passion_Dragon_Fire</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/06_Lords_Egocentric_Will</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/07_Matrix_no_Limits</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/08_V_Euclidean_Space</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/09_Two_Sides_One_Force</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/10_Devil_Spell</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/11_Vital_Manipulation</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/12_Gift_Simplicity</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/01_My_Eternal</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/02_Dreaming_About_You</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/03_Take_Me_Deeper</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/04_You_Are_Music</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/05_Program_Your_Brain</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/06_Perturba</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/07_Two_Side</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/08_Get_Out</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/09_Crazy_Days</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/01_Because_we_Love</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/02_Dark_Warrior</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/03_The_Possession_of_Will</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/04_Money_is_no_Power</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/05_Fire_Eyes_Metal_Soul</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/06_Expression_Nature</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/07_Hypnotic_Dance</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/08_She_Needs_He_Create</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/09_She_Needs_he_Create</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/10_Myth_illusion_Memories</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/11_Deep_Thoughts</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/12_DoD</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/13_Against_the_Greed</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/14_Digital_Perspective</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/15_69</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/16_Can_Feel_Have_Body</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/17_3_You_Tell_Me</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/18_Union_Point</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/19_We_are_Tools</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/20_Eternal_Masters</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/21_Boo_Boo</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/22_Lets_do_it</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/23_Worst_Music</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/24_Night_Universe</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/25_The_Dragon</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/01_Bem_Vind@</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/02_A_Floresta</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/03_Memoria_e_Saudade</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/04_O_Sabor_da_Liberdade</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/05_Ciclos_da_Vida</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/06_Convites_Silenciosos</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/01_Sun_Wukong_Monkey_King</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/02_We_Bring_Fire</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/03_Walking_with_the_River</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/04_Lets_make_Business/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/05_That_Sexy_Feeling/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/06_Fast_Signal/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/07_I_want_You_so_Bad/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/08_Its_all_about_u/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/09_Wood_Fire/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/10_Press_for_Monkey/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/11_Crafting_new_Generations/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/12_Set_us_Free/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/13_Deeds_Path_to_Paradise/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/14_Piano_Word/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/15_You_are_not_Alone/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/16_Dance_Like_Water/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/17_Make_it_Right/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/18_Brain_Chilout/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/19_Love_or_Die/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/20_Water_vs_Bloo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/21_I_need_Activity/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/22_Do_Music/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/24_Last_Days_of_Sacrifice/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/25_Lead_and_We_will_Follow/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/26_By_Your_Side/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/27_Absolut/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/01_Discipline_No_Escape/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/02_Hard_Work_Deep_Discipline/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/03_United_Colors_of_Skeletons/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/04_Air_Trip_Fly_to_Me/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/05_Yellow_Energy_Burning_Box/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/06_Underwater_Into_the_Sky/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/07_Drive_Flow_Crazy_Ghost_Train/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/08_First_Contact_Path_of_Shields/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/09_Do_not_Deny_I_am_the_on/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/10_Healing_Correction_Body_and_Mind/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/11_Connected_to_You/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/12_Delay_Expectative/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/13_Future_Cosmic_Attractio/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/14_Call_me_Karma/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/15_Care_Not_Focus/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/16_Neurotic_Path/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/17_You_Date_Suck_My_Sax/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/18_My_Dream_Boom_Festival/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/19_Human_Paradox_New_World/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/20_Terms_of_Living_Love_or_Die/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Tim/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/01_Our_try_not_Our_Choice/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/02_Our_Eternal_License/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/03_Last_Warning_Tao_Touch/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/04_Magic_Touch_in_the_Shadow/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/05_Eternal_Dance_of_Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/06_Well_Played/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/07_Black_Gold_Light/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/08_Genius_Monkey_Style/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/09_Save_Your_Sanity/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Stri/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/01_Anomaly_Disconnected_Functions/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/02_Organized_Classic_Motion/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/03_Brave_New_Choice_no_Heroes/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/04_Dark_Net_Mantra_Over_Flaw/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/05_Id_666/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/06_Metamorphose_Be_Quiet_and_Learn/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/07_Complex_Unknown_Value/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/08_Residents_of_Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/09_Silnuvano_Flush/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/10_Spiritual_Redemption_Odicforce/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/11_Inside_Outside/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/12_Running_out_of_time_no_tunning_back/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/13_Pagan_Cult_to_the_Sun/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/01_The_Challenge/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/02_Security_Functionality/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/03_Data_Objects_Functions/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/04_Into_the_World_of_JavaScript/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/05_Mr_JSON/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/06_Firebase_Solar_Plexus/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/07_Change_We_All_Need/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expressio/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/01_Tao_the_wind_of_God/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/02_Awakening_Dream/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/03_Path_of_the_Sun_Keepers/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/04_Hermit_Walk_for_Liberty/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/05_Hunting_Dreams_Hunters/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/06_Eyes_On_You/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/07_Secret_Responsability/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/08_Come_and_See_You_in_Me/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/09_Birds_of_Fire/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/10_Wise_Choice/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/01_Ring_of_Fire_Yin/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/02_Ring_of_Fire_Yang/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/06_Mystic_Portal/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/07_Fragments_You_Need/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/01_Mystic_Theories/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/02_You_Want_Me/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/03_We_Will/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/04_Dont_Take_us_Seriously/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/05_We_Must_Change_Our_Ways/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/06_Mystic_Compatibility/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/07_Lets_Talk_About_Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/08_I_am_Music/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/09_Developing_Unkown_Code/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/10_Community_Calling/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/01_Are_You_Evi/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/02_Come_Here/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/03_Show_You_Something/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/04_Share_Your_Visions/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/05_Be_Free/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/06_Care_us_and_we_will_care_you/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/07_God_pay_for_Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/08_Mission_World_wide_Target/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Tho/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/track/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/01_Emerge_Internal_Upgrade/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/02_Water_Horses_Woman_Freedom/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/03_Pain_vs_Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/04_Black_Birds_Red_Eye/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/05_Burned_in_the_Hands_of_Wind/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/06_Summer_Night_Rock_and_Roll/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/07_V_Euclidean_Space/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/08_Invisible_Frequency/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/09_Magnata_Evil_Inside/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/10_Shake_My_Snakes/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/11_We_are_the_Ones/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Video/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Logica/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/Linux/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/MacacoPreguicoso/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Florest/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/Analogia/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/CaracolCerebral/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/OdicforceSound/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Macaco/SunWukong/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidade/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/AmorOuSexo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/CaminhoDEscudo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Mistica/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/MM/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Psicologia/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Racism/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Verbo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Xamanism/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Critica/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Educar/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Eg/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Internacional/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Justic/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Militarismo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Politic/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Religiao/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Tributo/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/License/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Love/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/OscarFM/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/Visions/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/BoomCat/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/Expression/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/Tao/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/WhoWeAre/</text:p>
-   <text:p text:style-name="Preformatted_20_Text">https://art.odicforcesounds.com/pages/YinYang/YY/</text:p>
-  </office:text>
- </office:body>
-</office:document>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/01_Darkness/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/02_Helpful/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/03_Beat_Flow/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/04_Frustration/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/05_Black_Hole/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/06_Perfection/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Deep_Random_Meanings/tracks/07_Magical_Box/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signal/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/01_We_Came_in_Peace/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/02_Just_Another_Open_Door/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/03_Bigger_or_Equal_to_Zero/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/04_Tao_Yin_Yang/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/05_Magnetic_Condition_Psy_Cat/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/06_Dominated_by_Time_Ruled_by_Desire/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/07_Little_Box_Universe/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/08_Little_Box_Universe_2/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/09_Shamanic_Vision/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/10_The_Game_Project/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/11_Social_Tool_Kit/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/12_Hacking_Festival/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/13_Trust_Constant_Loop/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/01_Respect_Spiritual_Life/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/02_Organic_Fields/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/03_Remember_Why_You_Here/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/04_Show_us_some_Respect_Warning/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/05_Human_Test_Sent/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/06_Flow_Into_Darkness/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/07_Light_Interception/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/08_You_Dont_Believe/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/09_Wait_Madness_is_no_Good/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/10_Welcome_to_Yourself/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/11_Ladies_and_Gentleman/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/01_Tropical_Ignition_Master/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/02_We_Are_Here_for_Change/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/03_Prince_of_Darkness/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/04_It_Was_Only_a_Dream/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/05_Ask_an_Advice/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/06_Devine_Connections/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/07_What_is_Going_on/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/01_Storming_Plan_Enigmatic_War/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/02_Pain_Art_illusion_and_Expression/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/03_Control_Free_to_Ask/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/04_Time_to_Live_Cache_Cleaner/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/05_Panic_Luck/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/06_Thunder_with_within_and_without/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/07_Forest_Jungle_at_Night/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/08_Have_Fun_Nothing_Wrong/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/09_Noise_Breaker_Lead_the_Way/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Machine_World/tracks/10_Strange_Groove_Noise/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/01_Bass_Drop_Blend/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/02_Between_Us_Image_and_Sound/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/03_Dimentional_Party_Bit_Parity/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/04_Not_Bad_Wrong/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/05_Failure_People_Dont_Care/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/06_Fuck_Politics_Sex_is_Fun/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/07_Extreme_Flow_Spiritual_Life/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/08_I_Know_Myself_Free_Man/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/09_Minimal_Life_Another_Planet/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/10_Time_Code_Stealth_Planet/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/11_Just_a_Technical_Skill_Set/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/12_Body_Answer_Common_Sense/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/01_Dogs_Like_to_Dance</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/02_Emerge_Internal_Upgrade</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/03_Bruce_Lee</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/04_Galactic_Passion_Dragon_Fire</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/06_Lords_Egocentric_Will</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/07_Matrix_no_Limits</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/08_V_Euclidean_Space</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/09_Two_Sides_One_Force</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/10_Devil_Spell</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/11_Vital_Manipulation</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/12_Gift_Simplicity</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/01_My_Eternal</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/02_Dreaming_About_You</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/03_Take_Me_Deeper</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/04_You_Are_Music</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/05_Program_Your_Brain</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/06_Perturba</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/07_Two_Side</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/08_Get_Out</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Open_Your_Mind_and_Learn/tracks/09_Crazy_Days</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/01_Because_we_Love</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/02_Dark_Warrior</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/03_The_Possession_of_Will</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/04_Money_is_no_Power</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/05_Fire_Eyes_Metal_Soul</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/06_Expression_Nature</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/07_Hypnotic_Dance</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/08_She_Needs_He_Create</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/09_She_Needs_he_Create</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/10_Myth_illusion_Memories</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/11_Deep_Thoughts</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/12_DoD</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/13_Against_the_Greed</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/14_Digital_Perspective</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/15_69</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/16_Can_Feel_Have_Body</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/17_3_You_Tell_Me</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/18_Union_Point</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/19_We_are_Tools</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/20_Eternal_Masters</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/21_Boo_Boo</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/22_Lets_do_it</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/23_Worst_Music</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/24_Night_Universe</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/25_The_Dragon</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/01_Bem_Vind@</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/02_A_Floresta</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/03_Memoria_e_Saudade</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/04_O_Sabor_da_Liberdade</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/05_Ciclos_da_Vida</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Rakzhodekams/tracks/06_Convites_Silenciosos</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/01_Sun_Wukong_Monkey_King</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/02_We_Bring_Fire</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/03_Walking_with_the_River</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/04_Lets_make_Business/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/05_That_Sexy_Feeling/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/06_Fast_Signal/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/07_I_want_You_so_Bad/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/08_Its_all_about_u/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/09_Wood_Fire/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/10_Press_for_Monkey/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/11_Crafting_new_Generations/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/12_Set_us_Free/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/13_Deeds_Path_to_Paradise/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/14_Piano_Word/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/15_You_are_not_Alone/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/16_Dance_Like_Water/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/17_Make_it_Right/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/18_Brain_Chilout/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/19_Love_or_Die/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/20_Water_vs_Bloo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/21_I_need_Activity/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/22_Do_Music/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/24_Last_Days_of_Sacrifice/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/25_Lead_and_We_will_Follow/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/26_By_Your_Side/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/27_Absolut/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/01_Discipline_No_Escape/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/02_Hard_Work_Deep_Discipline/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/03_United_Colors_of_Skeletons/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/04_Air_Trip_Fly_to_Me/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/05_Yellow_Energy_Burning_Box/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/06_Underwater_Into_the_Sky/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/07_Drive_Flow_Crazy_Ghost_Train/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/08_First_Contact_Path_of_Shields/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/09_Do_not_Deny_I_am_the_on/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/10_Healing_Correction_Body_and_Mind/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/11_Connected_to_You/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/12_Delay_Expectative/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/13_Future_Cosmic_Attractio/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/14_Call_me_Karma/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/15_Care_Not_Focus/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/16_Neurotic_Path/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/17_You_Date_Suck_My_Sax/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/18_My_Dream_Boom_Festival/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/19_Human_Paradox_New_World/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/20_Terms_of_Living_Love_or_Die/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Tim/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/01_Our_try_not_Our_Choice/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/02_Our_Eternal_License/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/03_Last_Warning_Tao_Touch/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/04_Magic_Touch_in_the_Shadow/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/05_Eternal_Dance_of_Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/06_Well_Played/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/07_Black_Gold_Light/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/08_Genius_Monkey_Style/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/09_Save_Your_Sanity/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Stri/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/01_Anomaly_Disconnected_Functions/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/02_Organized_Classic_Motion/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/03_Brave_New_Choice_no_Heroes/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/04_Dark_Net_Mantra_Over_Flaw/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/05_Id_666/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/06_Metamorphose_Be_Quiet_and_Learn/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/07_Complex_Unknown_Value/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/08_Residents_of_Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/09_Silnuvano_Flush/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/10_Spiritual_Redemption_Odicforce/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/11_Inside_Outside/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/12_Running_out_of_time_no_tunning_back/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Space_Strip/tracks/13_Pagan_Cult_to_the_Sun/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/01_The_Challenge/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/02_Security_Functionality/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/03_Data_Objects_Functions/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/04_Into_the_World_of_JavaScript/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/05_Mr_JSON/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/06_Firebase_Solar_Plexus/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/07_Change_We_All_Need/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expressio/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/01_Tao_the_wind_of_God/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/02_Awakening_Dream/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/03_Path_of_the_Sun_Keepers/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/04_Hermit_Walk_for_Liberty/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/05_Hunting_Dreams_Hunters/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/06_Eyes_On_You/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/07_Secret_Responsability/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/08_Come_and_See_You_in_Me/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/09_Birds_of_Fire/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Expression/tracks/10_Wise_Choice/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/01_Ring_of_Fire_Yin/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/02_Ring_of_Fire_Yang/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/06_Mystic_Portal/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Tao_Touch/tracks/07_Fragments_You_Need/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/01_Mystic_Theories/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/02_You_Want_Me/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/03_We_Will/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/04_Dont_Take_us_Seriously/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/05_We_Must_Change_Our_Ways/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/06_Mystic_Compatibility/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/07_Lets_Talk_About_Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/08_I_am_Music/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/09_Developing_Unkown_Code/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/10_Community_Calling/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/01_Are_You_Evi/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/02_Come_Here/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/03_Show_You_Something/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/04_Share_Your_Visions/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/05_Be_Free/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/06_Care_us_and_we_will_care_you/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/07_God_pay_for_Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/08_Mission_World_wide_Target/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/track/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/01_Emerge_Internal_Upgrade/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/02_Water_Horses_Woman_Freedom/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/03_Pain_vs_Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/04_Black_Birds_Red_Eye/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/05_Burned_in_the_Hands_of_Wind/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/06_Summer_Night_Rock_and_Roll/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/07_V_Euclidean_Space/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/08_Invisible_Frequency/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/09_Magnata_Evil_Inside/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/10_Shake_My_Snakes/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/11_We_are_the_Ones/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Video/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Logica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/Linux/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Logica/Tecnologia/MacacoPreguicoso/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Floresta/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/Analogia/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/CaracolCerebral/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/Musica/OdicforceSound/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Macaco/SunWukong/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidade/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/AmorOuSexo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/CaminhoDEscudo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Mistica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/MMM/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Psicologia/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Racismo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Verbo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sensibilidades/Xamanism/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Critica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Educar/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Ego/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Internacional/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Justica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Militarismo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Politica/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Religiao/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Data/Videos/Sociedade/Tributo/</loc>
+   <loc>https://art.odicforcesounds.com/pages/License/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Love/</loc>
+   <loc>https://art.odicforcesounds.com/pages/OscarFM/</loc>
+   <loc>https://art.odicforcesounds.com/pages/Visions/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/BoomCat/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/Expression/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/Tao/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/WhoWeAre/</loc>
+   <loc>https://art.odicforcesounds.com/pages/YinYang/YY/</loc>
