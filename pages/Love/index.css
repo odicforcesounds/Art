@@ -30,3 +30,16 @@
 	background-color: black;
 	color: red;
 }
+
+.yin {
+	background-color: black;
+	color: white;
+}
+.yang {
+	background-color: white;
+	color: black;
+}
+.symb {
+	background-color: black;
+	color: yellow;
+}
