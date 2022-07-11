@@ -1,10 +1,7 @@
 .container {
-	text-align: center;
 	background: url("./backgrounds/PathOfShelds.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
-
-	height: 100%;
-	margin:0;
+	margin: 0;
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
@@ -13,64 +10,92 @@
 
 #main {
 	margin-left: 0%;
-	text-align: left
 	/* Safari */
 }
 
 #main div {
-	text-align: center;
-	padding: 1em;
 }
 
 #main div a {
-	display: inline-flex;
 	font-size: calc(3vw + 0.5vh + 0.2vmin);
 }
 
 a {
 	color: yellow;
-	margin:1rem; 
-	padding:1em;
 }
 
 .t1 {
-	width: max-content;
 	position: relative;
-	display: inline-block;
-	margin:1em;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	margin-top: 1em;
-
-}
-
-.t2 {
-	width: max-content;
-	position: relative;
-	display: inline-block;
-	margin:1em;
+	display: flex;
+	flex-direction: column;
+	flex-flow: row wrap;
+	margin-top: 1rem;
 	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-.t3 {
-	width: max-content;
-	position: relative;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	margin:1em;
-	display: inline-block;
+.t1 .belove {
+	padding: 5%;
 }
-
-.t4 {
-	width: max-content;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	position: relative;
-	display: inline-block;
-	margin:1em;
+.t1 .bewarrior {
+	padding: 5%;
 }
-
-.t5 {
-	width: max-content;
-	position: relative;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	display: inline-block;
-	margin:1em;
+.t1 .bepossess {
+	padding: 5%;
+}
+.t1 .bepower {
+	padding: 5%;
+}
+.t1 .befire {
+	padding: 5%;
+}
+.t1 .benature {
+	padding: 5%;
+}
+.t1 .behipnotic {
+	padding: 5%;
+}
+.t1 .beneed {
+	padding: 5%;
+}
+.t1 .beillusion {
+	padding: 5%;
+}
+.t1 .bedeep {
+	padding: 5%;
+}
+.t1 .begreed {
+	padding: 5%;
+}
+.t1 .bedigital {
+	padding: 5%;
+}
+.t1 .be69 {
+	padding: 5%;
+}
+.t1 .befeel {
+	padding: 5%;
+}
+.t1 .bemusic {
+	padding: 5%;
+}
+.t1 .bebo {
+	padding: 5%;
+}
+.t1 .be3 {
+	padding: 5%;
+}
+.t1 .beunion {
+	padding: 5%;
+}
+.t1 .betools {
+	padding: 5%;
+}
+.t1 .beeternal {
+	padding: 5%;
+}
+.t1 .bedo {
+	padding: 5%;
+}
+.t1 .beuniverse {
+	padding: 5%;
 }
