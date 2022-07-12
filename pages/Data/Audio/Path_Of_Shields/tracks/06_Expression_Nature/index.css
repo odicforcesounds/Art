@@ -1,11 +1,28 @@
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/nature.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: relative;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/nature.jpg") no-repeat no-repeat fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+	text-align: center;
+}
+.content {
+	display: block;
+	margin-left: 4em;
+	margin-right: 4em;
+	text-align: center;
+}
+
+.content p {
+	background-color: black;
+	display: inline;
+	line-height: 2em;
+}
+
+footer {
+	text-align: center;
+}

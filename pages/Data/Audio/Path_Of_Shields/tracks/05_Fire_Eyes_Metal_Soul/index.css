@@ -1,12 +1,29 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/FireInMyEyesMetalInMySoul.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/FireInMyEyesMetalInMySoul.jpg") no-repeat
+		no-repeat fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+	text-align: center;
+}
+
+.content {
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.content h1 {
+	background-color: black;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+
