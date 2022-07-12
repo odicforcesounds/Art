@@ -1,11 +1,27 @@
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/HypnoticDance.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/HypnoticDance.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	/* Set up proportionate scaling */
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.content {
+	display: block;
+	text-align: center;
+	margin-top: 4em;
+}
+
+.content p {
+	background-color: black;
+	text-align: center;
+	line-height: 2em;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+

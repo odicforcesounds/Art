@@ -1,11 +1,29 @@
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/sheNeedHeCreate.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/sheNeedHeCreate.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+	text-align: center;
+}
+
+.content {
+	display: block;
+	margin-top: 4em;
+	text-align: center;
+}
+
+.content p {
+	background-color: black;
+	line-height: 2em;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+

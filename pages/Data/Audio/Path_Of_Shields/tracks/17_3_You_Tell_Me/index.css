@@ -1,12 +1,28 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/3YouTellMe.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: relative;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/3YouTellMe.jpg") no-repeat no-repeat fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.content {
+	text-align: center;
+	display: block;
+}
+
+.content p {
+	line-height: 2em;
+	display: inline;
+	background-color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+}
+
+.player {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+

@@ -1,6 +1,23 @@
-  
-  #main {
-    text-align: center;
-    position: relative;
-    margin-top: 1rem;
-  }
+.container {
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.content {
+	text-align: center;
+	display: block;
+}
+
+.content p {
+	display: inline;
+	line-height: 2em;
+	background-color: black;
+}
+
+.player {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}

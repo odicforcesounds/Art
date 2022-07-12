@@ -1,12 +1,17 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/AgainstTheGreed.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/AgainstTheGreed.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+

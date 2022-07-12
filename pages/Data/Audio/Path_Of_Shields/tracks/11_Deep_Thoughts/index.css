@@ -1,12 +1,29 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/DeepThoughts.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/DeepThoughts.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+	text-align: center;
+}
+
+.content {
+	text-align: center;
+	display: block;
+	margin-top: 10em;
+}
+
+.content p {
+	background-color: black;
+	line-height: 2em;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+

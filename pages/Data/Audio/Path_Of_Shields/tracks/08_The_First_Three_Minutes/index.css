@@ -1,6 +1,28 @@
+.container {
+	text-align: center;
+	position: relative;
+	margin-top: 1rem;
+}
+.player {
+	text-align: center;
+}
 
-  #main {
-    text-align: center;
-    position: relative;
-    margin-top: 1rem;
-  }
+.content {
+	display: block;
+	margin-top: 4em;
+	text-align: center;
+}
+
+.content p {
+	background-color: black;
+	line-height: 2em;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+
+footer span {
+	background-color: black;
+}

@@ -1,10 +1,27 @@
-  
-  #main {
-    text-align: center;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.content {
+	display: block;
+	margin-left: 4em;
+	margin-right: 4em;
+	text-align: center;
+}
+
+.contant p {
+	line-height: 4em;
+	background-color: black;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+}
+
+.player {
+	text-align: center;
+}
+

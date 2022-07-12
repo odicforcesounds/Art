@@ -1,12 +1,26 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/IHaveBodyICanFeel.jpg") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: absolute;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/IHaveBodyICanFeel.jpg") no-repeat no-repeat
+		fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.content {
+	text-align: center;
+	margin-top: 4em;
+	display: block;
+}
+.content p {
+	background-color: black;
+	line-height: 2em;
+	display: inline;
+}
+.player {
+	text-align: center;
+}
+footer {
+	text-align: center;
+}
+

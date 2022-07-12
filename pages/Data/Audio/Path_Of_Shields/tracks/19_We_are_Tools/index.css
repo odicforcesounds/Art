@@ -1,12 +1,28 @@
-  
-  #main {
-    text-align: center;
-    background: url("../../backgrounds/WeAreToolsObjectsofExpression.png") no-repeat no-repeat fixed;
-    background-size: cover;
-    height: 100%;
-    /* Set up proportionate scaling */
-    min-width: 100%;
-    min-height: 100%;
-    position: relative;
-    margin-left: 0%;
-  }
+.container {
+	background: url("../../backgrounds/WeAreToolsObjectsofExpression.png")
+		no-repeat no-repeat fixed;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.content {
+	text-align: center;
+	display: block;
+}
+
+.content p {
+	background-color: black;
+	display: inline;
+	line-height: 2em;
+}
+
+.player {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
