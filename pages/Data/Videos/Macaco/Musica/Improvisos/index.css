@@ -1,22 +1,25 @@
 .container {
 	display: flex;
-	flex-direction: row nowrap;
-	flex-flow: wrap;
+	flex-flow: row wrap;
+	flex-direction: column wrap;
+	justify-content: space-evenly;
 	position: relative;
+	text-align: center;
 }
 
 .container p {
 	text-align: justify;
 }
+
 .intro {
 	display: flex;
 	position: relative;
 	flex-direction: column nowrap;
 	flex-flow: column nowrap;
 	max-width: 560px;
-	margin: 0.5%;
-	padding: 1%;
+	margin-top: 1.5%;
 	background-color: dodgerblue;
+	border-style: solid;
 }
 
 .intro h3 {
@@ -29,5 +32,4 @@
 	background-color: lemonchiffon;
 	max-width: 560px;
 	color: blue;
-	font-size: calc(10%, 40%, 100%);
 }
