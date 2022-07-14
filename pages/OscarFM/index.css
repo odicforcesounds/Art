@@ -1,15 +1,11 @@
 .container {
-	text-align: center;
 	background: url("./backgrounds/MonkeyTouch.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
-
 	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
-	margin-top: 0%;
 	/* Set up positioning */
 	position: absolute;
-	left: 0;
 }
 
 #msg {
