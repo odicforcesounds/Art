@@ -1,49 +1,29 @@
-h1 {
-	font-size: 36px;
-	color: black;
-}
-
-.table {
-	text-align: center;
-}
-.table tr {
-	text-align: center;
-}
-.table span {
-	text-align: center;
-}
-/* HTML ID's  */
-
-#main {
+.container {
 	background: url("../Expression/backgrounds/Tree_of_life.jpg") no-repeat
 		no-repeat fixed;
 	background-size: cover;
-	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
-	margin-top: 0%;
-
-	/* Set up positioning */
 	position: absolute;
-	left: 0;
 }
 
-#main table {
-	text-align: center;
-}
-#main tbody {
+.content {
 	text-align: center;
 }
 
-#signals {
-	font-size: 28px;
-	text-align: center;
-}
-
-#main a {
-	text-align: center;
-	font-size: 28px;
-	color: rgb(102, 255, 0);
+.signals {
 	background-color: black;
-	width: 60%;
+}
+
+header {
+	margin-bottom: 14em;
+}
+
+nav {
+	margin-right: 8em;
+}
+
+#Dao img {
+	background-color: black;
+	padding: 0.1em;
 }
