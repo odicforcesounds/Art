@@ -1,13 +1,20 @@
-#main {
-	text-align: center;
+.container {
 	background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
-	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
-	margin: 0%;
-
-	/* Set up positioning */
 	position: absolute;
-	left: 0;
+}
+
+.content {
+	text-align: center;
+	margin-top: 4rem;
+}
+
+.content p {
+	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
+}
+
+footer {
+	text-align: center;
 }
