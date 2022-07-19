@@ -5,16 +5,11 @@ html {
 }
 
 .container {
-	text-align: center;
 	background: url("./backgrounds/a3887102955_10.jpg") no-repeat no-repeat fixed;
 	background-size: cover;
-	/* Set up proportionate scaling */
 	min-width: 100%;
 	min-height: 100%;
-	margin-top: 01%;
-	/* Set up positioning */
 	position: absolute;
-	left: 0;
 }
 
 a {
@@ -24,4 +19,3 @@ a {
 	align-content: center;
 	align-self: center;
 }
-

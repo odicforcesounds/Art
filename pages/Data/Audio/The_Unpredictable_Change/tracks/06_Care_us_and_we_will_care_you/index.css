@@ -1,24 +1,25 @@
-html {
-	margin: 0;
-	padding: 0;
-	background-color: #000;
-}
-
-#main {
-	text-align: center;
-}
-
-#main {
-	text-align: center;
-	background: url("../../backgrounds/a3887102955_10.jpg") no-repeat no-repeat
-		fixed;
-	background-size: cover;
-	/* Set up proportionate scaling */
+.container {
 	min-width: 100%;
 	min-height: 100%;
-	margin-top: 0%;
-
-	/* Set up positioning */
 	position: absolute;
-	left: 0;
+	background-color: black;
+}
+
+.content {
+	text-align: center;
+}
+
+.content p {
+	background-color: black;
+	line-height: 2em;
+	display: inline;
+}
+
+footer a {
+	color: white;
+}
+
+footer {
+	text-align: center;
+	color: yellow;
 }
