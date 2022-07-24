@@ -84,3 +84,12 @@ a {
 	background-color: darkkhaki;
 	padding: 0.5%;
 }
+
+.desc5 {
+	color: lightskyblue;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	line-height: 2em;
+	text-align: justify;
+	background-color: darkslateblue;
+	padding: 0.5%;
+}
