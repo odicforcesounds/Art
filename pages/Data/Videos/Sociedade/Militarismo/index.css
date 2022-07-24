@@ -3,6 +3,8 @@
 	flex-direction: row nowrap;
 	flex-flow: wrap;
 	position: relative;
+	background-color: darkgreen;
+	justify-content: space-between;
 }
 
 .container p {
@@ -16,18 +18,25 @@
 	max-width: 560px;
 	margin: 0.5%;
 	padding: 1%;
-	background-color: dodgerblue;
+	background-color: darkgray;
 }
 
 .intro h3 {
 	text-align: center;
-	background-color: aliceblue;
+	background-color: brown;
 	max-width: 560px;
+	color: lightgreen;
 }
 
 .desc {
-	background-color: lemonchiffon;
+	background-color: darkorange;
 	max-width: 560px;
-	color: blue;
+	color: black;
+	padding: 0.5%;
 	font-size: calc(10%, 40%, 100%);
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
 }

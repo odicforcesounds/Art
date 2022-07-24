@@ -5,6 +5,7 @@
 	justify-content: space-around;
 	position: relative;
 	text-align: center;
+	background-color: blue;
 }
 
 .container p {
@@ -24,12 +25,18 @@
 
 .intro h3 {
 	text-align: center;
-	background-color: aliceblue;
+	background-color: lightgreen;
+	color: black;
 	max-width: 560px;
 }
 
 .desc {
-	background-color: lemonchiffon;
+	background-color: cyan;
 	max-width: 560px;
 	color: blue;
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
 }
