@@ -3,6 +3,8 @@
 	flex-direction: row nowrap;
 	flex-flow: wrap;
 	position: relative;
+	background-color: darkblue;
+	justify-content: space-between;
 }
 
 .container p {
@@ -30,4 +32,8 @@
 	max-width: 560px;
 	color: blue;
 	font-size: calc(10%, 40%, 100%);
+}
+
+a {
+	color: yellow;
 }
