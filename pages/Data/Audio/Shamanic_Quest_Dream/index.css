@@ -16,12 +16,17 @@ body {
 	background-color: black;
 }
 
+.tlinky {
+	width: 42px;
+	height: 42px;
+	top: 2em;
+}
+
 #main {
 	font-size: calc(1.5vw + 1vh + 0.2vmin);
 	position: relative;
 	display: flex;
-	text-align: center;
-	/* Safari */
+	flex-direction: row nowrap;
 	width: max-content;
 	margin-top: 0%;
 }
@@ -39,7 +44,9 @@ body {
 }
 
 a {
-	color: yellow;
+	color: white;
+	text-decoration: none;
+	list-style: none;
 }
 
 .t1 {
@@ -75,4 +82,9 @@ a {
 	display: flex;
 	flex-direction: column;
 	flex-flow: row nowrap;
+}
+
+.tlinky {
+	width: 42px;
+	height: 42px;
 }
