@@ -1,147 +1,66 @@
+html,
+body {
+	margin: 0%;
+	margin-top: 0%;
+	padding: 0%;
+	background-color: black;
+}
+
 .container {
-	background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
+	background-image: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FYinYang_Full.jpg?alt=media);
+	background-repeat: no-repeat;
 	background-size: cover;
-	/* Set up proportionate scaling */
+	background-attachment: fixed;
+	background-position: center center;
 	min-width: 100%;
 	min-height: 100%;
-	margin: 0%;
-
-	/* Set up positioning */
 	position: absolute;
-	left: 0;
 }
 
-#main {
-	margin-top: 4em;
-}
-
-#vt {
-	display: flex;
-	padding: 1rem;
-	flex-direction: row;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#vt a {
-	color: yellow;
-	background-color: black;
-}
-
-#mw {
-	display: flex;
-	flex-direction: row;
-	padding: 1rem;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#mw a {
-	color: yellow;
-	background-color: black;
-}
-
-#st {
-	display: flex;
-	padding: 1rem;
-	flex-direction: row;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#st a {
-	color: yellow;
-	background-color: black;
-}
-
-#skd {
-	display: flex;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-	padding: 1rem;
-	flex-direction: row;
-}
-
-#skd a {
-	color: yellow;
-	background-color: black;
-}
-
-#ed {
-	display: flex;
-	padding: 1rem;
-	flex-direction: row;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#ed a {
-	color: yellow;
-	background-color: black;
-}
-
-#nf {
-	display: flex;
-	flex-direction: row;
-	padding: 1rem;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#nf a {
-	color: yellow;
-	background-color: black;
-}
-
-#es {
-	display: flex;
-	flex-direction: row;
-	padding: 1rem;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#es a {
-	color: yellow;
-	background-color: black;
-}
-
-#ot {
-	display: flex;
-	flex-direction: row;
-	padding: 1rem;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-#ot a {
-	color: yellow;
-	background-color: black;
-}
-
-#wb {
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-	padding: 1rem;
-}
-
-#left {
-	display: flex-start;
-	flex-direction: row;
-	flex-flow: column nowrap;
+.content {
+	margin-top: 2em;
 	position: relative;
-	float: left;
+	text-align: center;
+	display: flex;
 }
 
-#right {
-	display: flex-end;
-	flex-direction: column;
-	flex-flow: row nowrap;
-	position: relative;
-	float: right;
+.sideL {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.sideL p {
+	text-align: center;
+	margin: 1em;
+}
+
+.sideR {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.sideR p {
+	text-align: center;
+	margin: 1em;
+}
+
+.item {
+	display: inline;
+	background-color: black;
+}
+
+.item a {
+	text-decoration: none;
+	justify-content: center;
+	font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+	color: yellow;
 }
 
 #upper {
-	display: flex;
-	flex-direction: row;
-	flex-flow: column nowrap;
 	position: relative;
 	text-align: center;
-}
-
-#tao {
-	float: right;
 }
 
 #Dao {
@@ -149,26 +68,16 @@
 	position: relative;
 }
 
-.spiritual {
-	text-align: center;
-	margin-top: 2%;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
-.spiritual a {
-	background-color: black;
-	color: yellow;
-	font-size: calc(3.1vw + 0.7vh + 0.2vmin);
-}
-
 .player {
 	text-align: center;
-}
-
-.player iframe {
-	margin-top: 3em;
+	margin-bottom: 2em;
 }
 
 .foot {
-	margin-top: 2rem;
+	text-align: center;
+}
+
+.icon {
+	width: 62px;
+	height: 62px;
 }

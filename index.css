@@ -1,25 +1,101 @@
+html,
+body {
+	margin: 0%;
+	margin-top: 0%;
+	padding: 0%;
+	background-color: black;
+}
+header {
+	text-align: center;
+}
+a {
+	color: yellow;
+	text-decoration: none;
+}
+
+nav {
+	flex-flow: column wrap;
+	align-content: center;
+}
+
+nav ul {
+	top: 0;
+	flex-direction: column-reverse;
+}
+
+nav li {
+	list-style: none;
+	display: inline;
+}
+
+.topmenus {
+	display: flex;
+	flex-direction: column nowrap;
+	flex-flow: column nowrap;
+	justify-content: space-between;
+}
+
+/* Tamanho das dos ICONS do site */
+.tlinky {
+	width: 60px;
+	height: 60px;
+}
+
+.tlinkd {
+	width: 60px;
+	height: 60px;
+}
+.tlinkh {
+	width: 60px;
+	height: 60px;
+}
+
+#OscarFM {
+	float: right;
+	margin-right: 2em;
+}
 .container {
-	background: url("./backgrounds/peaceCode.jpg") no-repeat no-repeat fixed;
+	background-image: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FpeaceCode.webp?alt=media);
+	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
 	min-width: 100%;
 	min-height: 100%;
 	position: absolute;
 }
 
 .title {
-	font-size: 42px;
+	font-size: calc(4wv, 0.7hv, 0.3vw);
 	color: white;
+	margin-top: 2em;
+	letter-spacing: 1.5px;
 }
 
-.description {
-	font-size: 32px;
+.description1 {
 	color: cyan;
 	background-color: black;
+	font-size: calc(4wv, 0.5hv, 0.1vw);
 	display: inline;
+	line-height: 4em;
+	padding: 0.7%;
+	letter-spacing: 2px;
+}
+.description2 {
+	color: white;
+	background-color: black;
+	font-size: calc(4wv, 0.5hv, 0.1vw);
+	display: inline;
+	line-height: 4em;
+	padding: 0.7%;
+	letter-spacing: 5px;
 }
 
 .player {
 	position: relative;
-	margin-top: 10%;
+	text-align: center;
+}
+
+.main {
 	text-align: center;
 }

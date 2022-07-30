@@ -1,32 +1,36 @@
-#image{
-  margin-top: 1rem;
-  text-align: center;
+#image {
+	margin-top: 1rem;
+	text-align: center;
 }
 
-#description{
-  position: relative;
-  text-align: justify;
-  width: 80%;
-  margin-left: 10%;
+#description {
+	position: relative;
+	text-align: justify;
+	width: 80%;
+	margin-left: 10%;
 }
 
-#description p{
-  margin: 2rem;
-  text-align: justify;
-  text-align: justify;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+#description p {
+	margin: 2rem;
+	text-align: justify;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
-
+html,
+body {
+	margin: 0%;
+	margin-top: 0%;
+	padding: 0%;
+	background-color: black;
+}
 
 .container {
-  text-align: center;
-  background: url("./backgrounds/shivakalidance.jpg") no-repeat no-repeat fixed;
-  background-size: cover;
-  /* Set up proportionate scaling */
-  min-width: 100%;
-  min-height: 100%;
-  margin-top: -1%;
-  /* Set up positioning */
-  position: absolute;
-  left: 0;
+	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2Fshivakalidance.webp?alt=media);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
 }
+

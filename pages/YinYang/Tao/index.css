@@ -1,6 +1,17 @@
+html,
+body {
+	margin: 0%;
+	margin-top: 0%;
+	padding: 0%;
+	background-color: black;
+}
+
 .container {
-	background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
+	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FTao.webp?alt=media);
+	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
 	min-width: 100%;
 	min-height: 100%;
 	position: absolute;
