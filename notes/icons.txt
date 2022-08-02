@@ -66,3 +66,4 @@ https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2F
 
 
 
+font-size: calc(2vw + 0.5vh + 0.2vmin);
