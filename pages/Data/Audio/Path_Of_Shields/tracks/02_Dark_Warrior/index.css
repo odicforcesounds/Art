@@ -4,21 +4,6 @@
 	top: 1em;
 }
 
-.t1 {
-	position: relative;
-	display: flex;
-	flex-direction: column;
-	flex-flow: row wrap;
-	text-align: center;
-}
-
-.be {
-	display: inline;
-	background-color: black;
-	font-size: calc(3vw + 0.5vh + 0.2vmin);
-	margin: 5%;
-	line-height: 1em;
-}
 html,
 body {
 	margin: 0%;
@@ -79,5 +64,6 @@ footer {
 footer p {
 	color: cyan;
 	background-color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: inline;
 }

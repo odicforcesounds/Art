@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FTao.webp?alt=media);
+	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/last_uploads%2FDAO2.webp?alt=media);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -23,7 +23,7 @@ body {
 }
 
 .content p {
-	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	color: cyan;
 }
 

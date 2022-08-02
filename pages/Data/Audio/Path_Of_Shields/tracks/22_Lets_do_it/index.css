@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FPathOfShelds.webp?alt=media);
+	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/last_uploads%2Ftake_me_now.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -58,5 +58,6 @@ footer {
 footer p {
 	color: cyan;
 	background-color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: inline;
 }

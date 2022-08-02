@@ -54,10 +54,9 @@ footer {
 	text-decoration: none;
 	justify-content: center;
 }
-
 footer p {
 	color: cyan;
 	background-color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: inline;
 }
-

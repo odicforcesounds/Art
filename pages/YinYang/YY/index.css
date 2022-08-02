@@ -81,3 +81,13 @@ body {
 	width: 62px;
 	height: 62px;
 }
+
+#Tao {
+	justify-content: left;
+}
+
+.tlinky {
+	width: 62px;
+	height: 62px;
+	top: 2em;
+}
