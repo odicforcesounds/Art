@@ -1,3 +1,5 @@
+font-size: calc(2vw + 0.5vh + 0.2vmin);
+
 # TOP Icons
 https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2FTao.webp?alt=media
 https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2FYinYang.webp?alt=media&
@@ -65,5 +67,3 @@ zodiac
 https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2Fzodiac.ico?alt=media
 
 
-
-font-size: calc(2vw + 0.5vh + 0.2vmin);
