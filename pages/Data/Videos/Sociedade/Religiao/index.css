@@ -52,3 +52,9 @@ header {
 a {
 	text-decoration: none;
 }
+.attention p {
+	background-color: darkblue;
+	color: orange;
+	margin-left: 2em;
+	margin-right: 2em;
+}
