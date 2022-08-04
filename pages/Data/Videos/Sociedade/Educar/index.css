@@ -21,19 +21,18 @@
 	background-color: dodgerblue;
 }
 
-.intro h3 {
+.intro h1 {
 	text-align: center;
 	background-color: aliceblue;
-	max-width: 560px;
 }
 
 .desc {
 	background-color: lemonchiffon;
-	max-width: 560px;
 	color: blue;
-	font-size: calc(10%, 40%, 100%);
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 a {
 	color: yellow;
+	text-decoration: none;
 }
