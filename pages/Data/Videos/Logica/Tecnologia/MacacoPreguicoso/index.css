@@ -3,7 +3,7 @@
 	flex-direction: row nowrap;
 	flex-flow: wrap;
 	position: relative;
-	justify-content: space-between;
+	justify-content: space-evenly;
 	background-color: black;
 }
 
@@ -15,16 +15,16 @@
 	position: relative;
 	flex-direction: column nowrap;
 	flex-flow: column nowrap;
-	max-width: 560px;
-	margin: 0.5%;
+	max-width: 460px;
+	justify-content: space-around;
 	padding: 1%;
 	background-color: darkcyan;
 }
 
-.intro h3 {
-	text-align: center;
+.intro h1 {
 	background-color: black;
 	color: cadetblue;
+	font-size: small;
 }
 
 .desc {
@@ -53,4 +53,38 @@ h1 {
 a {
 	color: yellow;
 	text-decoration: none;
+}
+
+.togCheck {
+	display: none;
+}
+.togContent {
+	max-height: 0;
+	opacity: 0;
+	visibility: hidden;
+	transition: max-height 1s;
+}
+
+.togCheck:checked + .togContent {
+	max-height: 100vh; /* any insanely large number if a lot of contents */
+	opacity: 1;
+	visibility: visible;
+}
+/* (X2) TOGGLE BUTTON */
+.togButton {
+	display: block;
+	width: 97%;
+	padding: 10px;
+	color: #fff;
+	background: #00409f;
+	cursor: pointer;
+}
+
+/* (X3) CONTENT */
+.togContent {
+	background: #f4f6ff;
+}
+.togContent p {
+	padding: 50px 10px;
+	margin: 0;
 }
