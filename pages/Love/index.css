@@ -95,3 +95,14 @@ body {
 .mnotes {
 	color: burlywood;
 }
+
+.videos {
+	display: flex;
+	flex-direction: row;
+	flex-flow: wrap;
+}
+
+.videos iframe {
+	margin: 2em;
+	justify-content: center;
+}
