@@ -100,9 +100,9 @@ body {
 	display: flex;
 	flex-direction: row;
 	flex-flow: wrap;
+	justify-content: space-around;
 }
 
-.videos iframe {
-	margin: 2em;
+iframe {
 	justify-content: center;
 }

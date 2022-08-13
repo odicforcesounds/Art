@@ -15,12 +15,16 @@ body {
 	min-height: 100%;
 	position: absolute;
 }
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
+}
 .content {
 	position: relative;
 	width: 95%;
 	margin-top: 3em;
-	margin-left: 2rem;
-	margin-right: 4rem;
+	margin-left: 1em;
+	margin-right: 1em;
 	text-align: center;
 }
 

@@ -22,27 +22,6 @@ body {
 	top: 2em;
 }
 
-#main {
-	font-size: calc(1.5vw + 1vh + 0.2vmin);
-	position: relative;
-	display: flex;
-	flex-direction: row nowrap;
-	width: max-content;
-	margin-top: 0%;
-}
-
-#main div {
-	text-align: center;
-	padding: 0.7em;
-	position: relative;
-}
-
-#main div a {
-	position: relative;
-	display: inline-flex;
-	margin: 1em;
-}
-
 a {
 	color: white;
 	text-decoration: none;
@@ -50,41 +29,21 @@ a {
 }
 
 .t1 {
-	width: max-content;
-	position: relative;
-}
-
-.t2 {
-	width: max-content;
-	position: relative;
-}
-
-.t3 {
-	width: max-content;
-	position: relative;
-}
-
-.t4 {
-	width: max-content;
-	position: relative;
-}
-
-.t5 {
-	width: max-content;
-	position: relative;
-	display: flex;
-	flex-direction: row-reverse;
-	flex-flow: column-reverse;
-}
-
-#table {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	flex-flow: row nowrap;
+	flex-flow: row wrap;
+	text-align: center;
 }
 
-.tlinky {
-	width: 42px;
-	height: 42px;
+.be {
+	display: inline;
+	background-color: black;
+	font-size: calc(3vw + 0.5vh + 0.2vmin);
+	margin: 5%;
+	line-height: 1em;
+}
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
 }
