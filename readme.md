@@ -61,8 +61,8 @@ Is everything Monkey do in this space. Text is not the best, while can become be
   3. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may criticise what ever you see that can become better, giving me suggestions about it.
   - ( in any artwork content ) and ( in any video content ), Monkey ask that your negative expression about anything Monkey did express, should use logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
   - Monkey can become better, which means: Monkey can change the way, Monkey thinks. ( new perspectives are always welcome! )
-  4. About Monkeys Gifts, Application:
-  - Read the Document related to them.
-  - emails refer to users
-  - gps refer to actions
-  - make a realtime animation of each action around the world? ( I am not able to do that while I can imagine someone can )
+- About Monkeys Gifts, Application:
+  1. Read the Document related to them.
+  2. emails refer to users
+  3. gps refer to actions
+  4. make a realtime animation of each action around the world? ( I am not able to do that while I can imagine someone can )
