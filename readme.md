@@ -43,7 +43,7 @@ Is everything Monkey do in this space. Text is not the best, while can become be
      3. Example:
         1. pages/Data/Audio/Emotional_Signals/tracks/12_Hacking_Festival/index.html
         - You know that are billions of websites sharing content about hacking..
-        - This is just one single page can become better! ( Your Freedom to share the best )
+        - This is just one single page, that can become better! ( Your Freedom to share the best )
         - Maybe can have several themes..
         - Maybe can refer to better links..
         - Maybe you will contribute.
