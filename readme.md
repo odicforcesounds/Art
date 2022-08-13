@@ -20,11 +20,11 @@ Is everything Monkey do in this space. Text is not the best, while can become be
 - Notes:
 
   1. The Content that is in the suggestion to be changed ( or upgrade information about it ) needs to be in:
-     a. pages/Data/Audio/ALBUM*NAME/tracks/TRACK_NUMBER
-     b. pages/Data/Videos/TOPIC/SPECIFIC_VIDEO*(TITLE)
+     1. pages/Data/Audio/ALBUM\*NAME/tracks/TRACK_NUMBER
+     2. pages/Data/Videos/TOPIC/SPECIFIC_VIDEO\*(TITLE)
   2. Note that most of the Video content, is in Portuguese Language and most of them are sensible content ( +18 ) ( no PORN )
   3. Each Video can have a big text refering knowledge. (knowledge can be defined as something real or imaginary -> Comparative )
-     a. If you wish to add more, please setup a new page in pages/Data/Videos/USERNAME_PULL_REQUEST refering the Video and description.
+     1. If you wish to add more, please setup a new page in pages/Data/Videos/USERNAME_PULL_REQUEST refering the Video and description.
   4. Each page can use HTML, CSS and JavaScript.
 
 Monkey hopes to find as many contribuitions each singularity on Earth can share, while that is too much, maybe the best from each singularity is a good choice. Let me know and if you wish to tell me something, please considere to comment one of my videos on Youtube or send me an email to OM @ OdicforceSounds DOT com ( for business and some personal message ) -> Please try to be kind! Thank You!
