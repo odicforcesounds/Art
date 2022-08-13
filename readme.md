@@ -1,6 +1,8 @@
 # The Challenge
 
-# The Way (Dao) - git
+# The Way (Dao)
+
+## github
 
 This website is about the Monkey King ( Sun Wukong ) as a condition of someone who dreams about it.<br>
 Dreams can be described in sort of Sound, Image and Text.<br>
@@ -22,7 +24,9 @@ Is everything Monkey do in this space. Text is not the best, while can become be
 7. If you don't wish to share your REAL_USERNAME, as creator of some imaginary content, as a way to teach something for adults and children, please considere to create a "ghost" profile.
 8. Monkey focus in the quality of the content each pull request aims to share, not the user it self.
 
-# The Condition (Tao) - code(html+css+js) + text-content + pull_request
+# The Condition (Tao)
+
+## code(html+css+js) + text-content + pull_request
 
 - Notes:
 
