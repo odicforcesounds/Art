@@ -20,8 +20,8 @@ body {
 	position: relative;
 	width: 95%;
 	margin-top: 3em;
-	margin-left: 2rem;
-	margin-right: 4rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
 	text-align: center;
 }
 
@@ -32,6 +32,11 @@ body {
 	background-color: black;
 	color: cyan;
 	padding: 0.5%;
+}
+
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
 }
 
 .tlinky {
@@ -51,8 +56,6 @@ a {
 
 footer {
 	text-align: center;
-	text-decoration: none;
-	justify-content: center;
 }
 
 footer p {
