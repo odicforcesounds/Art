@@ -58,5 +58,6 @@ Is everything Monkey do in this space. Text is not the best, while can become be
 - Let me know and if you wish to tell me something:
   1. Please considere to comment one of my videos on Youtube ( for personal comments )
   2. Send me an email to OM @ OdicforceSounds DOT com ( for business )
-  3. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may criticise what ever you see that can become better, giving me suggestions about it. ( in any artwork content ) and ( in any video content ), Monkey ask that your negative expression about anything Monkey did express, should use logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
+  3. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may criticise what ever you see that can become better, giving me suggestions about it.
+  - ( in any artwork content ) and ( in any video content ), Monkey ask that your negative expression about anything Monkey did express, should use logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
   4. Monkey can become better, which means: Monkey can change the way, Monkey thinks. ( new perspectives are always welcome! )
