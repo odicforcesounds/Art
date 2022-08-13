@@ -49,11 +49,13 @@ Is everything Monkey do in this space. Text is not the best, while can become be
         - Maybe you will contribute.
   3. Each page can use HTML, CSS and JavaScript.
 
-# Expression - Last words
+# Expression
+
+## Last words
 
 - Monkey hopes to find as many contribuitions each singularity on Earth can share, while that is too much, maybe the best from each singularity is a good choice.
 - Let me know and if you wish to tell me something:
-  1. please considere to comment one of my videos on Youtube ( for personal comments )
-  2. send me an email to OM @ OdicforceSounds DOT com ( for business ) Please try to be kind! Thank You!
-  3. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may can criticise what ever you see that can become better, giving me suggestions about it. ( in any artwork content ) and ( in any video content ), while Monkey ask that your negative expression about anything Monkey did express, that uses logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
+  1. Please considere to comment one of my videos on Youtube ( for personal comments )
+  2. Send me an email to OM @ OdicforceSounds DOT com ( for business )
+  3. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may criticise what ever you see that can become better, giving me suggestions about it. ( in any artwork content ) and ( in any video content ), Monkey ask that your negative expression about anything Monkey did express, should use logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
   4. Monkey can become better, which means: Monkey can change the way, Monkey thinks. ( new perspectives are always welcome! )
