@@ -19,10 +19,10 @@ Is everything Monkey do in this space. Text is not the best, while can become be
 2. All the source is OpenSource ( Free to read and to modify (here at this site))
 
 - Please modify page content as you like and share with me, so I can share with everyone else who visit the site. <br>
+- Your name as a author of any content is optional, while is always connected to a pull request in github repository, that is based on some user.
+- If you don't wish to share your REAL_USERNAME, as creator of some imaginary content, as a way to teach something for adults and children, please considere to create a "ghost" profile.
 
-6. Your name as a author of any content is optional, while is always connected to a pull request in github repository, that is based on some user.
-7. If you don't wish to share your REAL_USERNAME, as creator of some imaginary content, as a way to teach something for adults and children, please considere to create a "ghost" profile.
-8. Monkey focus in the quality of the content each pull request aims to share, not the user it self.
+3. Monkey focus in the quality of the content each pull request aims to share, not the user it self.
 
 # The Condition (Tao)
 
