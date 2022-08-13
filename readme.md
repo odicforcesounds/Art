@@ -4,7 +4,7 @@
 
 ## github
 
-This website is about the Monkey King ( Sun Wukong ) as a condition of someone who dreams about it.<br>
+This github repository is about Monkey King ( Sun Wukong ) website, as a condition of someone who dreams about it.<br>
 Dreams can be described in sort of Sound, Image and Text.<br>
 Is everything Monkey do in this space. Text is not the best, while can become better. <br>
 
