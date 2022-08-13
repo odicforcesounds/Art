@@ -11,12 +11,12 @@ Is everything Monkey do in this space. Text is not the best, while can become be
 1. If you wish to add more information to one single page ( of any of Monkey Albums tracks )
 
 - Please considere to create a pull request with the content you wish to see in that page.<br>
+- Please, try to explain in a way that everyone can understand. <br>
+  We can create literature, but this site aims to educate children too, so be kind. <br>
+- Be sure you Agree with 'OdicforceSounds' <b>Eternal License</b>. <br>
+- Try to be original, while you should try to be only you ( that is your originality ).
 
-2. Please, try to explain in a way that everyone can understand. <br>
-   We can create literature, but this site aims to educate children too, so be kind. <br>
-3. Be sure you Agree with 'OdicforceSounds' <b>Eternal License</b>. <br>
-4. Try to be original, while you should try to be only you ( that is your originality ).
-5. All the source is OpenSource ( Free to read and to modify (here at this site))
+2. All the source is OpenSource ( Free to read and to modify (here at this site))
 
 - Please modify page content as you like and share with me, so I can share with everyone else who visit the site. <br>
 
