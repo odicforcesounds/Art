@@ -68,3 +68,7 @@ footer p {
 	margin: 1em;
 	justify-content: center;
 }
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
+}

@@ -49,6 +49,12 @@ Is everything Monkey do in this space. Text is not the best, while can become be
         - Maybe can refer to better links..
         - Maybe you will contribute.
   3. Each page can use HTML, CSS and JavaScript.
+  4. Some pages are reserved:
+
+  - Emotional Signals / We Came In Peace
+  - Shamanic Quest Dream / Lets Make Business
+  - ... add more (I need to organize all) - TODOS
+    - Reserved tracks are tracks that is reserved to me. (Only me can change them as they are the principle)
 
 # Expression
 
@@ -63,6 +69,6 @@ Is everything Monkey do in this space. Text is not the best, while can become be
   - Monkey can become better, which means: Monkey can change the way, Monkey thinks. ( new perspectives are always welcome! )
 - About Monkeys Gifts, Application:
   1. Read the Document related to them.
-  2. emails refer to users
-  3. gps refer to actions
-  4. make a realtime animation of each action around the world? ( I am not able to do that while I can imagine someone can )
+  2. Emails refer to users
+  3. GPS refer to actions
+  4. Make a realtime animation of each action around the world? ( I am not able to do that while I can imagine someone can )
