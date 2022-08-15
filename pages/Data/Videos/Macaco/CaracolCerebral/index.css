@@ -41,6 +41,12 @@
 	padding: 0.5%;
 }
 
+.intro iframe {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 .desc {
 	background-color: darkblue;
 	color: cyan;
