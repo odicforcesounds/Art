@@ -26,7 +26,6 @@ body {
 
 .content p {
 	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	display: inline;
 	line-height: 4em;
 	background-color: black;
 	color: cyan;
