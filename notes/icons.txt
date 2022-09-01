@@ -7,6 +7,23 @@ https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2F
 
 # nav>ul>li
 
+TRACKS - TOP MENU - HTML HEADER 
+
+
+<header>
+<nav>
+<ul>
+<li id="OscarFM">
+<a href="../../../../../OscarFM/index.html"
+><img
+class="tlinkh"
+src="https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2Fmonkey.webp?alt=media"
+/></a>
+</li>
+</ul>
+</nav>
+</header>
+
 <li id="Dao"><a href="../../YinYang/Dao/index.html"><img class="tlink" src="https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2FTao.webp?alt=media" /></a></li>
 <li><a href="../../../../../YinYang/YY/index.html"><img src="https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2FYinYang.webp?alt=media&" class="tlinky"></a></li>
 <li><a href="../../../YinYang/YY/index.html"><img src="https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2FYinYang.webp?alt=media&" class="tlinky"></a></li>

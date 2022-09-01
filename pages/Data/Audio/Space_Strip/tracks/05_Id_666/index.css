@@ -16,25 +16,13 @@ body {
 	min-height: 100%;
 	position: absolute;
 }
-
-#description {
-	position: relative;
-	margin-left: 10%;
-	width: 80%;
-}
-
-#description p {
-	color: lightblue;
-	text-align: justify;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-}
 .content {
 	position: relative;
 	width: 95%;
 	margin-top: 3em;
 	margin-left: 2rem;
 	margin-right: 4rem;
-	text-align: center;
+	text-align: justify;
 }
 
 .content p {
