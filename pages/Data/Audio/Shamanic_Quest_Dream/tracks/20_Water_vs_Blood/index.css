@@ -61,3 +61,7 @@ footer p {
 	font-size: calc(2vw + 0.5vh + 0.2vmin);
 	display: inline;
 }
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
+}
