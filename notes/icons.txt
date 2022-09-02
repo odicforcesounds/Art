@@ -9,7 +9,6 @@ https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2F
 
 TRACKS - TOP MENU - HTML HEADER 
 
-
 <header>
 <nav>
 <ul>
@@ -83,4 +82,4 @@ https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2F
 zodiac
 https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/icons%2Fzodiac.ico?alt=media
 
-
+ok! Now everything seams to work fine!

@@ -60,3 +60,7 @@ footer p {
 	background-color: black;
 	display: inline;
 }
+nav ul li {
+	text-decoration: none;
+	list-style-type: none;
+}

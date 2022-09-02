@@ -8,52 +8,23 @@ body {
 header {
 	text-align: center;
 }
-a {
-	color: yellow;
+
+nav ul li {
+	list-style: none;
 	text-decoration: none;
 }
 
-nav {
-	flex-flow: column wrap;
-	align-content: center;
+.content {
+	text-align: center;
+	padding: 2rem;
+	margin-bottom: 3em;
 }
 
-nav ul {
-	top: 0;
-	flex-direction: column-reverse;
-}
-
-nav li {
-	list-style: none;
-	display: inline;
-}
-
-.topmenus {
-	display: flex;
-	flex-direction: column nowrap;
-	flex-flow: column nowrap;
-	justify-content: space-between;
-}
-
-/* Tamanho das dos ICONS do site */
-.tlinky {
-	width: 60px;
-	height: 60px;
-}
-
-.tlinkd {
-	width: 60px;
-	height: 60px;
-}
 .tlinkh {
 	width: 60px;
 	height: 60px;
 }
 
-#OscarFM {
-	float: right;
-	margin-right: 2em;
-}
 .container {
 	background-image: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FpeaceCode.webp?alt=media);
 	background-repeat: no-repeat;
@@ -93,9 +64,5 @@ nav li {
 
 .player {
 	position: relative;
-	text-align: center;
-}
-
-.main {
 	text-align: center;
 }
