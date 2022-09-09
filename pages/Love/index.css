@@ -106,3 +106,8 @@ body {
 iframe {
 	justify-content: center;
 }
+
+.img {
+	text-align: center;
+	justify-content: center;
+}
