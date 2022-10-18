@@ -3,6 +3,9 @@
 	flex-direction: row nowrap;
 	flex-flow: wrap;
 	position: relative;
+        margin:2%;
+        padding:1%;
+        background-color: midnightblue;
 }
 
 .container p {
@@ -13,21 +16,18 @@
 	position: relative;
 	flex-direction: column nowrap;
 	flex-flow: column nowrap;
-	max-width: 560px;
 	margin: 0.5%;
 	padding: 1%;
 	background-color: dodgerblue;
 }
 
-.intro h3 {
+.intro h1 {
 	text-align: center;
 	background-color: aliceblue;
-	max-width: 560px;
 }
 
 .desc {
 	background-color: lemonchiffon;
-	max-width: 560px;
 	color: blue;
-	font-size: calc(10%, 40%, 100%);
+	font-size: calc(10%, 30%, 100%);
 }

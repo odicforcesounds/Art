@@ -1,8 +1,10 @@
 .container {
 	display: flex;
-	flex-direction: row nowrap;
-	flex-flow: wrap;
+	flex-direction: row wrap;
+	flex-flow: row wrap;
 	position: relative;
+        margin:2%;
+        padding:3%;
 }
 
 .container p {
@@ -11,23 +13,19 @@
 .intro {
 	display: flex;
 	position: relative;
-	flex-direction: column nowrap;
-	flex-flow: column nowrap;
-	max-width: 560px;
-	margin: 0.5%;
-	padding: 1%;
+	flex-direction: column;
+	flex-flow: wrap;
+        justify-content: space-between;
 	background-color: dodgerblue;
 }
 
-.intro h3 {
+.intro h1 {
 	text-align: center;
 	background-color: aliceblue;
-	max-width: 560px;
 }
 
 .desc {
 	background-color: lemonchiffon;
-	max-width: 560px;
 	color: blue;
-	font-size: calc(10%, 40%, 100%);
+	font-size: calc(10%, 30%, 100%);
 }
