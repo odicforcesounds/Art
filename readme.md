@@ -1,1 +1,1 @@
-All content was moved to https://github.com/ComparativeExpression 
+All content was moved to https://github.com/ComparativeExpression/ArtisticExpression
