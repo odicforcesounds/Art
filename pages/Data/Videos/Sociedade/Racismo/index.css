@@ -1,0 +1,46 @@
+.container {
+  background: linear-gradient(100deg, black, white);
+  text-align:center;
+}
+
+.player{
+  text-align:center;
+}
+
+.left{
+  display:flex;
+  flex-direction:column;
+  flex-flow: row wrap;
+  text-align: justify;
+}
+
+.left p{
+  padding: 2%; 
+  background-color:aliceblue;
+  margin:1%;
+  font-size:42px;
+}
+.left a{
+  text-decoration: none;
+  color:white;
+  background-color:black;
+}
+footer span {
+  display: inline;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color: black;
+}

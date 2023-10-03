@@ -1,78 +1,268 @@
 html,
 body {
-	margin: 0.5%;
-	padding: 0.5%;
-	background-color: darkblue;
+  margin: 0.5%;
+  padding: 0.5%;
+  background-color: darkblue;
 }
 
 header {
-	text-align: center;
+  text-align: center;
+}
+
+header a {
+  color: lightgreen;
+  background-color: green;
+  text-decoration: none;
 }
 
 .complemento {
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 a {
-	text-align: center;
-	text-decoration: none;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	color: blue;
+  text-align: center;
+  text-decoration: none;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  color: blue;
 }
 
 .title {
-	color: white;
-	display: flex;
-	justify-content: center;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 .description {
-	color: white;
-	font-size: calc(1vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
+  color: white;
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  text-align: justify;
 }
 
 .desc1 {
-	color: cyan;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
-	background-color: darkgreen;
-	padding: 0.5%;
+  color: cyan;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  text-align: justify;
+  background-color: darkgreen;
+  padding: 0.5%;
 }
+
 .desc2 {
-	color: black;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
-	background-color: darkturquoise;
-	padding: 0.5%;
+  color: black;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  text-align: justify;
+  background-color: darkturquoise;
+  padding: 0.5%;
 }
 
 .desc3 {
-	color: darkturquoise;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
-	background-color: seagreen;
-	padding: 0.5%;
+  color: darkturquoise;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+  text-align: justify;
+  background-color: seagreen;
+  padding: 0.5%;
 }
+
 .lastdesc {
-	color: black;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
-	background-color: darkkhaki;
-	padding: 0.5%;
+  color: black;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  text-align: justify;
+  background-color: darkturquoise;
+  padding: 0.5%;
 }
 
 .desc5 {
-	color: lightskyblue;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	line-height: 2em;
-	text-align: justify;
-	background-color: darkslateblue;
-	padding: 0.5%;
+  color: lightskyblue;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  text-align: justify;
+  background-color: darkslateblue;
+  padding: 0.5%;
+}
+
+.lastdesc_woman {
+  color: gold;
+  background: linear-gradient(50deg, black, cyan);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+}
+
+.lastdesc_woman a {
+  color: pink;
+  background-color: slateblue;
+}
+
+.lastdesc_sham {
+  color: darkblue;
+  background: linear-gradient(90deg, darkslateblue, darkgray);
+  line-height: 2em;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_sham a {
+  color: white;
+}
+
+.lastdesc_relig {
+  color: black;
+  line-height: 2em;
+  background: linear-gradient(90deg, lightblue, darkblue);
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_relig a {
+  color: white;
+  background-color: darkblue;
+}
+
+.lastdesc_racism {
+  color: black;
+  line-height: 2em;
+  background: linear-gradient(90deg, #2c1503, pink);
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_racism a {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.lastdesc_mystic {
+  color: blue;
+  background: linear-gradient(90deg, orange, gold);
+  line-height: 2em;
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_mystic a {
+  color: black;
+}
+
+.lastdesc_mil {
+  color: lightblue;
+  line-height: 2em;
+  background: linear-gradient(90deg, black, darkgreen);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_mil a {
+  color: darkred;
+}
+
+.lastdesc_just {
+  color: black;
+  line-height: 2em;
+  background: linear-gradient(90deg, whitesmoke, grey);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_just a {
+  color: darkorange;
+  background-color: black;
+}
+
+.lastdesc_politic {
+  color: cyan;
+  line-height: 2em;
+  background: linear-gradient(90deg, green, red);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_politic a {
+  color: white;
+}
+
+.lastdesc_tech {
+  color: cyan;
+  line-height: 2em;
+  background: linear-gradient(90deg, black, grey);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_tech a {
+  color: white;
+}
+
+.lastdesc_impro {
+  color: black;
+  background: linear-gradient(90deg, cyan, blue);
+  line-height: 2em;
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_impro a {
+  color: white;
+}
+
+.lastdesc_edu {
+  color: white;
+  background: linear-gradient(60deg, darkblue, cyan);
+  line-height: 2em;
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_edu a {
+  color: black;
+}
+
+.lastdesc_od {
+  line-height: 2em;
+  color: black;
+  background: linear-gradient(60deg, blue, cyan);
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_od a {
+  color: white;
+}
+
+.warn {
+  color: orange;
+  line-height: 2em;
+  background-color: black;
+}
+
+.lastdesc_trib {
+  background: linear-gradient(60deg, grey, blue);
+  line-height: 2em;
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+}
+
+.lastdesc_cara {
+  background: linear-gradient(60deg, slateblue, darkkhaki);
+  line-height: 2em;
+  font-size: calc(1.6vw + 0.5vh + 0.2vmin);
+
+}
+
+.dao {
+  width: 22px;
+  height: 22px;
+}
+
+
+footer span {
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
 }

@@ -1,0 +1,53 @@
+html,
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+}
+
+.container {
+  background-repeat: no-repeat;
+  background: url(./flowofenergy.webp);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+nav ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.content {
+  position: relative;
+  text-align: justify;
+  margin:1rem;
+}
+
+.content p {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  line-height: 4em;
+  background-color: black;
+  color: cyan;
+  padding: 0.5%;
+}
+
+
+.content a {
+  text-decoration: none;
+  color: yellow;
+}
+
+.tlinkh {
+  width: 60px;
+  height: 60px;
+}

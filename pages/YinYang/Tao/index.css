@@ -1,45 +1,67 @@
 html,
 body {
-	margin: 0%;
-	margin-top: 0%;
-	padding: 0%;
-	background-color: black;
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  background-color: black;
 }
 
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/last_uploads%2FDAO2.webp?alt=media);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	min-width: 100%;
-	min-height: 100%;
-	position: absolute;
+  background: url(./3_you_tell_me.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
 }
 
 .content {
-	text-align: center;
-	margin-top: 4rem;
+  text-align: center;
+  margin-top: 4rem;
 }
 
 .content p {
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
-	color: cyan;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  color: cyan;
 }
 
 .content a {
-	color: white;
-	text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
-.tlinky {
-	width: 62px;
-	height: 62px;
-	top: 2em;
-	float: right;
-	margin-right: 2em;
+.player {
+  text-align: center;
+}
+
+.lastMsg {
+  display: inline;
+  background-color: black;
+  color: cyan;
 }
 
 footer {
-	text-align: center;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+footer h1 {
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
 }

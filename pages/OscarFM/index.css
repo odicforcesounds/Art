@@ -25,6 +25,7 @@ nav ul {
 
 nav li {
 	list-style: none;
+        list-style-type: none;
 	display: inline;
 }
 
@@ -60,7 +61,7 @@ nav li {
 }
 
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FMonkeyTouch.webp?alt=media);
+	background: url(./MonkeyTouch.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -122,4 +123,23 @@ nav li {
 	line-height: 2em;
 	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 	color: cyan;
+}
+footer span{
+	color: white;
+	background-color: black;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+	color: cyan;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
 }

@@ -1,0 +1,43 @@
+.container {
+  background-color:black;
+  justify-content: center;
+}
+.content{
+  display:relative;
+}
+.list1{
+  display:relative;
+  margin:2%;
+  padding:1%;
+  background-color:cyan;
+}
+
+.list1 p{
+  font-size:32px;
+}
+
+.list1 a{
+  text-decoration:none;
+}
+
+
+footer span{
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  background-color: black;
+}

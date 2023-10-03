@@ -1,0 +1,39 @@
+.container {
+  position: relative;
+  background-color: black;
+}
+
+.titulo {
+  color: lightgreen;
+  text-align: center;
+}
+
+.container a {
+  text-decoration: none;
+  color: white;
+}
+
+.container p{
+  text-align: justify;
+  color: cyan;
+  font-size: 42px;
+}
+
+footer span {
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}

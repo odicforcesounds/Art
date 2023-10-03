@@ -5,8 +5,13 @@ body {
 	padding: 0;
 }
 
+a {
+	color: white;
+	text-decoration: none;
+}
+
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FLove.webp?alt=media);
+	background: url(./Dragon_Dance.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -18,6 +23,7 @@ body {
 
 .player {
 	text-align: center;
+        margin-top: 10%;
 }
 
 .notes {
@@ -90,6 +96,7 @@ body {
 
 .ans {
 	color: darkslateblue;
+        background-color: black;
 }
 
 .mnotes {
@@ -110,4 +117,22 @@ iframe {
 .img {
 	text-align: center;
 	justify-content: center;
+}
+
+footer span{
+	color: cyan;
+	display: inline;
+}
+
+footer {
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
 }

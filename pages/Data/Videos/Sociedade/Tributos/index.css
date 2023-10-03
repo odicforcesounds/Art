@@ -1,33 +1,54 @@
 .container {
-	display: flex;
-	flex-direction: row nowrap;
-	flex-flow: wrap;
-	position: relative;
-        margin:2%;
-        padding:1%;
-        background-color: midnightblue;
+  position: relative;
+  margin: 2%;
+  padding: 1%;
+  background-color: midnightblue;
+  text-align:center;
 }
 
-.container p {
-	text-align: justify;
-}
-.intro {
-	display: flex;
-	position: relative;
-	flex-direction: column nowrap;
-	flex-flow: column nowrap;
-	margin: 0.5%;
-	padding: 1%;
-	background-color: dodgerblue;
+
+
+.box{
+  text-align:center;
 }
 
-.intro h1 {
-	text-align: center;
-	background-color: aliceblue;
+.box p{
+  padding:3%;
+  color:cyan;
+  font-size:22px;
 }
 
-.desc {
-	background-color: lemonchiffon;
-	color: blue;
-	font-size: calc(10%, 30%, 100%);
+.box a{
+  text-decoration: none;
+  color:goldenrod;
+  font-size:22px;
+}
+
+footer span{
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.slogan {
+  color: white
 }

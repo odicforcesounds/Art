@@ -1,0 +1,46 @@
+.container {
+  background: url(../../OnlyTributes.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+.content {
+  text-align: center;
+  color: cyan;
+}
+
+.content p {
+  font-size: 32px;
+  line-height: 2em;
+}
+
+.content a {
+  color: white;
+  text-decoration: none;
+}
+
+footer span {
+  display: inline;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  color: cyan;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color: black;
+}

@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	background: url(https://firebasestorage.googleapis.com/v0/b/macaco-macaco.appspot.com/o/Backgrounds%2FVisions.webp?alt=media);
+	background: url(./Magic_Touch.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -34,14 +34,9 @@ body {
 	padding: 0.5%;
 }
 
-.tlinky {
-	width: 42px;
-	height: 42px;
-	top: 2em;
-}
-
 .player {
 	text-align: center;
+        margin-top:3%;
 }
 
 a {
@@ -49,19 +44,22 @@ a {
 	text-decoration: none;
 }
 
-footer {
-	text-align: center;
-	text-decoration: none;
-	justify-content: center;
-}
-
-footer p {
+footer span{
 	color: cyan;
 	background-color: black;
 	display: inline;
 }
 
-nav ul li {
+footer {
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
 	text-decoration: none;
-	list-style-type: none;
+	color: cyan;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
 }
