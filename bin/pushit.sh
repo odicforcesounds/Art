@@ -7,12 +7,12 @@ echo "ssh-agents killed"
 eval $(ssh-agent)
 sleep 1 
 echo "ssh-agent inicialized"
-ssh-add ~/.ssh/github_new_surfing
+ssh-add ~/.ssh/osounds
 sleep 1
 echo "ssh-key-id added"
 git add . 
 echo "all changes added to commit state"
 git commit -m "Make it Right for a better Ride"
-git push git@github.com:comparativeexpression/artisticexpression
+git push git@github.com:odicforcesounds/Art
 echo "Push completed"
 sleep 3
