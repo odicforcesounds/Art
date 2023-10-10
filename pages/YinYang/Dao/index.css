@@ -114,18 +114,13 @@ nav li {
   color: yellow;
 }
 
-.fantasy:hover a  {
-  color:white;
-  background-color: darkblue;
-}
-
 .fantasy:hover {
-  color: darkblue;
+  color: cyan;
   background-color: yellow;
 }
 
 .fantasy:hover a {
-  color: blue;
+  color: cyan;
   background-color: yellow;
 }
 .logic {
