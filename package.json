@@ -1,0 +1,17 @@
+{
+  "name": "art",
+  "version": "3.0.3",
+  "description": "Dao Expression",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "OscarFM",
+  "license": "Creative Common V3",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
