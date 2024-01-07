@@ -115,8 +115,5 @@ js-beautify -s 2 --type css ${CSS_HOME}
 js-beautify -s 2 --type html ${HTML_Album} 
 js-beautify -s 2 --type css ${CSS_Album} 
 
-
 js-beautify -s 2 --type html ${HTML_Tracks} 
 js-beautify -s 2 --type css ${CSS_Tracks} 
-
-
