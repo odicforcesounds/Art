@@ -143,3 +143,16 @@ footer {
 	display: flex;
 	flex-direction: column;
 }
+
+.mark{
+  color:white;
+}
+
+.holy{
+  color:green;
+}
+
+.eternal{
+  color:blue;
+  background-color: white;
+}
