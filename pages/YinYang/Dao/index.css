@@ -100,8 +100,8 @@ nav li {
 }
 
 .yinyang:hover a {
-  color: green;
-  background-color: darkgoldenrod;
+  color: white;
+  background-color: green;
 }
 
 .yinyang:hover {
@@ -110,35 +110,36 @@ nav li {
 }
 
 .fantasy {
-  background-color: cyan;
+  background-color: blue;
   color: yellow;
 }
 
 .fantasy:hover {
-  color: cyan;
+  color: blue;
   background-color: yellow;
 }
 
 .fantasy:hover a {
-  color: cyan;
+  color:blue;
   background-color: yellow;
 }
 .logic {
   background-color: yellow;
-  color: cyan;
+  color: blue;
 }
 
 .logic a {
-  color:cyan;
+  color:blue;
 }
 
 .logic:hover  {
   color: yellow;
-  background-color: cyan;
+  background-color: blue;
 }
 
 .logic:hover a {
   color: yellow;
+  background-color: blue;
 }
 
 .application {
