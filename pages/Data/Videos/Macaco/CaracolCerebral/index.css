@@ -29,6 +29,10 @@
 
 }
 
+.content {
+  text-align: center;
+}
+
 .box p{
   font-size:36px;
   margin:1%;
