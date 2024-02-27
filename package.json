@@ -2,7 +2,7 @@
   "name": "art",
   "version": "3.0.3",
   "description": "Dao Expression",
-  "main": "index.html",
+  "main": "./pages/YinYang/Dao/login/index.html",
   "directories": {
     "doc": "docs"
   },
