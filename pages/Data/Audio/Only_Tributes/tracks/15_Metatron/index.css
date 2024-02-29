@@ -1,3 +1,11 @@
+html,
+body {
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  background-color: black;
+}
+
 .container {
   background: url(../../OnlyTributes.webp);
   background-repeat: no-repeat;
@@ -10,37 +18,49 @@
 }
 
 .content {
+  position: relative;
+  width: 95%;
+  margin-top: 3em;
+  margin-left: 1em;
+  margin-right: 1em;
   text-align: center;
-  color: cyan;
 }
 
 .content p {
-  font-size: 32px;
-  line-height: 2em;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  line-height: 4em;
+  background-color: black;
+  color: cyan;
+  padding: 0.5%;
 }
 
-.content a {
+.player {
+  margin-top: 10%;
+  text-align: center;
+}
+
+a {
   color: white;
   text-decoration: none;
 }
 
 footer span {
+  color: cyan;
+  background-color: black;
   display: inline;
-}
-
-footer a {
-  color: white;
-  text-decoration: none;
-
 }
 
 footer {
   text-align: center;
   position: fixed;
-  color: cyan;
   bottom: 0px;
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
   background-color: black;
+  display: flex;
+  flex-direction: column;
 }
