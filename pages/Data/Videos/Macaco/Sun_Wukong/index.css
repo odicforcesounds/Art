@@ -6,6 +6,8 @@
 .titulo {
   color: lightgreen;
   text-align: center;
+  font-size: 3em;
+  padding: 1rem;
 }
 
 .container a {
@@ -16,7 +18,7 @@
 .container p{
   text-align: justify;
   color: cyan;
-  font-size: 42px;
+  font-size: 2em;
 }
 
 footer span {
@@ -36,4 +38,5 @@ footer {
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
+  background-color: black;
 }

@@ -6,10 +6,11 @@
 
 .content {
   color: green;
+  padding: 10%;
 }
 
 .content p{
-  font-size:larger;
+  font-size: 1.5em;
 }
 
 .content a {
@@ -19,12 +20,8 @@
 
 .slogan {
   color: yellow;
-  margin-top: 5%;
-}
-
-.minidesc{
-  color:cyan;
-  margin-bottom: 5%;
+  margin-top: 5rem;
+  font-size: 3em;
 }
 
 footer span {
