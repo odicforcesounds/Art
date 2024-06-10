@@ -124,6 +124,10 @@ footer span{
 	display: inline;
 }
 
+footer a{
+  color: yellow;
+}
+
 footer {
 	text-align: center;
 	position: fixed;
