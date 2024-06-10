@@ -6,7 +6,7 @@ body {
 }
 
 a {
-	color: white;
+	color: yellow;
 	text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ a {
 }
 
 .notes a {
-	color: white;
+	color: yellow;
 	margin-left: 0.1em;
 	margin-right: 0.1em;
 	text-decoration: none;
@@ -54,7 +54,7 @@ a {
 }
 
 .message a {
-	color: white;
+	color: yellow;
 	margin-left: 0.1em;
 	margin-right: 0.1em;
 	text-decoration: none;
@@ -73,10 +73,10 @@ a {
 
 .yin {
 	background-color: black;
-	color: white;
+	color: yellow;
 }
 .yang {
-	background-color: white;
+	background-color: yellow;
 	color: black;
 }
 .symb {

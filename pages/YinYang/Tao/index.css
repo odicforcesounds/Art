@@ -28,7 +28,7 @@ body {
 }
 
 .content a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }
 
@@ -62,6 +62,6 @@ footer h1 {
 }
 
 footer a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }

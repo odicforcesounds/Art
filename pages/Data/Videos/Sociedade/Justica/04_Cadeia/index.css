@@ -17,7 +17,7 @@
 
 .description {
   text-align: center;
-  color: white;
+  color: yellow;
 }
 
 .description p{
@@ -26,7 +26,7 @@
 
 .container a {
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 footer span {

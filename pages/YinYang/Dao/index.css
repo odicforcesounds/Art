@@ -72,7 +72,7 @@ nav li {
   text-align: center;
   width: 100%;
   height: 95%;
-  color: white;
+  color: yellow;
   align-items: stretch;
   padding: 1rem;
 }
@@ -100,7 +100,7 @@ nav li {
 }
 
 .yinyang:hover a {
-  color: white;
+  color: yellow;
   background-color: green;
 }
 
@@ -147,7 +147,7 @@ nav li {
 }
 
 .application a {
-  color: white;
+  color: yellow;
 }
 
 .application:hover  {
@@ -166,7 +166,7 @@ nav li {
 
 .slogan {
   text-align: center;
-  color: white;
+  color: yellow;
 }
 
 .poem {
@@ -174,7 +174,7 @@ nav li {
   text-align: center;
   margin-bottom: 2rem;
   line-height: 4rem;
-  color: white;
+  color: yellow;
 }
 
 .poem a{

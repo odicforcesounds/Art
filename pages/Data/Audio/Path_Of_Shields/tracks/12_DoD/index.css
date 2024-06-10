@@ -42,7 +42,7 @@ body {
 }
 
 .content .saveYourDay {
-  color: white;
+  color: yellow;
   background-color: black;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }
 

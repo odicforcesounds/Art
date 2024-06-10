@@ -23,12 +23,12 @@
 
 .descricao {
   text-align: left;
-  color: white;
+  color: yellow;
 }
 
 .container a {
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 footer span {
@@ -36,7 +36,7 @@ footer span {
 }
 
 footer a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 
 }

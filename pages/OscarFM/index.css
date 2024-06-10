@@ -101,7 +101,7 @@ nav li {
 
 #p4 {
 	background-color: black;
-	color: white;
+	color: yellow;
 	display: inline;
 	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 	margin: 5%;
@@ -126,7 +126,7 @@ nav li {
 	color: cyan;
 }
 footer span{
-	color: white;
+	color: yellow;
 	background-color: black;
 	display: inline;
 }
@@ -155,5 +155,5 @@ footer {
 
 .eternal{
   color:blue;
-  background-color: white;
+  background-color: yellow;
 }

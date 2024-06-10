@@ -38,7 +38,7 @@ body {
 }
 
 a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }
 
@@ -74,5 +74,5 @@ footer span {
 }
 
 .poem {
-  color: white;
+  color: yellow;
 }

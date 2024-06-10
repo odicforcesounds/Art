@@ -27,14 +27,14 @@ a {
 }
 
 .title {
-  color: white;
+  color: yellow;
   display: flex;
   justify-content: center;
   font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 .description {
-  color: white;
+  color: yellow;
   font-size: calc(1vw + 0.5vh + 0.2vmin);
   line-height: 2em;
   text-align: justify;
@@ -104,7 +104,7 @@ a {
 }
 
 .lastdesc_sham a {
-  color: white;
+  color: yellow;
 }
 
 .lastdesc_relig {
@@ -115,7 +115,7 @@ a {
 }
 
 .lastdesc_relig a {
-  color: white;
+  color: yellow;
   background-color: darkblue;
 }
 
@@ -127,11 +127,11 @@ a {
 }
 
 .lastdesc_racism a {
-  color: white;
+  color: yellow;
 }
 
 a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }
 
@@ -177,7 +177,7 @@ a {
 }
 
 .lastdesc_politic a {
-  color: white;
+  color: yellow;
 }
 
 .lastdesc_tech {
@@ -188,7 +188,7 @@ a {
 }
 
 .lastdesc_tech a {
-  color: white;
+  color: yellow;
 }
 
 .lastdesc_impro {
@@ -199,11 +199,11 @@ a {
 }
 
 .lastdesc_impro a {
-  color: white;
+  color: yellow;
 }
 
 .lastdesc_edu {
-  color: white;
+  color: yellow;
   background: linear-gradient(60deg, darkblue, cyan);
   line-height: 2em;
   font-size: calc(1.6vw + 0.5vh + 0.2vmin);
@@ -221,7 +221,7 @@ a {
 }
 
 .lastdesc_od a {
-  color: white;
+  color: yellow;
 }
 
 .warn {

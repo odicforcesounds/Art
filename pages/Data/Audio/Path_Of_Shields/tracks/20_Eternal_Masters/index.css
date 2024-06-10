@@ -41,7 +41,7 @@ body {
 }
 
 a {
-  color: white;
+  color: yellow;
   text-decoration: none;
 }
 
@@ -66,10 +66,10 @@ footer span {
 
 .yin {
   background-color: black;
-  color: white;
+  color: yellow;
 }
 
 .yang {
-  background-color: white;
+  background-color: yellow;
   color: black;
 }
