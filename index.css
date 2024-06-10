@@ -43,7 +43,7 @@ nav ul li {
   display: inline;
   line-height: 3em;
   background-color: black;
-  color: yellow;
+  color: white;
   padding: 0.5%;
 }
 a {
@@ -51,25 +51,9 @@ a {
   text-decoration:none;
 }
 
-.tlinkh {
-	width: 64px;
-	height: 64px;
-}
 
 .player {
         text-align: center;
         margin-top:5%;
 }
 
-footer{
-  position:relative;
-}
-
-.red{
-  color:red;
-}
-
-.yin{
-  color:white;
-  background-color:black;
-}
