@@ -101,7 +101,7 @@ nav li {
 
 #p4 {
 	background-color: black;
-	color: yellow;
+	color: white;
 	display: inline;
 	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 	margin: 5%;
@@ -124,25 +124,6 @@ nav li {
 	line-height: 2em;
 	font-size: calc(2.5vw + 0.5vh + 0.2vmin);
 	color: cyan;
-}
-footer span{
-	color: yellow;
-	background-color: black;
-	display: inline;
-}
-
-footer {
-	text-align: center;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	margin-bottom: 0px;
-	text-decoration: none;
-	color: cyan;
-	background-color: black;
-	display: flex;
-	flex-direction: column;
 }
 
 .mark{
