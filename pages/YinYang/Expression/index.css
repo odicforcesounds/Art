@@ -33,13 +33,21 @@ body {
 }
 
 .Message {
-  align-content: flex-start;
-  position: inline;
   font-size: calc(2vw + 0.5vh + 0.2vmin);
   line-height: 2em;
   letter-spacing: 0.3q;
   color: cyan;
   background-color: black;
+  text-align: justify;
+}
+
+.Messagee {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  letter-spacing: 0.3q;
+  color: white;
+  background-color: black;
+  text-align: justify;
 }
 
 .content a {
