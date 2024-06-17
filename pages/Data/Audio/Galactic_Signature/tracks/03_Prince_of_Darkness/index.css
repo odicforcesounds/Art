@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background: url(../../WeCameInPeace.webp);
+  background: url(./prince.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

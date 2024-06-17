@@ -8,7 +8,7 @@ body {
 
 .container {
   background-repeat: no-repeat;
-  background: url(../../yun.webp);
+  background: url(./played.webp);
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
