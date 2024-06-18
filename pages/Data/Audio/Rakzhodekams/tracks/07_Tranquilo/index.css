@@ -21,6 +21,7 @@ body {
 .content {
   text-align: center;
   color: cyan;
+  margin-bottom: 5rem;
 }
 
 .content p {
