@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background: url(../../Shiva_and_kaliDance.webp);
+  background: url(./paradox.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -23,6 +23,7 @@ body {
   margin-top: 3em;
   margin-left: 2rem;
   margin-right: 4rem;
+  margin-bottom: 5rem;
   text-align: center;
 }
 
