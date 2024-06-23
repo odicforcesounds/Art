@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background: url(../../Noise_Frequency.webp);
+  background: url(./flow.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
