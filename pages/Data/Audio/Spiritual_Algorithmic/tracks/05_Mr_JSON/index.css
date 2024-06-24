@@ -20,6 +20,7 @@ body {
 .content {
   position: relative;
   width: 95%;
+  margin-bottom: 5rem;
   margin-top: 3em;
   margin-left: 1rem;
   margin-right: 1rem;

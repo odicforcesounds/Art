@@ -18,6 +18,7 @@ body {
 }
 
 .content {
+  margin-bottom: 5rem;
   position: relative;
   text-align: center;
 }

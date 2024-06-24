@@ -18,8 +18,9 @@ body {
 }
 
 .content {
-  position: relative;
   text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
 }
 
 .content p {
