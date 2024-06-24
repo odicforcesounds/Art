@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background-image: url(../../flowofenergy.webp);
+  background-image: url(./energy.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
