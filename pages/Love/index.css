@@ -22,8 +22,8 @@ a {
 }
 
 .player {
-	text-align: center;
-        margin-top: 10%;
+  margin-top:10rem;
+  text-align: center ;
 }
 
 .notes {
@@ -108,6 +108,7 @@ a {
 	flex-direction: row;
 	flex-flow: wrap;
 	justify-content: space-around;
+        margin-bottom: 3rem;
 }
 
 iframe {

@@ -12,10 +12,10 @@
   "author": "OscarFM",
   "license": "Creative Common V3",
   "devDependencies": {
-    "eslint": "^8.55.0"
+    "eslint": "^8.55.0",
+    "js-beautify": "^1.14.11"
   },
   "dependencies": {
-    "firebase-tools": "^13.1.0",
-    "js-beautify": "^1.14.11"
+    "firebase-tools": "^13.1.0"
   }
 }

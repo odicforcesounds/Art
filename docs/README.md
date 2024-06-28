@@ -1,8 +1,8 @@
 # The Challenge
 
-    1. To imagine some gold is easy. That is the "Way" . 
-    2. To produce the gold we did imagine is not easy. That is the "Condition", which ask logic.
-    3. When we see in reality what we did imagine, we have the "Expression" of "Fantasy" in reality.
+1. To imagine some gold is easy. That is the "Way" . 
+2. To produce the gold we did imagine is not easy. That is the "Condition", which ask logic.
+3. When we see in reality what we did imagine, we have the "Expression" of "Fantasy" in reality.
 
 > This is what Monkey call **The Way of God**. Is what we create, is what we do, is what we become.  
 
@@ -55,23 +55,27 @@ Text is not the best, while can become better.
         - Videos can only be accessed by Link, not by searching Youtube.
         - All Comments are controlled. (if you don't wish to make them public, tell me in that comment)
 2. Each Video can have a big text refer knowledge. (knowledge can be defined as something real or imaginary -> Comparative )
+    
     1. VIDEOS (PT): If you wish to add more, please setup a new page in pages/Data/Videos/VIDEO_TITLE point to the Video and description. (you can do better than me)
     2. AUDIO (EN): If you wish to add more, please setup a new page in pages/Data/Audio/ALBUM/tracks/TRACK_NUMBER refering the Audio Track and description.
     3. Example: pages/Data/Audio/Emotional_Signals/tracks/12_Hacking_Festival/index.html
+       
         - You know that are billions of websites sharing content about hacking..
         - This is just one single page, that can become better! ( Your Freedom to share the best )
         - Maybe can have several themes..
         - Maybe can refer to better links..
         - Maybe you will contribute.
+
 3. Each page can use HTML, CSS and JavaScript.
 4. Some pages are reserved: ( You may not modify them )
-        - Shamanic Quest Dream -> Sun Wukong
-        - Shamanic Quest Dream -> Wood - Fire 
-        - Path of Shields: -> 3 - You tell me
-        - Signals of Time -> Dragon & Monkey 
-        - Signals of Time - Eternal License 
-        - Tao Touch - Boom Cats 
-        - Tao Touch - Mystic Portal 
+
+    - Shamanic Quest Dream -> Sun Wukong
+    - Shamanic Quest Dream -> Wood - Fire 
+    - Path of Shields: -> 3 - You tell me
+    - Signals of Time -> Dragon & Monkey 
+    - Signals of Time - Eternal License 
+    - Tao Touch - Boom Cats 
+    - Tao Touch - Mystic Portal 
 
 ## About Monkeys Gifts, Application:
 
