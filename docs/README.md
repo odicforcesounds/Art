@@ -1,8 +1,8 @@
 # The Challenge
 
-1. To imagine some gold is easy. That is the "Way" . 
-2. To produce the gold we did imagine is not easy. That is the "Condition", which ask logic.
-3. When we see in reality what we did imagine, we have the "Expression" of "Fantasy" in reality.
+1. To imagine some gold is easy. That is the **Way** . 
+2. To produce the gold we did imagine is not easy. That is the **Condition**, which ask logic.
+3. When we see in reality what we did imagine, we have the **Expression** of "Fantasy" in reality.
 
 > This is what Monkey call **The Way of God**. Is what we create, is what we do, is what we become.  
 
