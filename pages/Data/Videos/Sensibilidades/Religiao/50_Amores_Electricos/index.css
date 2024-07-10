@@ -1,11 +1,13 @@
 .container {
   position: relative;
+  justify-content: justify;
   text-align: center;
   background-color: black;
 }
 
-.player{
-  text-align: center;
+.content {
+  text-align: left;
+  color: cyan;
 }
 
 .titulo {
@@ -15,17 +17,16 @@
 
 .description {
   text-align: center;
-  color: yellow;
+  color: white;
 }
 
-.description a{
+.container a {
   text-decoration: none;
-  color:lightblue;
+  color: yellow;
 }
 
 footer span {
   display: inline;
-  color:white;
 }
 
 footer a {
@@ -41,5 +42,5 @@ footer {
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
-  background-color:black;
+  background-color: black;
 }
