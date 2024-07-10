@@ -17,11 +17,7 @@
 
 .description {
   text-align: center;
-  color: yellow;
-}
-
-.description p{
-  text-align:justify;
+  color: white;
 }
 
 .container a {
@@ -46,5 +42,4 @@ footer {
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
-  background-color:black;
 }
