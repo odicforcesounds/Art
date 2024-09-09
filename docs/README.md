@@ -95,3 +95,6 @@ Text is not the best, while can become better.
     2. Please understand that Monkey like to know, you like monkey artwork site, while monkey is searching for an advice, so if you don't mind, you may criticize what ever you see that can become better, giving me suggestions about it.
     -   ( in any artwork content ) and ( in any video content ), Monkey ask that your negative expression about anything Monkey did express, should use logic ( comparative content that is described in text that points to your opinion, saying that Monkey opinion is wrong )
     -   Monkey can become better, which means: Monkey can change the way, Monkey thinks. ( new perspectives are always welcome! )
+
+**About this website**: This website can be accessed at https://odicforcesounds.github.io/Art 
+
