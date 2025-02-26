@@ -1,0 +1,53 @@
+.container {
+  text-align:center;
+  background-color: lightskyblue;
+}
+
+.container p {
+  text-align: center
+}
+
+.box {
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+
+}
+
+.box p {
+  text-align: center;
+  padding:2.5%;
+  font-size:42px;
+}
+
+.box a{
+  font-size:22px;
+  text-decoration: none;
+  color:darkgreen;
+  background-color:lightgreen;
+}
+
+footer span{
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,54 @@
+.container {
+  position: relative;
+  margin: 2%;
+  padding: 1%;
+  background-color: midnightblue;
+  text-align:center;
+}
+
+
+
+.box{
+  text-align:center;
+}
+
+.box p{
+  padding:3%;
+  color:cyan;
+  font-size:22px;
+}
+
+.box a{
+  text-decoration: none;
+  color:goldenrod;
+  font-size:22px;
+}
+
+footer span{
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.slogan {
+  color: yellow
+}

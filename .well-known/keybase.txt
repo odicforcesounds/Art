@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/path_of_shields
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://odicforcesounds.com
+  * I am path_of_shields (https://keybase.io/path_of_shields) on keybase.
+  * I have a public key ASAalhVxUX61URcDrx0XF6rSbGQEAWXmxoNaror6d9cD0Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c235a310c7b6abf971a07d5d2c1eb71df9a8e2cd0c1e43f31b22d3ed6a66235e0a",
+      "host": "keybase.io",
+      "kid": "01201a961571517eb5511703af1d1717aad26c64040165e6c6835aae8afa77d703d10a",
+      "uid": "fbc9ca131ca3729477896c70cab53b19",
+      "username": "path_of_shields"
+    },
+    "merkle_root": {
+      "ctime": 1710009670,
+      "hash": "6d66620f7b0817656c13a55535a05e5f25ebe7b0c7a8469f5a780698a516fce15059af8d388b3f05c92aae33e455ac8db2aa24bb5e42c52894921868c8ab1f86",
+      "hash_meta": "5e867c7c2aa62b9c0eb30ec3be16dc719f78dfde358e4f6aa2d0a8264a16c4ca",
+      "seqno": 25535058
+    },
+    "service": {
+      "entropy": "CR/3O8dm+/rLmN0h5Xgjf5Y5",
+      "hostname": "odicforcesounds.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1710009867,
+  "expire_in": 504576000,
+  "prev": "65e098913a357cd4bf39237fbfa06817e6685d82182b9239d53ae6ae9b64709f",
+  "seqno": 153,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGpYVcVF+tVEXA68dFxeq0mxkBAFl5saDWq6K+nfXA9EKp3BheWxvYWTES5cCzJnEIGXgmJE6NXzUvzkjf7+gaBfmaF2CGCuSOdU65q6bZHCfxCDfxDdvHWtcRQ+TMhtk5pXc4PfHsySXLAa3yVj9GdxbSwIBwqNzaWfEQB7s2N/hWYAMCwlerlObrQF1epI5b0tPK5/HZhsc+aZPlpl/lKPRJHJR8CTe2LkrE0KJTuRRSucrT85vxCYIjASoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCIUzYn5Un1JWJBEOJjf0a2Xt8Grydkfyk9sdtkKij8zKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/path_of_shields
+
+==================================================================

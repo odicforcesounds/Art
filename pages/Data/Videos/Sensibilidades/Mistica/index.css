@@ -1,0 +1,37 @@
+.container {
+  text-align:center;
+  background-color: grey;
+}
+
+
+
+.content{
+  margin-top:10%;
+}
+
+.content p{
+  margin-bottom:2%;
+}
+
+.item a{
+    font-size: calc(2vw + 0.5vh + 0.2vmin);
+    text-decoration:none;
+}
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}

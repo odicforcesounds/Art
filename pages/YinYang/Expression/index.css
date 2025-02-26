@@ -1,0 +1,80 @@
+html,
+body {
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  background-color: black;
+}
+
+.container {
+  background: url(./Dao_Expression.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+.content {
+  position: relative;
+  width: 95%;
+  margin-top: 3em;
+  margin-left: 2rem;
+  margin-right: 4rem;
+  text-align: center;
+}
+
+.content p {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  line-height: 1em;
+  color: cyan;
+}
+
+.Message {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  letter-spacing: 0.3q;
+  color: cyan;
+  background-color: black;
+  text-align: justify;
+}
+
+.Messagee {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  line-height: 2em;
+  letter-spacing: 0.3q;
+  color: white;
+  background-color: black;
+  text-align: justify;
+}
+
+.content a {
+  color: yellow;
+  text-decoration: none;
+  padding: 0.5%;
+}
+
+.signals {
+  background-color: black;
+}
+
+.tlinkd {
+  width: 42px;
+  height: 42px;
+  padding: 0.2em;
+  background-color: black;
+}
+
+nav ul li {
+  text-align: center;
+  list-style-type: none;
+}
+
+.video {
+	display: flex;
+	flex-direction: row;
+	flex-flow: wrap;
+	justify-content: space-around;
+}

@@ -1,0 +1,58 @@
+.container {
+  background-color: darkblue;
+}
+
+.container p {
+  text-align: justify;
+}
+
+.slogan {
+  color: yellow;
+  font-size: 18px;
+  text-align:center;
+}
+
+.player{
+  margin-top:1%;
+}
+
+.box{
+  text-align:justify;
+  color:gray;
+  padding:0.5%;
+}
+
+.box p{
+  font-size:32px;
+  padding:2%;
+}
+
+.box a{
+  text-decoration:none;
+  color:yellow;
+}
+
+footer span {
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}

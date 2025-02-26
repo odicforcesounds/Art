@@ -1,0 +1,68 @@
+.container {
+  background-color: darkblue;
+}
+
+header{
+  text-align: center;
+}
+
+.desc4{
+  color:cyan;
+  margin:3%;
+  text-align:justify;
+  font-size:20px;
+}
+
+.attention{
+  margin:3%;
+  text-align:justify;
+  font-size:20px;
+  color:yellow;
+}
+
+.desc7{
+  font-size:22px;
+  color:white;
+  margin:3%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.content{
+  text-align:justify;
+  margin:3%;
+  color:cyan;
+  font-size:40px;
+}
+
+.content p {
+  color:white;
+}
+
+.content a {
+  text-decoration: none;
+  color:white;
+}
+
+
+footer span {
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+}

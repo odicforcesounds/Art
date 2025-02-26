@@ -1,0 +1,46 @@
+.container {
+  position: relative;
+  justify-content: justify;
+  text-align: center;
+  background-color: black;
+}
+
+.content {
+  text-align: left;
+  color: cyan;
+}
+
+.titulo {
+  color: lightgreen;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  color: yellow;
+}
+
+.container a {
+  text-decoration: none;
+  color: yellow;
+}
+
+footer span {
+  display: inline;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color: black;
+}

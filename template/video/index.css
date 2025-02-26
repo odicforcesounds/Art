@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  text-align: center;
+  background-color: black;
+}
+
+.player{
+  text-align: center;
+}
+
+.titulo {
+  color: lightgreen;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  color: yellow;
+}
+
+.description a{
+  text-decoration: none;
+  color:lightblue;
+}
+
+footer span {
+  display: inline;
+  color:white;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color:black;
+}

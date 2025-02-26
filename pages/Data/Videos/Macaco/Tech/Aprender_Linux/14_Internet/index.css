@@ -1,0 +1,51 @@
+.container {
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+}
+
+.titulo {
+  text-align: center;
+  color: orange;
+  padding-top: 5%;
+}
+
+.description {
+  text-align: center;
+  color: yellow;
+}
+
+.longdesc {
+  color: yellow;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.slogan {
+  color: cyan;
+}
+
+footer span {
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}

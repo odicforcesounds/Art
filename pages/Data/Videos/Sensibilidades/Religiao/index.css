@@ -1,0 +1,55 @@
+.container {
+  position: relative;
+  background-color: darkblue;
+}
+
+header{
+  padding-top:1%;
+  text-align: center;
+  color: yellowsmoke;
+  font-size: large;
+}
+
+.content{
+  display:relative;
+  font-size:42px;
+  margin:2%;
+  text-align:justify;
+}
+
+.content p{
+  color:gray;
+}
+
+.content a{
+  color:cyan;
+  text-decoration:none;
+}
+
+.desc4{
+  text-align: justify;
+  color:cyan;
+  margin:2%;
+}
+
+.attention{
+  text-align: justify;
+  margin:2%;
+  color:lightgreen;
+}
+
+footer a {
+  color: cyan;
+  text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color: black;
+}

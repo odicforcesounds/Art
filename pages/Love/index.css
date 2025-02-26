@@ -1,0 +1,143 @@
+html,
+body {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.container {
+	background: url(./Dragon_Dance2.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+.player {
+  margin-top:10rem;
+  text-align: center ;
+}
+
+.notes {
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	text-align: justify;
+	background-color: black;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	line-height: 2em;
+	color: cyan;
+}
+
+.notes a {
+	color: white;
+	margin-left: 0.1em;
+	margin-right: 0.1em;
+	text-decoration: none;
+}
+
+.message {
+	background-color: black;
+	color: yellow;
+	text-align: center;
+	justify-content: center;
+	margin-left: 1em;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	margin-right: 1em;
+}
+
+.message a {
+	color: white;
+	margin-left: 0.1em;
+	margin-right: 0.1em;
+	text-decoration: none;
+}
+
+.evil {
+	background-color: black;
+	color: red;
+	font-size: calc(2vw + 0.5vh + 0.2vmin);
+	text-align: center;
+}
+
+.evil a {
+	color: darkorange;
+}
+
+.yin {
+	background-color: black;
+	color: white;
+}
+.yang {
+	background-color: white;
+	color: black;
+}
+.symb {
+	background-color: black;
+	color: yellow;
+}
+
+.dnotes {
+	color: cornflowerblue;
+	background-color: black;
+	text-align: center;
+}
+
+.ask {
+	color: dimgray;
+}
+
+.ans {
+	color: darkslateblue;
+        background-color: black;
+}
+
+.mnotes {
+	color: burlywood;
+}
+
+.videos {
+	display: flex;
+	flex-direction: row;
+	flex-flow: wrap;
+	justify-content: space-around;
+        margin-bottom: 3rem;
+}
+
+iframe {
+	justify-content: center;
+}
+
+.img {
+	text-align: center;
+	justify-content: center;
+}
+
+footer span{
+	color: cyan;
+	display: inline;
+}
+
+footer a{
+  color: yellow;
+}
+
+footer {
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+}

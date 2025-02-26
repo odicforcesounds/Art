@@ -1,0 +1,71 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color:black;
+  text-align:center;
+}
+
+.desc4{
+  color:white;
+  margin:3%;
+  text-align:justify;
+  font-size:18px;
+}
+
+.attention{
+  color:orange;
+  margin:3%;
+  text-align:justify;
+  font-size:18px;
+}
+
+.container {
+  position: relative;
+}
+
+.content{
+  display: flex;
+  flex-direction:row;
+  flex-flow: row nowrap;
+  margin:3%;
+  text-align:justify;
+}
+
+.content p{
+  color:white;
+  font-size:32px;
+  margin-top:2%;
+}
+
+
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer span{
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}

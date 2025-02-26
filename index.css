@@ -1,0 +1,59 @@
+html,
+body {
+	margin: 0%;
+	margin-top: 0%;
+	padding: 0%;
+	background-color: black;
+}
+.container {
+	background-image: url(background.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+header {
+	text-align: center;
+}
+
+nav ul li {
+	list-style: none;
+	text-decoration: none;
+}
+
+.content {
+  position: relative;
+  text-align: center;
+}
+
+.content p {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  line-height: 3em;
+  background-color: black;
+  color: cyan;
+  padding: 0.5%;
+}
+
+.content span {
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
+  display: inline;
+  line-height: 3em;
+  background-color: black;
+  color: white;
+  padding: 0.5%;
+}
+a {
+  color:yellow;
+  text-decoration:none;
+}
+
+
+.player {
+        text-align: center;
+        margin-top:5%;
+}
+

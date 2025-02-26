@@ -1,0 +1,51 @@
+html,
+body {
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  background-color: black;
+}
+
+.container {
+  background-repeat: no-repeat;
+  background: url(.);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+nav ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.content {
+  text-align: center;
+  padding: 2rem;
+  margin-bottom: 3em;
+}
+
+.content p {
+  font-size: xx-large;
+  background-color: green;
+  display: inline-block;
+  margin-top: 2em;
+}
+
+.content a {
+  text-decoration: none;
+  color: cyan;
+}
+
+.tlinkh {
+  width: 60px;
+  height: 60px;
+}

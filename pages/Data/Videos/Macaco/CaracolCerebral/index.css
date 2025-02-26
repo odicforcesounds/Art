@@ -1,0 +1,70 @@
+.container {
+  text-align: center;
+  background-color: lightskyblue;
+}
+
+.slogan{
+  text-align: justify;
+  font-size:24px;
+  margin-left:1%;
+  margin-right:1%;
+  padding:0.3%;
+  background-color:whitesmoke;
+}
+
+.slogan p{
+  margin:2%;
+}
+
+.slogan a{
+  text-decoration:none;
+  color:cyan;
+  background-color:blue;
+}
+
+.box{
+  display:inline;
+  margin:2%;
+  text-align:justify;
+
+}
+
+.content {
+  text-align: center;
+}
+
+.box p{
+  font-size:36px;
+  margin:1%;
+}
+
+.box a{
+  text-decoration: none;
+  background-color: darkblue;
+  color:cyan;
+}
+
+footer span {
+  color: cyan;
+  background-color: black;
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
