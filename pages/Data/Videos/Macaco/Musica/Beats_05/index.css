@@ -30,11 +30,9 @@ footer span {
 }
 
 footer a {
-  color: cyan;
+  color: yellow;
   text-decoration: none;
-
 }
-
 footer {
   text-align: center;
   position: fixed;
