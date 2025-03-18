@@ -1,2 +1,5 @@
 User-agent:* 
 Allow: /
+SiteMap: https://art.odicforcesounds.com/sitemap.xml
+Crawl-delay: 20
+
