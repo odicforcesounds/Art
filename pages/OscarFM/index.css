@@ -38,18 +38,13 @@ nav li {
 }
 
 /* Tamanho das dos ICONS do site */
-.tlinky {
-	width: 60px;
-	height: 60px;
-}
-
 .tlinkd {
-	width: 60px;
-	height: 60px;
+	width: 46px;
+	height: 46px;
 }
 .tlinkh {
-	width: 60px;
-	height: 60px;
+	width: 46px;
+	height: 46px;
 }
 
 #YinYang {
