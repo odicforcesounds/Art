@@ -39,6 +39,7 @@ body {
   color: cyan;
   background-color: black;
   text-align: justify;
+  margin: 2rem;
 }
 
 .Messagee {
@@ -48,6 +49,7 @@ body {
   color: white;
   background-color: black;
   text-align: justify;
+  margin:2rem; 
 }
 
 .content a {
@@ -65,6 +67,10 @@ body {
   height: 42px;
   padding: 0.2em;
   background-color: black;
+}
+
+.orange {
+  color: orange; 
 }
 
 nav ul li {
