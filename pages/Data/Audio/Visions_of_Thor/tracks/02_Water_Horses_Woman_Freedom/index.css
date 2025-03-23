@@ -60,8 +60,14 @@ footer span {
   display: inline;
 }
 
-.player {
-  margin-top: 10%;
-  margin-top: 10%;
+
+.center{
   text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }
