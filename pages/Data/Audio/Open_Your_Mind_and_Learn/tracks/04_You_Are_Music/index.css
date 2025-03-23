@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background: url();
+  background: url(../../cover.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -37,11 +37,6 @@ body {
   text-decoration: none;
 }
 
-.player {
-  margin-top: 10%;
-  text-align: center;
-}
-
 footer {
   text-align: center;
   position: fixed;
@@ -65,4 +60,15 @@ footer span {
 footer a {
   color: yellow;
   text-decoration: none;
+}
+
+.center{
+  text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }

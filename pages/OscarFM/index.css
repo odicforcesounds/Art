@@ -102,10 +102,9 @@ nav li {
 	margin: 5%;
 }
 
-#mplayer {
-	text-align: center;
+.center{
+  text-align: center;
 }
-
 .main {
 	padding: 0.5em;
 	margin-left: 0.3em;
@@ -129,7 +128,9 @@ nav li {
   color:green;
 }
 
-.eternal{
-  color:blue;
-  background-color: yellow;
+.player {
+        text-align: center;
+        height: 42px;
+        width: 500px;
+        border: none; 
 }

@@ -32,15 +32,18 @@ body {
   padding: 0.5%;
 }
 
-.content a {
-  color: yellow;
-  text-decoration: none;
+
+.center{
+  text-align: center;
 }
 
 .player {
-  margin-top: 10%;
-  text-align: center;
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }
+
 
 footer {
   text-align: center;

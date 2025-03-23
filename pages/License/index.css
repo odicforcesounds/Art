@@ -35,11 +35,6 @@ body {
   padding: 0.5%;
 }
 
-.player {
-	text-align: center;
-        padding:5%;
-}
-
 a {
 	color:yellow; 
 	text-decoration: none;
@@ -87,4 +82,13 @@ footer {
 	flex-direction: column;
 }
 
+.center{
+  text-align: center;
+}
 
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
+}

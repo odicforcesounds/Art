@@ -37,9 +37,15 @@ body {
   text-decoration: none;
 }
 
-.player {
-  margin-top: 10%;
+.center{
   text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }
 
 footer {

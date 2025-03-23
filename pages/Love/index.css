@@ -21,11 +21,6 @@ a {
 	position: absolute;
 }
 
-.player {
-  margin-top:10rem;
-  text-align: center ;
-}
-
 .notes {
 	margin-left: 1.5em;
 	margin-right: 1.5em;
@@ -111,10 +106,6 @@ a {
         margin-bottom: 3rem;
 }
 
-iframe {
-	justify-content: center;
-}
-
 .img {
 	text-align: center;
 	justify-content: center;
@@ -140,4 +131,15 @@ footer {
 	background-color: black;
 	display: flex;
 	flex-direction: column;
+}
+
+.center{
+  text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 640px;
+        border: none;
+        margin-top:2rem; 
 }
