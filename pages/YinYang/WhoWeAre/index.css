@@ -30,6 +30,7 @@ body {
 .content2 p {
   text-align: center;
   font-size: 32px;
+  color:white;
 }
 
 
@@ -48,8 +49,16 @@ body {
   display: inline;
 }
 
-.player {
+
+.center{
   text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {

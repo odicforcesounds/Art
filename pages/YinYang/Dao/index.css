@@ -205,3 +205,14 @@ footer {
   display: flex;
   flex-direction: column;
 }
+
+.center{
+  text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
+}
