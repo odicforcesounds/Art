@@ -36,11 +36,6 @@ body {
   padding: 0.5%;
 }
 
-.player {
-  margin-top: 10%;
-  text-align: center;
-}
-
 a {
   color: yellow;
   text-decoration: none;
@@ -63,4 +58,15 @@ footer {
 footer span {
   background-color: black;
   display: inline;
+}
+
+.center{
+  text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 500px;
+        border: none;
+        margin-top:2rem; 
 }
