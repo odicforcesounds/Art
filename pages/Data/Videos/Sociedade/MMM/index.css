@@ -1,6 +1,6 @@
 .container {
   text-align:center;
-  background-color: lightskyblue;
+  background-color: blue;
 }
 
 .container p {
@@ -51,3 +51,17 @@ footer {
   display: flex;
   flex-direction: column;
 }
+.mensagem {
+  text-align: justify;
+  margin: 5rem; 
+}
+
+.mensagem p{
+  font-size: 47px;
+  color:orange; 
+}
+
+.red {
+  color:red; 
+}
+
