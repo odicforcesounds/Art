@@ -24,8 +24,22 @@ header{
   font-size:22px;
   color:white;
   margin:3%;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.mensagem {
+  text-align: justify;
+  margin: 5rem; 
+}
+
+.mensagem p{
+  font-size: 47px;
+  color:orange; 
+}
+
+.red {
+  color:red; 
+}
+
 
 .content{
   text-align:justify;
