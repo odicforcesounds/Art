@@ -53,3 +53,22 @@ footer {
   margin-bottom: 0px;
   background-color: black;
 }
+
+
+.mensagem {
+  text-align: justify;
+  margin: 5rem; 
+}
+
+.mensagem p{
+  font-size: 47px;
+  color:orange; 
+}
+
+.red {
+  color:red; 
+}
+
+.msg{
+  color: white;
+}
