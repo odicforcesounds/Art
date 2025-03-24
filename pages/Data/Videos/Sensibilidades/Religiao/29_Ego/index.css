@@ -17,12 +17,12 @@
 
 .description {
   text-align: center;
-  color: yellow;
+  color: white;
 }
 
 .container a {
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 footer span {
@@ -30,9 +30,8 @@ footer span {
 }
 
 footer a {
-  color: cyan;
+  color: yellow;
   text-decoration: none;
-
 }
 
 footer {
