@@ -35,10 +35,15 @@ body {
   color: cyan;
   padding: 0.5%;
 }
+.center{
+  text-align: center;
+}
 
 .player {
-  margin-top: 10%;
-  text-align: center;
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
