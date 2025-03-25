@@ -36,30 +36,15 @@ body {
   padding: 0.5%;
 }
 
+.center{
+  text-align: center;
+}
+
 .player {
-  text-align: center;
-  margin-top: 10%;
-}
-
-.player2 {
-  text-align: center;
-  margin-top: 10%;
-}
-
-.player2 p {
-  display: inline;
-  line-height: 1em;
-  background-color: black;
-  color: cyan;
-  padding: 0.5%;
-}
-
-.player2 h3 {
-  display: inline;
-  line-height: 4em;
-  background-color: black;
-  color: cyan;
-  padding: 0.5%;
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
