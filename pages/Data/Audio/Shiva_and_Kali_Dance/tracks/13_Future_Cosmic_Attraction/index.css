@@ -37,9 +37,15 @@ body {
   padding: 0.5%;
 }
 
-.player {
+.center{
   text-align: center;
-  margin-top: 10%;
+}
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
