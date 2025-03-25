@@ -42,9 +42,15 @@ a {
   text-decoration: none;
 }
 
-.player {
+.center{
   text-align: center;
-  margin-bottom: 2%;
+}
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 .texto {

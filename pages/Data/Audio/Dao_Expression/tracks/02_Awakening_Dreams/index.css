@@ -31,9 +31,15 @@ body {
   font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-.player {
+.center{
   text-align: center;
-  margin-top: 10%;
+}
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
