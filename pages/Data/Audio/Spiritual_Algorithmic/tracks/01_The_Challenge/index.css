@@ -69,11 +69,17 @@ body {
   text-decoration: none;
 }
 
-.player {
-  margin-top: 5%;
-  margin-left: 2%;
+.center{
   text-align: center;
 }
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
+}
+
 
 footer {
   text-align: center;
