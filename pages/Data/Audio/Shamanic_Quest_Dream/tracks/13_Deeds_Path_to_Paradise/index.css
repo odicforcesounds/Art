@@ -42,8 +42,15 @@ body {
   top: 2em;
 }
 
-.player {
+.center{
   text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {

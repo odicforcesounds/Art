@@ -36,10 +36,15 @@ body {
   padding: 0.5%;
 }
 
-.player {
-  margin-top: 10%;
-  margin-bottom: 5%;
+.center{
   text-align: center;
+}
+
+.player {
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
