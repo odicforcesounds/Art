@@ -34,13 +34,19 @@ body {
 	padding: 0.5%;
 }
 
+.center{
+  text-align: center;
+}
+
 .player {
-	text-align: center;
-        margin-top:3%;
+        height: 42px;
+        width: 600px;
+        border: none;
+        margin-top:2rem; 
 }
 
 a {
-	color: white;
+	color: yellow;
 	text-decoration: none;
 }
 
