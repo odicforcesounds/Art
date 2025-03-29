@@ -52,6 +52,10 @@ a {
   text-decoration: none;
 }
 
+.ext{
+  color:rosybrown;
+}
+
 footer {
   text-align: center;
   position: fixed;
