@@ -5,11 +5,6 @@ body {
 	padding: 0;
 }
 
-a {
-	color: white;
-	text-decoration: none;
-}
-
 .container {
 	background: url(./Dragon_Dance2.webp);
 	background-repeat: no-repeat;
@@ -48,8 +43,11 @@ a {
 	margin-right: 1em;
 }
 
+a{
+  color:yellow;
+}
+
 .message a {
-	color: yellow;
 	margin-left: 0.1em;
 	margin-right: 0.1em;
 	text-decoration: none;
@@ -118,6 +116,7 @@ footer span{
 
 footer a{
   color: yellow;
+  text-decoration: none;
 }
 
 footer {
@@ -135,6 +134,11 @@ footer {
 
 .center{
   text-align: center;
+}
+
+.ext{
+  color:rosybrown;
+  
 }
 
 .player {
