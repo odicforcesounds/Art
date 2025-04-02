@@ -162,6 +162,7 @@ footer span {
 .Tao {
   float: right;
   margin-right: 5%;
+  margin-top: -2%; 
   list-style-type: none;
   text-decoration: none;
 }
