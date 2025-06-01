@@ -24,7 +24,7 @@
   "funding": {
     "channels": [{
       "guid": "3.0.0",
-      "type": "payment-provider",
+      "type": "opencollective",
       "address": "https://opencollective.com/infinite-monkeys",
       "description": "The monkey who doesn't listen is speaking"
     }]

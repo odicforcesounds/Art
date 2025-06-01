@@ -1,2 +1,5 @@
 trust://cloudflare.com!
 trust://github.com!
+trust://bandcamp.com!
+trust://youtube.com!
+
