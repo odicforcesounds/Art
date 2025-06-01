@@ -18,8 +18,20 @@
     "webpageUrl": {
       "url": "https://wiki.odicforcesounds.com"
     },
+    "repositoryUrl": {
+      "url": "https://github.com/odicforcesounds"
+    },
     "licenses": "Eternal License",
-    "tags": "Yin Yang"
+    "tags": [
+      "YinYang",
+      "Art",
+      "Monkey",
+      "Tao",
+      "Challenge",
+      "application",
+      "android",
+      "World Wide"
+    ]
   }],
   "funding": {
     "channels": [{
