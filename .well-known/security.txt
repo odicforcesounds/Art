@@ -1,4 +1,4 @@
 Contact: mailto:info@odicforcesounds.com
 Expires: 2035-12-31T00:59:00.000Z
-Preferred-Languages: en, pt
+Preferred-Languages: pt, es, en
 
