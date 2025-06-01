@@ -3,7 +3,7 @@
   "entity": {
     "type": "individual",
     "role": "owner",
-    "name": "InfinityMonkeys",
+    "name": "odicforcesounds",
     "email": "info@odicforcesounds.com",
     "description": "The monkey who doesn't listen is speaking",
     "webpageUrl": {
@@ -12,11 +12,11 @@
     }
   },
   "projects": [{
-    "guid": "7.0.0",
-    "name": "odicforcesounds",
-    "description": "The monkey who doesn't listen is speaking",
+    "guid": "stk",
+    "name": "Social Tool Kit",
+    "description": "Application focused on Android devices. Made for children, while we all have a children inside. Each action of care have value",
     "webpageUrl": {
-      "url": "https://github.com/odicforcesounds"
+      "url": "https://wiki.odicforcesounds.com"
     },
     "licenses": "Eternal License",
     "tags": "Yin Yang"
