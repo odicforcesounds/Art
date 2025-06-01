@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "InfinityMonkeys",
+    "email": "info@odicforcesounds.com",
+    "description": "The monkey who doesn't listen is speaking",
+    "webpageUrl": {
+      "url": "https://odicforcesounds.com",
+      "wellknown": "https://odicforcesounds.com/.wellknown/"
+    }
+  },
+  "projects": [{
+    "guid": "7.0.0",
+    "name": "odicforcesounds",
+    "description": "The monkey who doesn't listen is speaking",
+    "webpageUrl": {
+      "url": "https://github.com/odicforcesounds"
+    },
+    "licenses": "Eternal License",
+    "tags": "Yin Yang"
+  }],
+  "funding": {
+    "channels": [{
+      "guid": "3.0.0",
+      "type": "payment-provider",
+      "address": "https://opencollective.com/infinite-monkeys",
+      "description": "The monkey who doesn't listen is speaking"
+    }]
+  }
+}
+
