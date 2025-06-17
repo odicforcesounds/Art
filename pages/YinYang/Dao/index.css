@@ -78,11 +78,11 @@ nav li {
 }
 
 .table tr {
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
 }
 
 .table th {
-  margin: 10px calc(2vw + 5px);
+  margin: 10px calc(1.5vw + 5px);
 }
 
 .symbol {
@@ -160,8 +160,8 @@ nav li {
 }
 
 .icon {
-  width: 32px;
-  height: 32px;
+  width: 22px;
+  height: 22px;
 }
 
 .slogan {
@@ -172,7 +172,7 @@ nav li {
 .poem {
   font-size: calc(3vw + 0.5vh + 0.2vmin);
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   line-height: 4rem;
   color: white;
 }
