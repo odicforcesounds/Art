@@ -76,7 +76,6 @@ nav ul li {
   justify-content: center;
   font-size: calc(1vw + 0.5vh + 0.2vmin);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: yellow;
 }
 
 .sideL {
@@ -170,6 +169,22 @@ footer span {
 
 .item {
   background-color: black;
+}
+
+.color-red{
+  color:red;
+}
+
+.color-cyan{
+  color:cyan;
+}
+
+.color-white{
+  color:white;
+}
+
+.item a{
+  color:none;
 }
 
 footer a {
