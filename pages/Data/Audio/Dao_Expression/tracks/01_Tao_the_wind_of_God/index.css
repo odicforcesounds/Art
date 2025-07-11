@@ -42,26 +42,26 @@ a {
   text-decoration: none;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 600px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 600px;
+  border: none;
+  margin-top: 2rem;
 }
 
 .texto {
   line-height: 4em;
-  padding:0.5%;
+  padding: 0.5%;
   text-align: justify;
 }
 
 .pt {
-  margin:3%;
-  color:white;
+  margin: 3%;
+  color: white;
   background-color: black;
   display: inline;
   font-size: calc(2vw + 0.5vh + 02vmin);

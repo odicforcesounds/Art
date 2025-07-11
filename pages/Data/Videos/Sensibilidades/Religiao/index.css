@@ -3,39 +3,39 @@
   background-color: darkblue;
 }
 
-header{
-  padding-top:1%;
+header {
+  padding-top: 1%;
   text-align: center;
   color: yellowsmoke;
   font-size: large;
 }
 
-.content{
-  display:relative;
-  font-size:42px;
-  margin:2%;
-  text-align:justify;
-}
-
-.content p{
-  color:gray;
-}
-
-.content a{
-  color:cyan;
-  text-decoration:none;
-}
-
-.desc4{
+.content {
+  display: relative;
+  font-size: 42px;
+  margin: 2%;
   text-align: justify;
-  color:cyan;
-  margin:2%;
 }
 
-.attention{
+.content p {
+  color: gray;
+}
+
+.content a {
+  color: cyan;
+  text-decoration: none;
+}
+
+.desc4 {
   text-align: justify;
-  margin:2%;
-  color:lightgreen;
+  color: cyan;
+  margin: 2%;
+}
+
+.attention {
+  text-align: justify;
+  margin: 2%;
+  color: lightgreen;
 }
 
 footer a {
@@ -57,18 +57,18 @@ footer {
 
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
 
-.msg{
+.msg {
   color: white;
 }

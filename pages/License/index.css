@@ -1,21 +1,22 @@
 html,
 body {
-	margin: 0%;
-	margin-top: 0%;
-	padding: 0%;
-	background-color: black;
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  background-color: black;
 }
 
 .container {
-	background: url(./license.webp);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	min-width: 100%;
-	min-height: 100%;
-	position: absolute;
+  background: url(./license.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
 }
+
 .content {
   position: relative;
   width: 95%;
@@ -36,59 +37,59 @@ body {
 }
 
 a {
-	color:yellow; 
-	text-decoration: none;
+  color: yellow;
+  text-decoration: none;
 }
 
 .license {
-        margin:1.7em;
-        display:relative;
-	text-align: center;
-	color: red;
-	font-size: calc(2vw + 0.5vh + 0.2vmin);
+  margin: 1.7em;
+  display: relative;
+  text-align: center;
+  color: red;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-.red{
-  color:red;
+.red {
+  color: red;
 }
 
-.green{
-  color:lightgreen;
+.green {
+  color: lightgreen;
 }
 
 .license p {
-	background-color: black;
-        text-align:center;
+  background-color: black;
+  text-align: center;
 }
 
 
 footer span {
-	color: cyan;
-	background-color: black;
-	display: inline;
+  color: cyan;
+  background-color: black;
+  display: inline;
 }
 
 footer {
-	text-align: center;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	margin-bottom: 0px;
-	text-decoration: none;
-	color: cyan;
-	background-color: black;
-	display: flex;
-	flex-direction: column;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-top: 2rem;
 }

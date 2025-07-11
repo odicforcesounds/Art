@@ -64,15 +64,15 @@ code {
   font-size: small;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 600px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 600px;
+  border: none;
+  margin-top: 2rem;
 }
 
 a {
@@ -81,7 +81,7 @@ a {
 }
 
 .mark {
-  color:white;
+  color: white;
 }
 
 footer {

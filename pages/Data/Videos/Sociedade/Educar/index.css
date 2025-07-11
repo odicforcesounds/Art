@@ -9,27 +9,27 @@
 .slogan {
   color: yellow;
   font-size: 18px;
-  text-align:center;
+  text-align: center;
 }
 
-.player{
-  margin-top:1%;
+.player {
+  margin-top: 1%;
 }
 
-.box{
-  text-align:justify;
-  color:gray;
-  padding:0.5%;
+.box {
+  text-align: justify;
+  color: gray;
+  padding: 0.5%;
 }
 
-.box p{
-  font-size:32px;
-  padding:2%;
+.box p {
+  font-size: 32px;
+  padding: 2%;
 }
 
-.box a{
-  text-decoration:none;
-  color:yellow;
+.box a {
+  text-decoration: none;
+  color: yellow;
 }
 
 footer span {
@@ -60,15 +60,14 @@ footer {
 
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
-

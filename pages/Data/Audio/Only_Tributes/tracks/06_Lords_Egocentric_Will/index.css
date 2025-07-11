@@ -1,14 +1,14 @@
 html,
 body {
-  margin: 0%; 
-  margin-top: 0%; 
-  padding: 0%;  
+  margin: 0%;
+  margin-top: 0%;
+  padding: 0%;
   background-color: black;
-}   
+}
 
 .container {
   background: url(./lords.webp);
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -36,15 +36,15 @@ body {
   padding: 0.5%;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-top: 2rem;
 }
 
 a {

@@ -34,8 +34,8 @@ nav ul li {
   display: flex;
   flex-direction: row;
   justify-content: right;
-  margin-top: -10%; 
-  margin-right: 5%; 
+  margin-top: -10%;
+  margin-right: 5%;
 }
 
 .sideR p {
@@ -68,7 +68,7 @@ nav ul li {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: white;
   line-height: 2rem;
-  margin-top: -10%; 
+  margin-top: -10%;
 }
 
 .sideC a {
@@ -83,7 +83,7 @@ nav ul li {
   display: flex;
   flex-direction: row;
   justify-content: left;
-  margin-left: 5%; 
+  margin-left: 5%;
 }
 
 .sideL p {
@@ -103,19 +103,19 @@ nav ul li {
   color: yellow;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-bottom: 15%;
-        margin-top:10%;
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-bottom: 15%;
+  margin-top: 10%;
 }
 
-.articles{
+.articles {
   display: block;
   flex-direction: column;
   justify-content: center;
@@ -154,17 +154,22 @@ footer span {
   display: inline;
 }
 
-.YY  {
+.YY {
   text-align: center;
   list-style-type: none;
   text-decoration: none;
 }
+
 .Tao {
   float: right;
   margin-right: 5%;
-  margin-top: -2%; 
+  margin-top: -2%;
   list-style-type: none;
   text-decoration: none;
+}
+
+.item {
+  background-color: black;
 }
 
 footer a {

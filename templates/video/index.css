@@ -4,7 +4,7 @@
   background-color: black;
 }
 
-.player{
+.player {
   text-align: center;
 }
 
@@ -18,14 +18,14 @@
   color: yellow;
 }
 
-.description a{
+.description a {
   text-decoration: none;
-  color:lightblue;
+  color: lightblue;
 }
 
 footer span {
   display: inline;
-  color:white;
+  color: white;
 }
 
 footer a {
@@ -41,5 +41,5 @@ footer {
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
-  background-color:black;
+  background-color: black;
 }

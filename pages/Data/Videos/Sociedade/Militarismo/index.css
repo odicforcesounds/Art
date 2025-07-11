@@ -8,64 +8,66 @@ header {
   text-align: center;
 }
 
-.player{
+.player {
   padding: 0.5%;
 }
 
-.player iframe{
-  margin:2%;
+.player iframe {
+  margin: 2%;
 }
 
-.desc1{
-  color:white;
+.desc1 {
+  color: white;
 }
 
-.box{
-  display:flex;
-  justify-content:space-between;
-  text-align:justify;
-}
-
-.box p{
-  font-size:20px;
-  color:lightgreen;
-}
-
-.box a{
-  color:cyan;
-  text-decoration:none;
-}
-
-.desc4{
+.box {
+  display: flex;
+  justify-content: space-between;
   text-align: justify;
-  color:darkgreen;
-  padding:1%;
-  margin-right:1%;
-  font-size:22px;
 }
 
-.attention{
-  text-align: justify;
-  margin-right:1%;
-  color:gray;
-  padding:1%;
-  font-size:22px;
+.box p {
+  font-size: 20px;
+  color: lightgreen;
 }
 
-.left{
-  text-align:justify;
-}
-
-
-.left p{
-  background-color:#2c1503;
-  padding:0.2%;
-  margin:1%;
-}
-.left a{
+.box a {
+  color: cyan;
   text-decoration: none;
-  color:white;
 }
+
+.desc4 {
+  text-align: justify;
+  color: darkgreen;
+  padding: 1%;
+  margin-right: 1%;
+  font-size: 22px;
+}
+
+.attention {
+  text-align: justify;
+  margin-right: 1%;
+  color: gray;
+  padding: 1%;
+  font-size: 22px;
+}
+
+.left {
+  text-align: justify;
+}
+
+
+.left p {
+  background-color: #2c1503;
+  padding: 0.2%;
+  margin: 1%;
+}
+
+.left a {
+  text-decoration: none;
+  color: white;
+}
+
 footer span {
   display: inline;
 }
@@ -85,17 +87,17 @@ footer {
   margin-bottom: 0px;
   background-color: black;
 }
+
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
-

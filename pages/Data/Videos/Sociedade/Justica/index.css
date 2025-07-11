@@ -2,40 +2,40 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color:black;
-  text-align:center;
+  background-color: black;
+  text-align: center;
 }
 
-.desc4{
-  color:white;
-  margin:3%;
-  text-align:justify;
-  font-size:18px;
+.desc4 {
+  color: white;
+  margin: 3%;
+  text-align: justify;
+  font-size: 18px;
 }
 
-.attention{
-  color:orange;
-  margin:3%;
-  text-align:justify;
-  font-size:18px;
+.attention {
+  color: orange;
+  margin: 3%;
+  text-align: justify;
+  font-size: 18px;
 }
 
 .container {
   position: relative;
 }
 
-.content{
+.content {
   display: flex;
-  flex-direction:row;
+  flex-direction: row;
   flex-flow: row nowrap;
-  margin:3%;
-  text-align:justify;
+  margin: 3%;
+  text-align: justify;
 }
 
-.content p{
-  color:white;
-  font-size:32px;
-  margin-top:2%;
+.content p {
+  color: white;
+  font-size: 32px;
+  margin-top: 2%;
 }
 
 
@@ -45,7 +45,7 @@ a {
   text-decoration: none;
 }
 
-footer span{
+footer span {
   color: cyan;
   background-color: black;
   display: inline;
@@ -72,14 +72,14 @@ footer {
 
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }

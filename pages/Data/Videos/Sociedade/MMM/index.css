@@ -1,5 +1,5 @@
 .container {
-  text-align:center;
+  text-align: center;
   background-color: blue;
 }
 
@@ -8,26 +8,26 @@
 }
 
 .box {
-  display:flex;
-  flex-direction:row;
-  justify-content:center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 
 }
 
 .box p {
   text-align: center;
-  padding:2.5%;
-  font-size:42px;
+  padding: 2.5%;
+  font-size: 42px;
 }
 
-.box a{
-  font-size:22px;
+.box a {
+  font-size: 22px;
   text-decoration: none;
-  color:darkgreen;
-  background-color:lightgreen;
+  color: darkgreen;
+  background-color: lightgreen;
 }
 
-footer span{
+footer span {
   color: cyan;
   background-color: black;
   display: inline;
@@ -51,17 +51,17 @@ footer {
   display: flex;
   flex-direction: column;
 }
+
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
-

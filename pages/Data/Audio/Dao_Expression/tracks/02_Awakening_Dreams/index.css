@@ -31,15 +31,15 @@ body {
   font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 600px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 600px;
+  border: none;
+  margin-top: 2rem;
 }
 
 a {

@@ -32,7 +32,7 @@ body {
 }
 
 .content a {
-  color:white;
+  color: white;
   text-decoration: none;
 }
 
@@ -42,27 +42,26 @@ body {
 }
 
 footer {
-	text-align: center;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	margin-bottom: 0px;
-	text-decoration: none;
-	color: cyan;
-	background-color: black;
-	display: flex;
-	flex-direction: column;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
 }
 
 footer span {
-	color: cyan;
-	background-color: black;
-	display: inline;
+  color: cyan;
+  background-color: black;
+  display: inline;
 }
 
 footer a {
   color: yellow;
   text-decoration: none;
 }
-

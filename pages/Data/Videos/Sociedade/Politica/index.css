@@ -1,46 +1,47 @@
 .container {
-  background-color:darkblue;
-  text-align:center;
+  background-color: darkblue;
+  text-align: center;
 }
 
-.player{
-  margin:2%;
-  padding:2.5%;
-  display:flex;
+.player {
+  margin: 2%;
+  padding: 2.5%;
+  display: flex;
 }
 
-.player iframe{
-  display:flex;
-  justify-content:space-between;
-  text-align:justify;
+.player iframe {
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
 }
 
 .attention {
   color: gold;
   font-size: calc(1vw + 0.5vh + 0.2vmin);
   background-color: black;
-  margin:2%;
+  margin: 2%;
 }
 
 .desc4 {
   color: yellow;
   font-size: calc(1vw + 0.5vh + 0.2vmin);
   background-color: black;
-  margin:2%;
+  margin: 2%;
 }
 
-.box{
+.box {
   text-align: justify;
 }
-.box p{
-  font-size:42px;
-  color:gray;
-  padding:2%;
+
+.box p {
+  font-size: 42px;
+  color: gray;
+  padding: 2%;
 }
 
-.box a{
-  color:blue;
-  background-color:white;
+.box a {
+  color: blue;
+  background-color: white;
   text-decoration: none;
 }
 
@@ -50,7 +51,7 @@ footer span {
 }
 
 footer a {
-  color:white;
+  color: white;
   text-decoration: none;
 }
 
@@ -64,17 +65,17 @@ footer {
   text-decoration: none;
   background-color: black;
 }
+
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
-

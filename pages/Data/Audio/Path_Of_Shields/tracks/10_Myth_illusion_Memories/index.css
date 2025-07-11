@@ -43,15 +43,15 @@ body {
   color: aliceblue;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-top: 2rem;
 }
 
 a {

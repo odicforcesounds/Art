@@ -59,13 +59,14 @@ footer span {
   background-color: black;
   display: inline;
 }
-.center{
+
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-top: 2rem;
 }

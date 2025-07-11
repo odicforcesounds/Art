@@ -67,15 +67,15 @@ body {
   display: inline;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 600px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 600px;
+  border: none;
+  margin-top: 2rem;
 }
 
 a {

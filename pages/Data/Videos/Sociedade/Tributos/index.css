@@ -3,28 +3,28 @@
   margin: 2%;
   padding: 1%;
   background-color: midnightblue;
-  text-align:center;
+  text-align: center;
 }
 
 
 
-.box{
-  text-align:center;
+.box {
+  text-align: center;
 }
 
-.box p{
-  padding:3%;
-  color:cyan;
-  font-size:22px;
+.box p {
+  padding: 3%;
+  color: cyan;
+  font-size: 22px;
 }
 
-.box a{
+.box a {
   text-decoration: none;
-  color:goldenrod;
-  font-size:22px;
+  color: goldenrod;
+  font-size: 22px;
 }
 
-footer span{
+footer span {
   color: cyan;
   background-color: black;
   display: inline;
@@ -55,15 +55,14 @@ footer {
 
 .mensagem {
   text-align: justify;
-  margin: 5rem; 
+  margin: 5rem;
 }
 
-.mensagem p{
+.mensagem p {
   font-size: 47px;
-  color:orange; 
+  color: orange;
 }
 
 .red {
-  color:red; 
+  color: red;
 }
-

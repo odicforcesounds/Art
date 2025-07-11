@@ -8,13 +8,13 @@ body {
 
 .container {
   background-image: url(./fu.webp);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	min-width: 100%;
-	min-height: 100%;
-	position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
 }
 
 header {
@@ -120,19 +120,20 @@ nav li {
 }
 
 .fantasy:hover a {
-  color:blue;
+  color: blue;
   background-color: yellow;
 }
+
 .logic {
   background-color: yellow;
   color: blue;
 }
 
 .logic a {
-  color:blue;
+  color: blue;
 }
 
-.logic:hover  {
+.logic:hover {
   color: yellow;
   background-color: blue;
 }
@@ -150,10 +151,11 @@ nav li {
   color: white;
 }
 
-.application:hover  {
+.application:hover {
   color: green;
   background-color: darkgoldenrod;
 }
+
 .application:hover a {
   color: black;
   background-color: darkgoldenrod;
@@ -177,8 +179,8 @@ nav li {
   color: white;
 }
 
-.poem a{
-  color:yellow;
+.poem a {
+  color: yellow;
 }
 
 
@@ -206,13 +208,13 @@ footer {
   flex-direction: column;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .player {
-        height: 42px;
-        width: 500px;
-        border: none;
-        margin-top:2rem; 
+  height: 42px;
+  width: 500px;
+  border: none;
+  margin-top: 2rem;
 }
