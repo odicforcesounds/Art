@@ -25,8 +25,12 @@ body {
 .content p {
   font-size: calc(2vw + 0.5vh + 0.2vmin);
   color: cyan;
+  background-color: black;
 }
 
+.electricity{
+  color:white;
+}
 .content a {
   color: yellow;
   text-decoration: none;
