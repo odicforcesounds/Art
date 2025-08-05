@@ -1,0 +1,13 @@
+/wp-content/*
+/wp-admin/* 
+/wp-main/* 
+/wp-includes/* 
+/about/* 
+/cgi-bin/*
+/function/*
+/aws/*
+/admin/*
+/api/*
+/cacti/*
+/_profiler/
+
