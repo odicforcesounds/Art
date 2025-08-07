@@ -1,0 +1,13 @@
+Dublin - Ireland
+OS: Windows
+Agent: " " 
+TLSv1.1
+ASN: 8075
+
+Tokio - Japan
+OS: Windows
+Agent: " " 
+TLSV1.2
+ASN: 8075
+
+
