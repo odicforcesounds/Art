@@ -1,8 +1,5 @@
-# vim terminal 
 # vsplit empty
 # :terminal -> live-server -> start local http server 
-# ctrl+w+w -> change prompt to file and open new terminal 
-# :terminal -> Use this terminal to commit changes 
 # ctrl+w+w -> change prompt to file and open new terminal 
 # :tabNew -> ctrl+t to open new tab with empty file 
 
