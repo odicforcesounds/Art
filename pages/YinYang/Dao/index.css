@@ -179,6 +179,12 @@ nav li {
   color: white;
 }
 
+.poem p {
+  background-color: black;
+  opacity: 0.8;
+  display: inline;
+}
+
 .poem a {
   color: yellow;
 }
