@@ -138,3 +138,33 @@ nav li {
   width: 500px;
   border: none;
 }
+@media screen and (max-width:600px) {
+  .container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .text,
+  .image {
+    width: 100%;
+  }
+
+  .container {
+    min-width: 200px;
+    padding: 40px 0px;
+  }
+
+  .text {
+    display: block;
+    width: 100%;
+    padding: 20px 40px;
+  }
+
+  .image {
+    display: flex;
+    width: 200px;
+    align-self: center;
+    justify-content: center;
+    margin: auto;
+  }
+}

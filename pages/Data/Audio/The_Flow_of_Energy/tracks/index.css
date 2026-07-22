@@ -20,12 +20,6 @@ section {
   width: 450px;
 }
 
-..text {
-  display: block;
-  padding: 40px 40px;
-  width: 450px;
-}
-
 .text h1 {
   color: #00c2cb;
   font-size: 35px;
