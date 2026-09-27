@@ -1,1 +1,5 @@
 node_modules/
+dist/
+.angular/
+out-tsc/
+npm-debug.log*
