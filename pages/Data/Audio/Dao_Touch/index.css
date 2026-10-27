@@ -69,3 +69,112 @@ footer p {
   background-color: black;
   display: inline;
 }
+
+/* ==== page design (moved here so it is allowed under a self-only CSP) ==== */
+
+    /* ---- shell : dao.webp is the full page background ---- */
+    body.container {
+      position: relative;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      min-height: 100vh;
+      min-height: 100dvh;
+      margin: 0;
+      padding: 0;
+      background: #000 url(./dao.webp) center center / cover no-repeat fixed;
+      color: cyan;
+      text-align: center;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+
+    body.container a {
+      color: yellow;
+      text-decoration: none;
+      border-bottom: 1px dotted currentColor;
+    }
+
+    body.container a:hover,
+    body.container a:focus-visible {
+      color: #fff;
+    }
+
+    /* ---- header icon ---- */
+    body.container header {
+      text-align: left;
+    }
+
+    body.container nav ul {
+      margin: 0;
+      padding: 1rem;
+      list-style: none;
+    }
+
+    body.container nav li {
+      display: inline-flex;
+      list-style: none;
+    }
+
+    body.container .tlinky {
+      display: block;
+      width: 42px;
+      height: 42px;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.45);
+    }
+
+    body.container nav a {
+      border-bottom: 0;
+    }
+
+    body.container nav a:hover .tlinky {
+      border-color: yellow;
+    }
+
+    /* ---- the track list ---- */
+    body.container .content {
+      position: static;
+      width: 100%;
+      max-width: 44rem;
+      margin: 0 auto;
+      padding: 1rem 1rem 3rem;
+      text-align: center;
+    }
+
+    body.container .content p {
+      display: block;
+      font-size: clamp(0.95rem, 1.4vw + 0.5vh, 1.2rem);
+      line-height: 1.8;
+      background: rgba(0, 0, 0, 0.68);
+      color: cyan;
+      padding: 0.9rem 1.1rem;
+      margin: 0 auto 1rem;
+      border-radius: 6px;
+      backdrop-filter: blur(3px);
+    }
+
+    body.container .content > br {
+      display: none;
+    }
+
+    /* ---- polish ---- */
+    body.container .content {
+      animation: fade-in 0.6s ease-out both;
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    @media (max-width: 600px) {
+      body.container {
+        background-attachment: scroll;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body.container .content {
+        animation: none;
+      }
+    }

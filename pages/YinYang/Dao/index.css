@@ -1,254 +1,299 @@
-html,
-body {
-  margin: 0%;
-  margin-top: 0%;
-  padding: 0%;
-  background-color: black;
+/* ===== Dao - 道 page ===== */
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Page container */
 .container {
-  background-image: url(./fu.webp);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-  min-width: 100%;
-  min-height: 100%;
-  position: absolute;
-}
-
-header {
-  text-align: center;
-}
-
-a {
-  color: yellow;
-  text-decoration: none;
-}
-
-nav {
-  flex-flow: column wrap;
-  align-content: center;
-}
-
-nav ul {
-  top: 0;
-  flex-direction: column-reverse;
-}
-
-nav li {
-  list-style: none;
-  display: inline;
-}
-
-.topmenus {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: url(./fu.webp) center center / cover no-repeat fixed;
   display: flex;
-  flex-direction: column nowrap;
-  flex-flow: column nowrap;
-  justify-content: space-between;
+  flex-direction: column;
 }
 
-/* Tamanho das dos ICONS do site */
-.tlinky {
-  width: 46px;
-  height: 46px;
+/* Links */
+a {
+  color: #ffd700;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
 }
 
-.tlinkh {
-  width: 46px;
-  height: 46px;
+a:hover,
+a:focus-visible {
+  color: #fff;
 }
 
-.YinYang {
-  float: left;
-}
-
-.OscarFM {
-  float: right;
-  margin-right: 2em;
-}
-
-.table {
-  text-align: center;
-  width: 100%;
-  height: 95%;
-  color: white;
-  align-items: stretch;
+/* Header with navigation icons */
+header {
+  text-align: left;
   padding: 1rem;
 }
 
-.table tr {
-  font-size: calc(1.5vw + 0.5vh + 0.2vmin);
+nav.topmenus ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
+nav.topmenus li {
+  display: inline-flex;
+  list-style: none;
+}
+
+nav.topmenus img {
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  display: block;
+}
+
+nav.topmenus a {
+  border-bottom: none;
+}
+
+nav.topmenus a:hover img {
+  border-color: #ffd700;
+}
+
+/* Player iframe */
+.center {
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.player {
+  display: block;
+  width: min(100%, 500px);
+  height: 42px;
+  margin: 0 auto;
+  border: 0;
+}
+
+/* YinYang logic table */
+.content {
+  flex: 1;
+  padding: 1.5rem 0.5rem;
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  max-width: 62rem;
+  margin: 0 auto;
+  border-collapse: collapse;
+  text-align: center;
+  color: white;
+}
+
+.table td,
 .table th {
-  margin: 10px calc(1.5vw + 5px);
+  padding: 0.55rem 0.6rem;
+  vertical-align: middle;
+  text-align: center;
+  font-size: clamp(0.8rem, 1.1vw + 0.35vh, 1.05rem);
+  line-height: 1.4;
 }
 
-.symbol {
+.table .icon {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
+
+.table .symbol {
   background-color: black;
   color: rgb(255, 102, 0);
 }
 
-.yinyang {
+.table .yinyang {
   background-color: darkgoldenrod;
   color: black;
 }
 
-.yinyang a {
+.table .yinyang a {
   color: black;
 }
 
-.yinyang:hover a {
-  color: white;
-  background-color: green;
+.table .logic {
+  background-color: yellow;
+  color: blue;
 }
 
-.yinyang:hover {
+.table .logic a {
+  color: blue;
+}
+
+.table .fantasy {
+  background-color: blue;
+  color: yellow;
+}
+
+.table .fantasy a {
+  color: yellow;
+}
+
+.table .application {
+  background-color: green;
+  color: white;
+}
+
+.table .application a {
+  color: white;
+}
+
+.table .yinyang a,
+.table .logic a,
+.table .fantasy a,
+.table .application a {
+  border-bottom: 0;
+  font-weight: 600;
+}
+
+/* Table hover effects */
+.table .yinyang:hover {
   background-color: green;
   color: black;
 }
 
-.fantasy {
-  background-color: blue;
-  color: yellow;
-}
-
-.fantasy:hover {
-  color: blue;
-  background-color: yellow;
-}
-
-.fantasy:hover a {
-  color: blue;
-  background-color: yellow;
-}
-
-.logic {
-  background-color: yellow;
-  color: blue;
-}
-
-.logic a {
-  color: blue;
-}
-
-.logic:hover {
-  color: yellow;
-  background-color: blue;
-}
-
-.logic:hover a {
-  color: yellow;
-  background-color: blue;
-}
-
-.application {
+.table .yinyang:hover a {
   background-color: green;
-}
-
-.application a {
   color: white;
 }
 
-.application:hover {
+.table .logic:hover {
+  background-color: blue;
+  color: yellow;
+}
+
+.table .logic:hover a {
+  background-color: blue;
+  color: yellow;
+}
+
+.table .fantasy:hover {
+  background-color: yellow;
+  color: blue;
+}
+
+.table .fantasy:hover a {
+  background-color: yellow;
+  color: blue;
+}
+
+.table .application:hover {
+  background-color: darkgoldenrod;
   color: green;
-  background-color: darkgoldenrod;
 }
 
-.application:hover a {
+.table .application:hover a {
+  background-color: darkgoldenrod;
   color: black;
-  background-color: darkgoldenrod;
 }
 
-.icon {
-  width: 22px;
-  height: 22px;
-}
-
-.slogan {
-  text-align: center;
-  color: white;
-}
-
+/* Poem section */
 .poem {
-  font-size: calc(3vw + 0.5vh + 0.2vmin);
+  width: 100%;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
   text-align: center;
-  color: white;
+  font-size: clamp(0.95rem, 1.3vw + 0.5vh, 1.15rem);
+}
+
+.poem h3 {
+  margin: 0 0 1rem;
+  font-size: clamp(1rem, 1.6vw + 0.5vh, 1.35rem);
+  color: #fff;
 }
 
 .poem p {
-  background-color: black;
-  opacity: 0.7;
-  display: inline;
+  display: block;
+  margin: 0 auto 1rem;
+  padding: 0.9rem 1rem;
+  background: rgba(0, 0, 0, 0.68);
+  border-radius: 6px;
+  color: #fff;
+  line-height: 1.9;
+  backdrop-filter: blur(3px);
+}
+
+.poem b {
+  color: cyan;
 }
 
 .poem a {
   color: yellow;
 }
 
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.7);
+}
 
 footer span {
-  color: cyan;
-  background-color: black;
   display: inline;
+  color: cyan;
+  background: transparent;
 }
 
 footer a {
   color: yellow;
 }
 
-footer {
-  text-align: center;
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  margin-bottom: 0px;
-  text-decoration: none;
-  color: cyan;
-  background-color: black;
-  display: flex;
-  flex-direction: column;
+/* Fade-in animation */
+header,
+.center,
+.content,
+.poem {
+  animation: fade-in 0.6s ease-out both;
 }
 
-.center {
-  text-align: center;
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
 }
 
-.player {
-  height: 42px;
-  width: 500px;
-  border: none;
-  margin-top: 2rem;
-}
-@media screen and (max-width:600px) {
+/* Responsive */
+@media (max-width: 600px) {
   .container {
-    display: flex;
-    flex-direction: column-reverse;
+    background-attachment: scroll;
   }
 
-  .text,
-  .image {
-    width: 100%;
+  .table td,
+  .table th {
+    padding: 0.4rem;
+    font-size: 0.78rem;
   }
+}
 
-  .container {
-    min-width: 200px;
-    padding: 40px 0px;
-  }
-
-  .text {
-    display: block;
-    width: 100%;
-    padding: 20px 40px;
-  }
-
-  .image {
-    display: flex;
-    width: 200px;
-    align-self: center;
-    justify-content: center;
-    margin: auto;
+@media (prefers-reduced-motion: reduce) {
+  header,
+  .center,
+  .content,
+  .poem {
+    animation: none;
   }
 }

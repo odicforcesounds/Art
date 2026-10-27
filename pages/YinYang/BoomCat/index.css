@@ -93,3 +93,112 @@ footer {
   display: flex;
   flex-direction: column;
 }
+
+/* ==== page design (moved here so it is allowed under a self-only CSP) ==== */
+
+    /* ---- shell : BoomCat.webp is the full page background ---- */
+    body.container {
+      position: relative;
+      display: grid;
+      grid-template-rows: 1fr auto;
+      min-height: 100vh;
+      min-height: 100dvh;
+      margin: 0;
+      padding: 0;
+      background: #000 url(./BoomCat.webp) center center / cover no-repeat fixed;
+      color: cyan;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+
+    body.container a {
+      color: yellow;
+      text-decoration: none;
+      border-bottom: 1px dotted currentColor;
+    }
+
+    body.container a:hover,
+    body.container a:focus-visible {
+      color: #fff;
+    }
+
+    /* ---- the article ---- */
+    body.container .content {
+      position: static;
+      width: 100%;
+      max-width: 46rem;
+      margin: 0 auto;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+
+    body.container .content p {
+      display: block;
+      font-size: clamp(0.95rem, 1.4vw + 0.5vh, 1.2rem);
+      line-height: 2.1;
+      background: rgba(0, 0, 0, 0.68);
+      color: cyan;
+      padding: 0.9rem 1.1rem;
+      border-radius: 6px;
+      backdrop-filter: blur(3px);
+      margin: 0 auto 1rem;
+      max-width: 40rem;
+    }
+
+    body.container .content p.dark {
+      display: inline-block;
+      font-weight: 600;
+      color: cyan;
+      margin-bottom: 0.75rem;
+      padding: 0.6rem 1.1rem;
+    }
+
+    body.container .content > br {
+      display: none;
+    }
+
+    /* ---- player ---- */
+    body.container .player {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    /* ---- footer ---- */
+    body.container footer {
+      position: static;
+      display: block;
+      text-align: center;
+      padding: 1rem;
+      background: rgba(0, 0, 0, 0.7);
+    }
+
+    body.container footer span {
+      display: inline;
+      color: cyan;
+      background: transparent;
+    }
+
+    /* ---- polish ---- */
+    body.container .content {
+      animation: fade-in 0.6s ease-out both;
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    @media (max-width: 600px) {
+      body.container {
+        background-attachment: scroll;
+      }
+
+      body.container .content {
+        padding: 1.5rem 0.75rem;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body.container .content {
+        animation: none;
+      }
+    }

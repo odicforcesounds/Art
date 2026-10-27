@@ -1,0 +1,2577 @@
+[
+  {
+    "file": "docs/2FA.html",
+    "title": "2FA Authority Joke",
+    "subject": "The problem of 2FA Authentication"
+  },
+  {
+    "file": "docs/3wiseMonkeys.html",
+    "title": "The Wise who Refuse to Participate on ...",
+    "subject": "Everyone Competitive"
+  },
+  {
+    "file": "docs/4yfn.html",
+    "title": "Mobile World Congress (4YFN)",
+    "subject": "Next generations technologies"
+  },
+  {
+    "file": "docs/AlternativeMedicine.html",
+    "title": "Tradicional Medicine Versus Modern Medicine",
+    "subject": "A Strange and Controversial Approach"
+  },
+  {
+    "file": "docs/AndroidDevelopment.html",
+    "title": "Permission Quest — Zero to Hero | Android Rules & Permissions",
+    "subject": "A gamified vanilla JS/CSS adventure to master Android permissions, runtime requests, scoped storage, location, notifications and Play policies."
+  },
+  {
+    "file": "docs/ArmedViolence.html",
+    "title": "The Arithmetic of Armed Violence — A Research Dossier",
+    "subject": "A sourced research document on deaths caused by firearms and explosives, why weapons fail as problem-solving tools, and the methods that measurably work."
+  },
+  {
+    "file": "docs/ArtOfCreation.html",
+    "title": "Mind Resolution — Imagination + Logic = Application | OdicForceSounds",
+    "subject": "A scientific-spiritual synthesis: Taoism, Buddhism, Christ teaching, neuroscience, sound and time. Imagination + Logic = Application."
+  },
+  {
+    "file": "docs/BestSuperDumb_1.html",
+    "title": "Being a BSD guy",
+    "subject": "BSD is Free and BSD guys like me, are dumb"
+  },
+  {
+    "file": "docs/BestSuperDumb_2.html",
+    "title": "Being a BSD guy",
+    "subject": "BSD is Free and BSD guys like me, are dumb"
+  },
+  {
+    "file": "docs/BibleHub.html",
+    "title": "Hub of Sacred Texts",
+    "subject": "Biblical Teachings"
+  },
+  {
+    "file": "docs/BooBoo.html",
+    "title": "The Condition of Illusion",
+    "subject": "First we Imagine a Path. Then We Walk the Path"
+  },
+  {
+    "file": "docs/Chemistry.html",
+    "title": "ChemQuest — From Zero to Hero | Vanilla Chemistry Adventure",
+    "subject": "ChemQuest: a gamified chemistry journey from atoms to organic & nuclear. 100% vanilla JS + CSS3, zero external resources."
+  },
+  {
+    "file": "docs/ChinaBusiness.html",
+    "title": "The Best Idea for China and Friends",
+    "subject": "The perfect Business that all Big Countries of this Planet must have"
+  },
+  {
+    "file": "docs/ChristianLinux.html",
+    "title": "Mauna: A Linux with Religion",
+    "subject": "An Interesting Approach of a Religious group"
+  },
+  {
+    "file": "docs/CommonCultures.html",
+    "title": "One Human Song — Sayings, Colors & Music of World Cultures",
+    "subject": "A celebration of world cultures: sayings, colors, music genres, constructive artists and peaceful activism. Pure HTML, CSS3 and vanilla JavaScript, no external resources."
+  },
+  {
+    "file": "docs/DebianIsolation.html",
+    "title": "Debian Isolation Manual — Zero to Sealed Cell | DEB-ISO-01",
+    "subject": "A single-file, dark-theme Debian 13 manual for running applications in isolation: first login, commands, systemd sandboxing, containers, VMs, services, network, logs, lockdown and recovery."
+  },
+  {
+    "file": "docs/DebianSecurity.html",
+    "title": "DEBIAN TECHNICAL MANUAL — From Zero to Hero | TM-DEB-12",
+    "subject": "Debian Linux Technical Manual — From Zero to Hero. Gated interactive manual with paranoid security at every level. Pure vanilla JS/CSS, single file."
+  },
+  {
+    "file": "docs/DragonFire.html",
+    "title": "Dragon Fire (龙火)",
+    "subject": "Just Words that can hurt as Fire does"
+  },
+  {
+    "file": "docs/EthicalLawsOnIT.html",
+    "title": "Ethical Hacking",
+    "subject": "Let us question Hacking"
+  },
+  {
+    "file": "docs/EthicalMorals.html",
+    "title": "ME-OMNIBUS v1.0 — Morality & Ethics Technical Manual | Home",
+    "subject": "A technical manual for Morality and Ethics: how they work, how to produce them, and how to build peaceful, useful societies. Interactive levels, animated labs, real political comparisons."
+  },
+  {
+    "file": "docs/ExamePolicial.html",
+    "title": "PROVA · Manual técnico para separar o inocente do culpado",
+    "subject": "Manual técnico e interactivo, em português de Portugal, sobre como as polícias podem distinguir inocentes de criminosos: erro estatístico, viés cognitivo, prova forense, análise criminal e casos reais de oito países."
+  },
+  {
+    "file": "docs/FBSD.html",
+    "title": "More FreeBSD Stuff that You may Love",
+    "subject": "Because FreeBSD can be sexy"
+  },
+  {
+    "file": "docs/FascismEducation.html",
+    "title": "This Event Happen to me",
+    "subject": "Good Connections"
+  },
+  {
+    "file": "docs/FreeBSD.html",
+    "title": "Awesome BSD",
+    "subject": "Where Complexity finds Simplicity"
+  },
+  {
+    "file": "docs/FreeBSDReference.html",
+    "title": "FreeBSD: Zero to Hero · Field Manual FBSD-ZTH",
+    "subject": "A dark-theme, interactive FreeBSD field manual: install, configure, secure, firewall with pf, jails, kernel, i3 desktop, and hero-level operations."
+  },
+  {
+    "file": "docs/FreeSpeech.html",
+    "title": "The Art of Let it Go",
+    "subject": "Words don"
+  },
+  {
+    "file": "docs/GodDesire.html",
+    "title": "The Eternal Will of God",
+    "subject": "Described in several books in different moments of Time"
+  },
+  {
+    "file": "docs/ImproveAI.html",
+    "title": "The Symbiotic Horizon: How AI Can Elevate Humanity, and What Humanity Must Fix to Elevate AI",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/Iran.html",
+    "title": "Hopefully Iran will not See it Offensive",
+    "subject": "While I cannot control that.."
+  },
+  {
+    "file": "docs/JS4Children.html",
+    "title": "JavaScript: From Zero to Hero",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/JsParaMiudosEGraudos.html",
+    "title": "Manual do Herói: JavaScript do Zero ao Herói",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/KaliLinux.html",
+    "title": "Kali Linux: The Operator's Manual — 60+ Tools, Used Correctly",
+    "subject": "A dark-theme field manual to Kali Linux and its tool families: reconnaissance, web testing, passwords, wireless, exploitation, sniffing, Active Directory and forensics. What every tool does, how to run it correctly, and which one to choose."
+  },
+  {
+    "file": "docs/LinuxTUI.html",
+    "title": "The correct name should be SUIs",
+    "subject": "The author was using X when think about the name"
+  },
+  {
+    "file": "docs/Mechanics.html",
+    "title": "MECHANICS: Zero to Hero — Newton Academy",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/MensagemAoSistemaJudicialMundial.html",
+    "title": "Mensagem ao Sistema Judicial Mundial",
+    "subject": "A Independencia de Funções, cria disfuncionalidades"
+  },
+  {
+    "file": "docs/Military.html",
+    "title": "Manual Técnico: Abordagem Diferenciada – Forças de Segurança e Controlo de Grupos",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/MusicAnimation.html",
+    "title": "The Labyrinth of Harmonic Resonance: Acoustic & Notation Maze",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/MusicQuest.html",
+    "title": "STAGE QUEST — A Game Through Music Styles | Home",
+    "subject": "A gamified journey through music styles: Classical, Rock, Psychedelic, Metal, Techno, Psytrance and more. Pure vanilla JS + CSS3."
+  },
+  {
+    "file": "docs/MuslinLaws.html",
+    "title": "If you are not a copy",
+    "subject": "You are something else"
+  },
+  {
+    "file": "docs/Nentoo.html",
+    "title": "No More Gentoo for Me Too...",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/OBSDLinks.html",
+    "title": "Open and Free BSD Links",
+    "subject": "Metadata-description-will-be-here-please"
+  },
+  {
+    "file": "docs/OpenBSDServices.html",
+    "title": "OpenBSD Server Field Manual OB-77 — HTTPD · RELAYD · SMTPD · VMM",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/OpenBSDTribute.html",
+    "title": "OpenBSD — The Fortress | An Extensive Tribute to the World's Most Secure OS",
+    "subject": "An extensive dark-theme tribute to OpenBSD: pledge, unveil, W^X, ASLR, KARL, RETGUARD, malloc, pf, OpenSSH, LibreSSL. Why it is secure and why it is so hard to hack."
+  },
+  {
+    "file": "docs/OpenBSD_Head.html",
+    "title": "The Official Founder of OpenBSD",
+    "subject": "What do You expect to see?"
+  },
+  {
+    "file": "docs/Physics.html",
+    "title": "PHYSICA — From Zero to Hero | A Physics Adventure Game",
+    "subject": "Learn all of physics from zero to hero in a game. 8 worlds, animated labs, missions. 100% vanilla JS + CSS3, zero external resources."
+  },
+  {
+    "file": "docs/PoliticalLoveLesson.html",
+    "title": "Because Political Groups Can Love",
+    "subject": "The Biggest Lesson about Politics"
+  },
+  {
+    "file": "docs/SELinux.html",
+    "title": "SELinux Technical Manual — TM-SEL-2026 // Zero to Hero",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/STK.html",
+    "title": "STK",
+    "subject": "Social Tool Kit"
+  },
+  {
+    "file": "docs/SchemaValidations.html",
+    "title": "Securing My App",
+    "subject": "Recomendations to secure"
+  },
+  {
+    "file": "docs/ScientificPapers.html",
+    "title": "It is in your Ability to understand the content",
+    "subject": "Like Theories that point to some possibility, described in text format"
+  },
+  {
+    "file": "docs/Security.html",
+    "title": "How Hacking Actually Happens — A Field Guide to Real Intrusions",
+    "subject": "A dark-theme field guide to how real intrusions work: reconnaissance, stolen credentials, social engineering, exploit chains, lateral movement and nation-state operations — with documented case files, code samples and sources."
+  },
+  {
+    "file": "docs/SecurityChoices.html",
+    "title": "Interpretation of Attacks and Security Choices",
+    "subject": "Since sometimes we don"
+  },
+  {
+    "file": "docs/SkyMonkey.html",
+    "title": "MONKEY CHAOS: 12 Animals, No Destiny",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/TopAttackerIPs.html",
+    "title": "New Static Database of Attackers IPs",
+    "subject": "Because Hackers can enjoy attack these IPs"
+  },
+  {
+    "file": "docs/ViolentPolice.html",
+    "title": "Violent Police",
+    "subject": "When Police do Bad Things"
+  },
+  {
+    "file": "docs/Voltage.html",
+    "title": "VOLTA QUEST — From Zero to Hero in Electronics",
+    "subject": "A game-like interactive journey through electronics: from atoms to microcontrollers. Pure vanilla JS + CSS3, zero external resources."
+  },
+  {
+    "file": "docs/WebDesign.html",
+    "title": "WEB DESIGN QUEST — Zero to Hero",
+    "subject": "A game-like interactive quest to master Web Design: HTML, CSS, Box Model, Flexbox, Grid, Typography, Color, Responsive, Motion, UX & Accessibility. Pure vanilla JS + CSS3."
+  },
+  {
+    "file": "docs/WorldWideBusiness.html",
+    "title": "Simple Solutions",
+    "subject": "Military Business for AI & Robots"
+  },
+  {
+    "file": "docs/YourVimGuide.html",
+    "title": "Mastering Vim: From Zero to Hero",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/aFairJusticeSystem.html",
+    "title": "Justice Should be an Instrument of Education",
+    "subject": "Therefor, who create Laws should be...."
+  },
+  {
+    "file": "docs/aFardaEOPapel.html",
+    "title": "A Farda e o Papel — Índice do dossiê policial | Monkey Blog",
+    "subject": "Um índice de método para os nove documentos deste arquivo sobre polícia, lei e impunidade: a anatomia comum dos dossiês, as três forças, a cronologia de 1801 a 2026, o anonimato como tecnologia, os números que faltam, os quatro filtros e cinco percursos de leitura."
+  },
+  {
+    "file": "docs/aPoliciaNaoPensa.html",
+    "title": "A Polícia não Pensa",
+    "subject": "Muito menos questiona a Lei ou as Ordens"
+  },
+  {
+    "file": "docs/aViragem.html",
+    "title": "A Viragem — Um Jogo Errante do Tao, do Buda e do Escuro | Monkey Blog",
+    "subject": "Um jogo sem níveis nem pontos: começa num portão com três portas — o caminho, o Buda, o escuro — e vagueia por sutras, mantras, cinco fases, trigramas, qi, dragões e sonhos. Cada escolha abre outra página das três últimas publicações e dos ensaios em inglês em redor delas."
+  },
+  {
+    "file": "docs/aborto.html",
+    "title": "Mulheres Contra o Aborto",
+    "subject": "Mulheres contra a sua própria liberdade"
+  },
+  {
+    "file": "docs/aboutCoding.html",
+    "title": "Learning more about Coding",
+    "subject": "A Critical Perspective from someone who doesn"
+  },
+  {
+    "file": "docs/aboutPolitics.html",
+    "title": "What is Politics?",
+    "subject": "Think first before any choice"
+  },
+  {
+    "file": "docs/about_me.html",
+    "title": "About the Monkey in Me",
+    "subject": "Popularity say: Monkeys are the Symbol of Children"
+  },
+  {
+    "file": "docs/absolute.html",
+    "title": "The Architecture of Absolute Leadership",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/activism.html",
+    "title": "ACT-101 · Activism Technical Manual — From Zero to Hero",
+    "subject": "A technical manual for peaceful activism: theory, strategy, production, country labs, and revolution design. Pure vanilla HTML/CSS/JS."
+  },
+  {
+    "file": "docs/againstPatterns.html",
+    "title": "By default",
+    "subject": "Everyone knows what is the default so, change it"
+  },
+  {
+    "file": "docs/agradecidoADeus.html",
+    "title": "Agradecido a Deus",
+    "subject": "Por este gato que me ofereceu"
+  },
+  {
+    "file": "docs/aiCanHelpIf.html",
+    "title": "AI can help...",
+    "subject": "if we design it to help us"
+  },
+  {
+    "file": "docs/amazingUSA.html",
+    "title": "United States of America",
+    "subject": "They are Amazing but..."
+  },
+  {
+    "file": "docs/americanLies.html",
+    "title": "Unknown Drones is what they say",
+    "subject": "If they are unknown, how they know the source?"
+  },
+  {
+    "file": "docs/anInterestingPerspective.html",
+    "title": "People can Demonstrate themselfs Offensive",
+    "subject": "While our parents become in Time, Ofeensive too..."
+  },
+  {
+    "file": "docs/anarquism.html",
+    "title": "ANARK-01 — Technical Manual: How Anarchism Works | Home",
+    "subject": "A promotional technical manual explaining anarchism: theory, production, decision-making, real examples, peaceful societies. Interactive levels."
+  },
+  {
+    "file": "docs/androidStudio.html",
+    "title": "Android Studio: Zero to Hero — The Field Manual",
+    "subject": "A gated, single-file technical manual for Android Studio: install, pre-flight configuration, build system, architecture, security, testing, release and platform choices. Eight levels, twenty-four knowledge checks, real build files."
+  },
+  {
+    "file": "docs/anotherIllusion.html",
+    "title": "Because we all dream",
+    "subject": "about what we think is possible"
+  },
+  {
+    "file": "docs/apache2.html",
+    "title": "IRC and Apache2",
+    "subject": "IRC Server and Apache2 Configs"
+  },
+  {
+    "file": "docs/apacheIssues.html",
+    "title": "Apache Problems",
+    "subject": "Not my problem"
+  },
+  {
+    "file": "docs/app_dev.html",
+    "title": "Social Tool Kit - World Wide Challenge application",
+    "subject": "Just another Idea, inspired in the main website of this subdomains"
+  },
+  {
+    "file": "docs/apt.html",
+    "title": "APT (Advanced Persistent Threat)",
+    "subject": "Actors outside Theatre or Cinema"
+  },
+  {
+    "file": "docs/armasNaoSaoConteudo.html",
+    "title": "Armas Não São Conteúdo — Manual de discrição institucional",
+    "subject": "Manual cívico em português de Portugal sobre a exposição de armamento, material de guerra e locais reais por polícias e instituições militares no Facebook — e sobre a criminalização de grupos que transformam material de guerra em conteúdo, comércio e recrutamento."
+  },
+  {
+    "file": "docs/asianMonkey.html",
+    "title": "What Monkeys Symbolize on Asian Cultures?",
+    "subject": "Lets Find out what Monkeys have in Common with you"
+  },
+  {
+    "file": "docs/assemblyC.html",
+    "title": "Assembly Then C — From Zero To Good Code",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/atividadeIlicita.html",
+    "title": "Quando o Legal se torna Ilegal",
+    "subject": "Mais uma contradição Legal"
+  },
+  {
+    "file": "docs/awesome_story.html",
+    "title": "Awesome Stories",
+    "subject": "Because People are Awesome!"
+  },
+  {
+    "file": "docs/badAndGoodTogether.html",
+    "title": "Why reality doesn't work like this?",
+    "subject": "Maybe they didn"
+  },
+  {
+    "file": "docs/banthemall.html",
+    "title": "Fail2ban can be helpful",
+    "subject": "The Most popular software to block IPs"
+  },
+  {
+    "file": "docs/bashScripting.html",
+    "title": "Bash: From Zero to Hero — A Field Manual",
+    "subject": "A progression-gated technical manual for Bash: installation, configuration, security, libraries, commands, options and plugins — with real examples, checkpoints and labs."
+  },
+  {
+    "file": "docs/basicPsychology.html",
+    "title": "Psychology and the Art of Paying Attention",
+    "subject": "Just wait and give them all opportunity to fail"
+  },
+  {
+    "file": "docs/becauseIsFunny.html",
+    "title": "When the readers don't Think",
+    "subject": "You can make fun of them"
+  },
+  {
+    "file": "docs/becauseIsPopular.html",
+    "title": "Popularity can create dumbs",
+    "subject": "Just becase people believe that everything is Eternal"
+  },
+  {
+    "file": "docs/because_we_care.html",
+    "title": "Privacy concerns",
+    "subject": "A Good example of privacy"
+  },
+  {
+    "file": "docs/behindTheScenes.html",
+    "title": "Logic can use Numbers",
+    "subject": "But is not necessary to use them"
+  },
+  {
+    "file": "docs/beingFair.html",
+    "title": "Because I can do better",
+    "subject": "and Not redirect your attacks to the Police"
+  },
+  {
+    "file": "docs/beingProvocative.html",
+    "title": "Silly Wannabe Hackers",
+    "subject": "When they try everything but they fail"
+  },
+  {
+    "file": "docs/beingSafe.html",
+    "title": "The best Jail in the World",
+    "subject": "Being at home is not so bad"
+  },
+  {
+    "file": "docs/betterThanGoogle.html",
+    "title": "Asking you to view Ads without paying to you",
+    "subject": "YouTube Ads are Violent and Agressive SPAM"
+  },
+  {
+    "file": "docs/bhyveBSDandLinux.html",
+    "title": "FreeBSD Notes to use Bhyve",
+    "subject": "Because I wish to use this post as my manual"
+  },
+  {
+    "file": "docs/big_repo.html",
+    "title": "Just data written in \"paper\" made of Metal",
+    "subject": "Metadata cost you a lot of Disk Space"
+  },
+  {
+    "file": "docs/blockingMyEvilCreativity.html",
+    "title": "Being creative is Easy for me",
+    "subject": "But being Positive using Creativity is a bit more difficult"
+  },
+  {
+    "file": "docs/blueteam_learning.html",
+    "title": "The GreatSky.ddns.net",
+    "subject": "DDNS: Just another Free DNS Manager"
+  },
+  {
+    "file": "docs/bondade.html",
+    "title": "A demonstração de gratidão",
+    "subject": "Que o ser seja humilde o suficiente, para ser capaz de ultrapassar os problemas"
+  },
+  {
+    "file": "docs/books.html",
+    "title": "I could open o book store",
+    "subject": "Just another idea for a new website"
+  },
+  {
+    "file": "docs/born2Fail.html",
+    "title": "Born to Fail",
+    "subject": "Because after all Time, I realize how much I fail"
+  },
+  {
+    "file": "docs/bots.html",
+    "title": "Botnet are friendly but, Control make it unfriendly",
+    "subject": "A way to promote my sites"
+  },
+  {
+    "file": "docs/brightSideofChristianity.html",
+    "title": "The Light Without Fire",
+    "subject": "Lets talk about the Positive Side of Christianity"
+  },
+  {
+    "file": "docs/brutalBSD.html",
+    "title": "Maybe just another OpenBSD Tribute",
+    "subject": "The Documentation is Brutal but some tips are needed if you are new"
+  },
+  {
+    "file": "docs/bsdAlternatives.html",
+    "title": "BSD Alternatives",
+    "subject": "Non Popular BSD Systems"
+  },
+  {
+    "file": "docs/bsdResources.html",
+    "title": "BSD: Sources of Information",
+    "subject": "There are some people who can teach, while I can learn"
+  },
+  {
+    "file": "docs/bsdReview.html",
+    "title": "FreeBSD and OpenBSD Review",
+    "subject": "BSD and their best Friends"
+  },
+  {
+    "file": "docs/bsdSystemInDept.html",
+    "title": "BSD Systems in Dept",
+    "subject": "FreeBSD and Services: A deeper lookup"
+  },
+  {
+    "file": "docs/bsdguide.html",
+    "title": "Your FreeBSD Laptop — From Nothing to Locked-Down Desktop",
+    "subject": "Complete FreeBSD installation and lockdown walkthrough for an Intel i7-11390H laptop: install stick, ZFS with encryption, pf firewall, doas, xorg tuning, jails scenarios, SSD/ZFS performance, privacy hardening and system lockdown."
+  },
+  {
+    "file": "docs/buddhismManual.html",
+    "title": "The Sound of Emptiness — A Manual of Buddhist Mantras, Sutras and Beliefs | Monkey Blog",
+    "subject": "A research manual of Buddhism: the Buddha and the four truths, dependent origination, the canons, the schools, emptiness, meditation, the great mantras with pronunciation, the sutras and their key passages, chant, symbols, ethics, death and the modern reception."
+  },
+  {
+    "file": "docs/burocraciaPT.html",
+    "title": "Redefinição da Burocracia Portuguesa | Eficiência Económica",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/business.html",
+    "title": "Business Hero — From Zero to Tycoon",
+    "subject": "A gamified business school: 8 levels, animated examples, interactive labs, quizzes. Pure vanilla JS + CSS, zero external resources."
+  },
+  {
+    "file": "docs/byHackers.html",
+    "title": "Made by Hackers",
+    "subject": "The Bright Side of Hackers"
+  },
+  {
+    "file": "docs/calendarioSimbolico.html",
+    "title": "Calendário Simbólico Comparado — relógios, janelas e símbolos | Monkey Blog",
+    "subject": "Um mapa das regras do tempo sagrado: os quatro relógios (solar, lunar, lunissolar, litúrgico), as festas cristãs, islâmicas, chinesas, budistas, hindus e mexicanas, as suas janelas e os símbolos que atravessam tradições — sem datas inventadas."
+  },
+  {
+    "file": "docs/caminhoDeEscudos.html",
+    "title": "O Caminho de Escudos — Caminhada Xamânica em Tempo Real",
+    "subject": "Ritual interactivo do Macaco: nove escudos, três animais — Dragão, Tigre e Serpente — e um caminho que muda a cada hora dupla. Relógio real, fase da lua, diário e selo gerado no fim."
+  },
+  {
+    "file": "docs/capitalism.html",
+    "title": "CAP-01 — How Capitalism Works | Technical Manual",
+    "subject": "A technical manual explaining how capitalism works: production, markets, finance, labor, state, comparative systems, real country cases, crises and how to build peaceful useful societies. Single-file, vanilla JS/CSS."
+  },
+  {
+    "file": "docs/catStories.html",
+    "title": "Shadow is his name",
+    "subject": "He is a Cat and he is Black"
+  },
+  {
+    "file": "docs/ccna_ccnp.html",
+    "title": "NETWORK OPERATIONS MANUAL — CCNA → CCNP, Zero to Hero",
+    "subject": "A gated, zero-to-hero technical manual for Cisco CCNA 200-301 and CCNP Enterprise: switching, routing, security, wireless, automation, hardware, real CLI examples, references, and knowledge gates."
+  },
+  {
+    "file": "docs/changeWithin.html",
+    "title": "We are here for Change",
+    "subject": "You are Included In our Eternal License"
+  },
+  {
+    "file": "docs/chinaGarden.html",
+    "title": "The Garden of Amazonas",
+    "subject": "Here is a cool iniciative from China"
+  },
+  {
+    "file": "docs/chinesEducation.html",
+    "title": "With restricted freedom, they learn",
+    "subject": "They learn about the prison they live on"
+  },
+  {
+    "file": "docs/chineseMysticismManual.html",
+    "title": "The Dark and the Five — A Manual of Chinese Mystical Knowledge | Monkey Blog",
+    "subject": "A research manual of Chinese mystical knowledge: 道 and 德, yin and yang, the five phases, the eight trigrams, the sixty-four hexagrams, qi, hun and po, the five tones, the six scripts, the four symbols, feng shui and inner alchemy — with tables, characters and a critical eye."
+  },
+  {
+    "file": "docs/citizenHelper.html",
+    "title": "Documentação — CitizenHelper",
+    "subject": "Documentação técnica e institucional do CitizenHelper: utilidade pública, funcionamento, segurança e limitações."
+  },
+  {
+    "file": "docs/clandestinidade.html",
+    "title": "A Clandestinidade como Condição de Sobrevivência — ensaio sobre movimentos sociais, poder e a ética da escolha",
+    "subject": "Ensaio argumentativo sobre a clandestinidade dos movimentos sociais, a exposição como instrumento de aniquilação, a ética da escolha e as três condições que justificariam a ilicitude no consumo e comércio de drogas."
+  },
+  {
+    "file": "docs/clearAsWater.html",
+    "title": "Everyone can see",
+    "subject": "No one deny it"
+  },
+  {
+    "file": "docs/clicksVSnumbers.html",
+    "title": "Expression of actions",
+    "subject": "Click and create something to someone"
+  },
+  {
+    "file": "docs/cloudflareFeatures.html",
+    "title": "Exploring Cloudflare Firewall Free Services",
+    "subject": "Understanding Defensive Security Tools"
+  },
+  {
+    "file": "docs/codingPath.html",
+    "title": "The Amount of Information you need to Understand to be able to make use of it",
+    "subject": "Coding Path of Web Developer"
+  },
+  {
+    "file": "docs/commonAsia.html",
+    "title": "One day, something fall from the Sky, into my head",
+    "subject": "and I start from that day on, dedicated to produce this sites"
+  },
+  {
+    "file": "docs/communism.html",
+    "title": "COMM-OS v1.0 — Technical Manual: How Communism Works | Complete Systems Guide",
+    "subject": "A technical manual explaining communism: theory, production, planning, comparisons, country examples, and new ideas for peaceful useful societies. Interactive levels with validation."
+  },
+  {
+    "file": "docs/communityMurder.html",
+    "title": "This is destroying communities",
+    "subject": "AI can be destructive, even being passive"
+  },
+  {
+    "file": "docs/comportamentoJudicial.html",
+    "title": "Quanto a Justiça olha para Dentro",
+    "subject": "A Justiça descobre e encontra o mesmo conteúdo quando olha para fora.."
+  },
+  {
+    "file": "docs/conceptMix.html",
+    "title": "OVMs: Organic Virtual Machines",
+    "subject": "Virtualization is a Concept"
+  },
+  {
+    "file": "docs/confession.html",
+    "title": "Like is described in my link about the Dao",
+    "subject": "Men are to Imagination as Woman to Logic"
+  },
+  {
+    "file": "docs/consciencia.html",
+    "title": "A Consciência das Escolhas — manifesto por uma política adulta sobre drogas e armas",
+    "subject": "Ensaio sobre autonomia, dano e política de drogas: por que razão a legalização regulada é mais moral do que a proibição, e por que razão as armas pertencem a outra categoria moral."
+  },
+  {
+    "file": "docs/continuidade.html",
+    "title": "A Necessidade da Continuidade",
+    "subject": "Ultrapassar os problemas que nos impedem continuar"
+  },
+  {
+    "file": "docs/crazyLife.html",
+    "title": "Is what each like to do most",
+    "subject": "Fail2ban don"
+  },
+  {
+    "file": "docs/creativeLinux.html",
+    "title": "After learning, we personalize it",
+    "subject": "Thank you for sharing to code, so others can change them"
+  },
+  {
+    "file": "docs/criancasNaoSaoConteudo.html",
+    "title": "Crianças Não São Conteúdo — Manual de dignidade digital",
+    "subject": "Manual cívico em português de Portugal sobre a exposição de crianças por instituições no Facebook e noutras redes, e a glorificação da guerra em grupos privados: ética, direito, ferramentas e ação."
+  },
+  {
+    "file": "docs/criminalMasters.html",
+    "title": "The Most Criminal of all Groups",
+    "subject": "There is no other group that is more criminal than this one"
+  },
+  {
+    "file": "docs/criminality.html",
+    "title": "Understanding Criminal Group Operations: A Technical Analysis",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/criticalAI.html",
+    "title": "Explaining Myself to AI and to You too",
+    "subject": "Because words cannot be seen as absolute"
+  },
+  {
+    "file": "docs/cruel_Islam.html",
+    "title": "Cruel Islam",
+    "subject": "Islamic center of Porto - Portugal"
+  },
+  {
+    "file": "docs/culture.html",
+    "title": "Culture is...",
+    "subject": "The way most are remembering the past"
+  },
+  {
+    "file": "docs/curlManual.html",
+    "title": "curl — Complete Manual",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/daoPoemBook.html",
+    "title": "The Sexy Book — Sixty-Nine Poems of the 道 | Monkey Blog",
+    "subject": "Sixty-nine poems on the 道, read one page at a time: the hollow that holds, water that keeps the low place, the uncarved block, return, and the Monkey who counts one and one to three."
+  },
+  {
+    "file": "docs/darkInsideLight.html",
+    "title": "The Bright Side of Light",
+    "subject": "Side the Dark side is..."
+  },
+  {
+    "file": "docs/darkReader.html",
+    "title": "The Dark Always Care About You",
+    "subject": "While the Light, will Burn You"
+  },
+  {
+    "file": "docs/debianForever.html",
+    "title": "Debian Forever",
+    "subject": "The best Distro of all times"
+  },
+  {
+    "file": "docs/debian_upgrade.html",
+    "title": "Debian Linux make it really simple and fast",
+    "subject": "Upgrading Debian from Bookworm to Trixie"
+  },
+  {
+    "file": "docs/defcom2026.html",
+    "title": "DEF CON Call",
+    "subject": "Preparing professionals to the next year"
+  },
+  {
+    "file": "docs/denyEvilLearning.html",
+    "title": "See, Ear, Talk no Evil",
+    "subject": "Is a duality that we can question"
+  },
+  {
+    "file": "docs/deusSemCulpa.html",
+    "title": "A Deus não se deve atribuir Culpa",
+    "subject": "Mas é normal atribuir gratitude..."
+  },
+  {
+    "file": "docs/developerTips.html",
+    "title": "Development Tips",
+    "subject": "You can improve your development with this tips"
+  },
+  {
+    "file": "docs/diaDeLosMuertos.html",
+    "title": "Celebraciónes Mexicanas",
+    "subject": "Una curiosidad del Imaginário"
+  },
+  {
+    "file": "docs/difficultChoice.html",
+    "title": "What is the best choice?",
+    "subject": "Linux, FreeBSD or OpenBSD"
+  },
+  {
+    "file": "docs/digestingUnix.html",
+    "title": "We cannot have everything",
+    "subject": "And everything can have nothing"
+  },
+  {
+    "file": "docs/discursoEternoMacaco.html",
+    "title": "Discurso do Eterno Macaco às Forças de Segurança do Mundo",
+    "subject": "A probabilidade de uma factualidade ser aceite como verdade — um discurso para as forças de segurança de Portugal, Europa, África, Ásia e América."
+  },
+  {
+    "file": "docs/dnsProtocol.html",
+    "title": "DNS — How It Works, How To Configure & Use",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/docker.html",
+    "title": "Docker — Extensive Manual: Setup, Compose, Networking, Security",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/domain_statistics.html",
+    "title": "Statistics of sites activity",
+    "subject": "OdicforceSounds Statistics"
+  },
+  {
+    "file": "docs/dontBeLazy.html",
+    "title": "Secure Your Web Application With Your Creativity",
+    "subject": "Web Applications Security is the Topic here"
+  },
+  {
+    "file": "docs/dontMeshWithMe.html",
+    "title": "Don't Mess with me",
+    "subject": "The Mesh Networks"
+  },
+  {
+    "file": "docs/dragonObcession.html",
+    "title": "The Scale and The Laugh",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/dreamer.html",
+    "title": "Dreams point to some possibility",
+    "subject": "All possibilities are just dreams"
+  },
+  {
+    "file": "docs/dreampath.html",
+    "title": "The Path and the Dream",
+    "subject": "Our Common Condition"
+  },
+  {
+    "file": "docs/dreamsVSreality.html",
+    "title": "Reality is harder than any Dream",
+    "subject": "Because dreams can be hard to maintain"
+  },
+  {
+    "file": "docs/drewDevaulsBlog.html",
+    "title": "Enjoying reading articles from this blog",
+    "subject": "Drew DeVaul"
+  },
+  {
+    "file": "docs/droneShow.html",
+    "title": "Cai Guo-Qiang",
+    "subject": "In China was Awesome, but outside China pure crap"
+  },
+  {
+    "file": "docs/drugTraffic.html",
+    "title": "Drug Traffic Shouldn't be a Crime",
+    "subject": "Guns, Bombs Should"
+  },
+  {
+    "file": "docs/drugsEffect.html",
+    "title": "Abstraction of perception",
+    "subject": "is what drugs create for each one perception of reality"
+  },
+  {
+    "file": "docs/drugsSalvation.html",
+    "title": "Better than hiting or killing",
+    "subject": "other persons...."
+  },
+  {
+    "file": "docs/duckai.html",
+    "title": "Talking with AI about Justice Systems",
+    "subject": "Even AI agree with me, but not the Justice or Police"
+  },
+  {
+    "file": "docs/ducksWithAI.html",
+    "title": "The AI Feature of Duckduckgo",
+    "subject": "Duck.ai: The AI that I like to use"
+  },
+  {
+    "file": "docs/economiaDiabolica.html",
+    "title": "Economia Diabólica",
+    "subject": "O dinheiro das instituições religiosas, a caridade com condição e a pobreza que sobra: uma crítica dura à economia da salvação."
+  },
+  {
+    "file": "docs/educarBulling.html",
+    "title": "Educar o Bulling pode ser Vantajoso",
+    "subject": "Em qualquer caso a ginástica psíquica é que conta"
+  },
+  {
+    "file": "docs/educateMonsters.html",
+    "title": "Educate the Monster Without Becoming a Monster",
+    "subject": "Monsters are impulsive and reactive behaviors from Students that Deny Learning"
+  },
+  {
+    "file": "docs/educatingTheMonster.html",
+    "title": "Educating the Monster",
+    "subject": "From Tigers to Cats, Dogs to Wolfs"
+  },
+  {
+    "file": "docs/escolha.html",
+    "title": "Escolher com consciência — Regulação, liberdade e cuidado",
+    "subject": "Um ensaio a favor de uma mudança de consciência: trocar a proibição das drogas por regulação, informação, cuidado e responsabilidade."
+  },
+  {
+    "file": "docs/eternal.html",
+    "title": "If You attack me (condition)",
+    "subject": "I will add Your IP to this Eternal List"
+  },
+  {
+    "file": "docs/evilFiles.html",
+    "title": "Light vs Darkness",
+    "subject": "Fire vs Water"
+  },
+  {
+    "file": "docs/evilForums.html",
+    "title": "Daemons can be Evil",
+    "subject": "Why I cannot READ your RSS feeds?"
+  },
+  {
+    "file": "docs/evilInNameOfGood.html",
+    "title": "Evil in the Name of Good",
+    "subject": "Doing bad in the name of the Good: governments, soldiers and police through history, and orders made not to be questioned."
+  },
+  {
+    "file": "docs/excitedMoments.html",
+    "title": "Is Fascinating, while there is nothing",
+    "subject": "Is like a sexual desire, but without sex"
+  },
+  {
+    "file": "docs/eyeSaving.html",
+    "title": "Prevent getting too much light on the Eyes",
+    "subject": "Colors change on this blog"
+  },
+  {
+    "file": "docs/facebook.html",
+    "title": "Facebook is Cool and Horrible at the same time",
+    "subject": "But lets see the positive side"
+  },
+  {
+    "file": "docs/facebookPolice.html",
+    "title": "Questionário dedicado aos agentes da PSP e GNR",
+    "subject": "Na intenção de entender os membros da PSP"
+  },
+  {
+    "file": "docs/false_hood.html",
+    "title": "The Wood is always growing by the will of Nature",
+    "subject": "Sometimes is good to be wrong. It means we need to Learn something"
+  },
+  {
+    "file": "docs/fireJail.html",
+    "title": "Firejail Technical Manual — Zero to Paranoid Hero | index.html",
+    "subject": "A paranoid, interactive technical manual for Firejail. Namespaces, seccomp, filesystem contexts, network, X11, profiles. Zero to Hero."
+  },
+  {
+    "file": "docs/fixingApproach.html",
+    "title": "Fixing My Approach",
+    "subject": "Because I was doing it wrong, I can fix it and do it Right"
+  },
+  {
+    "file": "docs/forRealManOnly.html",
+    "title": "Man with Courage Will accept and the Week, Reject",
+    "subject": "The Real Man are better than the others"
+  },
+  {
+    "file": "docs/freebuff.html",
+    "title": "Freebuff, From Zero to Hero — The Complete Field Guide",
+    "subject": "Freebuff from zero to hero: every product, all nine subagents, the full model catalog, each subscription tier, the real limits, and what Freebuff is genuinely good at. A deep, single-page field guide."
+  },
+  {
+    "file": "docs/freedom.html",
+    "title": "the Free Will of Choice",
+    "subject": "FreeBSD vs Gentoo: Another Review about differences between them"
+  },
+  {
+    "file": "docs/friendly.html",
+    "title": "Connected to You",
+    "subject": "Friends will Understand!"
+  },
+  {
+    "file": "docs/fromBlood2Wine.html",
+    "title": "Red",
+    "subject": "of Blood or Wine"
+  },
+  {
+    "file": "docs/frutasVegetais.html",
+    "title": "40 Receitas Medicinais: Exclusivamente Frutas e Vegetais",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/funnyReactions.html",
+    "title": "I Just Imagine the Possibility",
+    "subject": "When attackers are redirected to Wikipedia"
+  },
+  {
+    "file": "docs/gameReference.html",
+    "title": "Archive Master Exam — Sequential Technical Path",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/gemini4You.html",
+    "title": "Gemini Mastery & Architecture Guide",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/gentloo.html",
+    "title": "Gentle Gentoo",
+    "subject": "Taking a more Serious Approach to Gentoo"
+  },
+  {
+    "file": "docs/gentooD.html",
+    "title": "Gentoo Handbook Anomaly",
+    "subject": "OpenRC vs SystemD"
+  },
+  {
+    "file": "docs/geoPolitical.html",
+    "title": "GEOPOL COMMAND — Zero to Hero Strategy Campaign",
+    "subject": "A game-like interactive academy of geopolitical military strategy. Pure vanilla JS + CSS."
+  },
+  {
+    "file": "docs/git.html",
+    "title": "Git: Zero to Hero — A Field Manual",
+    "subject": "Git: Zero to Hero — a single-file technical field manual covering installation, configuration, security, internals, recovery, libraries, GitHub and GitLab hosting, with graded checkpoints that must be passed to advance."
+  },
+  {
+    "file": "docs/github_challenge.html",
+    "title": "A Challenge for All Github Users",
+    "subject": "Please contribute to this challenge."
+  },
+  {
+    "file": "docs/gnrDragao.html",
+    "title": "GNR — O Dragão que Guarda a Lei",
+    "subject": "GNR — O Dragão que Guarda a Lei: história profunda da Guarda Nacional Republicana, as unidades e as suas funções, os números de 2025, o lado positivo e as sombras, com comentários educativos e ligações ao arquivo."
+  },
+  {
+    "file": "docs/goodInNameOfEvil.html",
+    "title": "Good in the Name of Evil",
+    "subject": "Doing good in the name of Evil: soldiers, police and officials who refused criminal orders and saved lives through history."
+  },
+  {
+    "file": "docs/goodNamesEvilDeeds.html",
+    "title": "Good Names, Evil Deeds — Evil in the Name of the Good, Worldwide · Nomes de Bem, Feitos de Mal",
+    "subject": "Bilingual dossier (English / Português) on evil committed in the name of the good worldwide: crusades, colonies, revolutions, purity laws, security policing and modern war — 71 dated entries with two filters, the euphemism table, the psychology and organised official sources."
+  },
+  {
+    "file": "docs/goodPolice.html",
+    "title": "Good Police — De-escalation, Empathy and Calm Presence",
+    "subject": "Bilingual dossier on good policing: de-escalation, social skills, calming stressed and paranoid people, and preventing escalation without force."
+  },
+  {
+    "file": "docs/goodSenseofJustice.html",
+    "title": "Is what we all archive to be",
+    "subject": "Justice without being Violent"
+  },
+  {
+    "file": "docs/google_and_banks.html",
+    "title": "Banking problems about Google Services",
+    "subject": "CGD is a Problematic Bank"
+  },
+  {
+    "file": "docs/grandeEspirito.html",
+    "title": "O Grande Espirito",
+    "subject": "Uma outra forma de dizer"
+  },
+  {
+    "file": "docs/graphicalEffects.html",
+    "title": "Visual Memories",
+    "subject": "Probably the easier way to Learn and Repeat"
+  },
+  {
+    "file": "docs/greatsky.html",
+    "title": "Self-Hosted Domain",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/gunsVSdrugs.html",
+    "title": "The Legal Fiction — Drugs, Guns, and the Politics of Dose",
+    "subject": "A data-led argument that the decisive variable in drug harm is control of dose, purity and setting — not legality. With figures from CDC, UNODC, WHO, SIPRI and the clinical literature."
+  },
+  {
+    "file": "docs/habitacao.html",
+    "title": "Proposta para resolver os problemas de habitação",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/hackclub.html",
+    "title": "A group of people doing something together",
+    "subject": "Hacking is coding in a creative style"
+  },
+  {
+    "file": "docs/hackersClubs.html",
+    "title": "Hackers Clubs Flow",
+    "subject": "Hacking for Fun"
+  },
+  {
+    "file": "docs/hackingChallenge.html",
+    "title": "A Simple Challenge for You",
+    "subject": "Which will be a challenge for me too"
+  },
+  {
+    "file": "docs/hackingJustice.html",
+    "title": "Simple Solutions",
+    "subject": "For Complex Problems"
+  },
+  {
+    "file": "docs/hard_decisions.html",
+    "title": "Just because we think about it",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/hardenBSD.html",
+    "title": "HardenedBSD Review",
+    "subject": "Like FreeBSD is"
+  },
+  {
+    "file": "docs/hardenerBSD.html",
+    "title": "HardenedBSD",
+    "subject": "Suspicious Configurations on their site"
+  },
+  {
+    "file": "docs/hardwareInsider.html",
+    "title": "Hardware Insider Video Review",
+    "subject": "The problem of exposing Vulnerabilities before the fix"
+  },
+  {
+    "file": "docs/hell.html",
+    "title": "Hell is Full of Good Ideas",
+    "subject": "Because Good Ideas can Create Bad Conditions"
+  },
+  {
+    "file": "docs/helpThem.html",
+    "title": "Organize everything in one single domain",
+    "subject": "if you cannot, ask help!"
+  },
+  {
+    "file": "docs/herois.html",
+    "title": "Tributo aos Heróis",
+    "subject": "Pois os Heróis estão Vivos"
+  },
+  {
+    "file": "docs/hidenDocumentation.html",
+    "title": "When You search the main page and you find nothing",
+    "subject": "There are other sites that provide Good information"
+  },
+  {
+    "file": "docs/historicalEvent.html",
+    "title": "Learn from History",
+    "subject": "This event is a factual Event from History"
+  },
+  {
+    "file": "docs/howAIworks.html",
+    "title": "AI Core Architecture // Technical Pipeline",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/httpProtocol.html",
+    "title": "HTTP — From Browser Click To Server",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/i3Hero.html",
+    "title": "i3 Desktop — From Nothing to Hero · Monkey Blog",
+    "subject": "A single-file, dark-theme field manual for the i3 window manager: configuration files, keybindings workspaces and layout, icons and glyphs, the status bar, extra software (rofi, picom, dunst, feh), a full annotated fancy config and how to set every value."
+  },
+  {
+    "file": "docs/iDontBelieve.html",
+    "title": "Cloudflare is getting Crazy",
+    "subject": "I don"
+  },
+  {
+    "file": "docs/iFeelSad.html",
+    "title": "Is like a Love Rejection",
+    "subject": "When all we had imagine is not how we Imagine to be"
+  },
+  {
+    "file": "docs/ifPoem.html",
+    "title": "If Poem",
+    "subject": "While if"
+  },
+  {
+    "file": "docs/improveMilitary.html",
+    "title": "Manual Técnico: Abordagem Diferenciada e Análise Comportamental - Forças de Segurança",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/improveNatoONU.html",
+    "title": "NATO & ONU Technical Manual — Understanding Global Governance",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/inTheNameOfJustice.html",
+    "title": "Criminal Activities from the Legal Side",
+    "subject": "Without Permissions to Penetrate others Bodies"
+  },
+  {
+    "file": "docs/index.html",
+    "title": "Monkey Blog - Monkey Thoughts",
+    "subject": "Monkey Thoughts about many subjects."
+  },
+  {
+    "file": "docs/installGentoo.html",
+    "title": "Gentoo Zero to Hardened Desktop — Newbie Guide (Dark)",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/interestingPerspective.html",
+    "title": "Are You Using AI to Review Code?",
+    "subject": "Because this is how we create the possibility"
+  },
+  {
+    "file": "docs/ipset.html",
+    "title": "Just a tool to help tedious work",
+    "subject": "Imagine your self, blocking IPs by hand"
+  },
+  {
+    "file": "docs/isForbidden.html",
+    "title": "Is Total Forbidden to Share this Publication",
+    "subject": "The Best Common Joke in the World"
+  },
+  {
+    "file": "docs/isNotWeekness.html",
+    "title": "Because Religions Speak about it",
+    "subject": "Without giving a solution"
+  },
+  {
+    "file": "docs/isThisTrue.html",
+    "title": "I ask: Is this True?",
+    "subject": "I cannot believe what I am reading, but I Like it!"
+  },
+  {
+    "file": "docs/islamismo.html",
+    "title": "A Crueldade do Islão",
+    "subject": "A Religião que não sente  necessidade de tornar-se melhor"
+  },
+  {
+    "file": "docs/jailVSvms.html",
+    "title": "FreeBSD Jails vs OpenBSD VMs",
+    "subject": "A Virtual Competition"
+  },
+  {
+    "file": "docs/jailsAreFree.html",
+    "title": "Jails are Free",
+    "subject": "But maintaining You inside the Jail is not"
+  },
+  {
+    "file": "docs/japaneseDog.html",
+    "title": "Chinese Zodiacs are used in Japan?",
+    "subject": "I like dogs!"
+  },
+  {
+    "file": "docs/jews.html",
+    "title": "The sad Story of Many",
+    "subject": "Is on the Temptation to become Equal"
+  },
+  {
+    "file": "docs/jira.html",
+    "title": "Working with Jira",
+    "subject": "Organazing your Work with Jira"
+  },
+  {
+    "file": "docs/jsGuy.html",
+    "title": "Sindresorhus: A Awesome Github User",
+    "subject": "The guy who write JavaScript in the same level of English"
+  },
+  {
+    "file": "docs/justAnotherOffendedChinese.html",
+    "title": "Their Sense of Humor is not always the best",
+    "subject": "While they get offended really fast"
+  },
+  {
+    "file": "docs/kikazaru.html",
+    "title": "The Monkey who doesn't Listen",
+    "subject": "Japanese Popular Culture"
+  },
+  {
+    "file": "docs/kingdomOfTUIs.html",
+    "title": "Kingdom of TUIs — Linux applications you can live in",
+    "subject": "A catalogue of terminal user interface applications for Linux: file managers, monitors, Git clients, container dashboards, editors and more, with their GitHub projects."
+  },
+  {
+    "file": "docs/knowledgeLabyrinth.html",
+    "title": "Knowledge Labyrinth — Technical Descent",
+    "subject": "Technical descent — MindOS, activation maps, BSD permission lattice, audit kernel diff, regression and provenance. Labelled for people who already read primary source material. Now mixed with science and psychology."
+  },
+  {
+    "file": "docs/lapalice.html",
+    "title": "\"La Palice\" Inspire the Police?",
+    "subject": "An interesting Topic for me..."
+  },
+  {
+    "file": "docs/lastDistrosReview.html",
+    "title": "Almighty Linux Short Review",
+    "subject": "A very short experience"
+  },
+  {
+    "file": "docs/lawNaziCreativity.html",
+    "title": "Can You Imagine Nazis being Creative?",
+    "subject": "They Would feel offended if You tell they are Creative"
+  },
+  {
+    "file": "docs/leadersOfHistory.html",
+    "title": "The Best Leaders of History",
+    "subject": "Those who did guide billions without creating wars"
+  },
+  {
+    "file": "docs/learnChess.html",
+    "title": "ChessQuest: Master the Royal Game",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/learnHacking.html",
+    "title": "How Hacking Happens — And How To Stop It: Red/Blue Lab Manual",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/learningFromExperience.html",
+    "title": "Thinking ask Rationality",
+    "subject": "But Rationality and Thinking, doesn"
+  },
+  {
+    "file": "docs/learningbyteaching.html",
+    "title": "The Process of Developing a Project",
+    "subject": "Is not always easy, but is possible"
+  },
+  {
+    "file": "docs/legalPoliceCorrption.html",
+    "title": "By infiltrating any Criminal Group",
+    "subject": "You can chose to earn some extra money and be in silence"
+  },
+  {
+    "file": "docs/leisPortuguesas.html",
+    "title": "Repensar as Leis em Portugal | Justiça e Equidade",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/let.html",
+    "title": "Linux Engineer Toolkit Review",
+    "subject": "Another short review of another Linux Distro"
+  },
+  {
+    "file": "docs/letUsSee.html",
+    "title": "Maybe this will work",
+    "subject": "Maybe will be ignored"
+  },
+  {
+    "file": "docs/lfs.html",
+    "title": "LFS — Linux From Scratch: Zero to Booted OS",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/liberdade.html",
+    "title": "Consciência, liberdade e clandestinidade",
+    "subject": "Um ensaio sobre consciência, liberdade de associação, privacidade e limites da violência."
+  },
+  {
+    "file": "docs/lichess.html",
+    "title": "Checking how much I am not paying attention to",
+    "subject": "What I already know, but playing I cannot see it easly"
+  },
+  {
+    "file": "docs/linuxDistroComparison.html",
+    "title": "Linux Distributions, Compared — A Field Manual",
+    "subject": "A manual-style comparison of Linux distributions: Debian, Ubuntu, Mint, Fedora, RHEL, openSUSE, Arch, Gentoo, NixOS, Alpine, Void and more — what each one does and how they differ."
+  },
+  {
+    "file": "docs/linux_comparation.html",
+    "title": "Just another Funky Linux Review",
+    "subject": "A Linux Review for all Linux Fans"
+  },
+  {
+    "file": "docs/logicProvocation.html",
+    "title": "Nah Nah Nah Nah Nah, you cannot hit me",
+    "subject": "You are so funny, are you stoped in Time?"
+  },
+  {
+    "file": "docs/lolAI.html",
+    "title": "Laugth with AI",
+    "subject": "Give to AI some Human Characteristic"
+  },
+  {
+    "file": "docs/love.html",
+    "title": "Love is ....",
+    "subject": "Like working to make things better"
+  },
+  {
+    "file": "docs/loveStories.html",
+    "title": "The Intertwined Constellations of Desire: A Nocturnal Chronicle of Love, Rhythm, and Belonging",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/lowLevel.html",
+    "title": "To be creative you should forget everything you know",
+    "subject": "as being correct and being what most do"
+  },
+  {
+    "file": "docs/lutaDoPoderNaRealidade.html",
+    "title": "A Luta do Poder na Realidade",
+    "subject": "Uma discussão sobre a luta do poder na realidade: o que é que quem manda realmente manda, como é que o controle se estabiliza, e o papel da cor de coaching filosófico como dispositivo de força."
+  },
+  {
+    "file": "docs/madebyMilitary.html",
+    "title": "I thought this people would never use the brain.",
+    "subject": "But it looks some of them are made by them"
+  },
+  {
+    "file": "docs/makeitright.html",
+    "title": "Make it Right for a Better Ride",
+    "subject": "Using always the same commit message"
+  },
+  {
+    "file": "docs/makulu.html",
+    "title": "Makulu Linux",
+    "subject": "A Linux Distro with AI for Free"
+  },
+  {
+    "file": "docs/manifestacoes.html",
+    "title": "Manifestações — do zero ao herói | Manual de campo",
+    "subject": "Manual prático, racional e humano para transformar uma queixa em escuta, pressão e mudança duradoura. Método, escada de escalada, exemplos reais em Portugal e ferramentas — sem violência."
+  },
+  {
+    "file": "docs/manifestations.html",
+    "title": "Manifestations — From Zero to Hero",
+    "subject": "A practical, rational, and human field manual for turning grievance into listening, leverage, and lasting change — without violence."
+  },
+  {
+    "file": "docs/manipulatingPoliticalProbabilities.html",
+    "title": "Because we Can Imagine what the Majority didn't think about it",
+    "subject": "Elon Musk is just a single person like you and me"
+  },
+  {
+    "file": "docs/manualDaMisticaChinesa.html",
+    "title": "O Escuro e os Cinco — Um Manual de Conhecimento Místico Chinês | Monkey Blog",
+    "subject": "Um manual de pesquisa do conhecimento místico chinês: 道 e 德, yin e yang, as cinco fases, os oito trigramas, os sessenta e quatro hexagramas, o qi, hun e po, os cinco tons, os seis scripts, os quatro símbolos, o feng shui e a alquimia interior — com tabelas, caracteres e um olhar crítico."
+  },
+  {
+    "file": "docs/manualDoBudismo.html",
+    "title": "O Som da Vacuidade — Um Manual de Mantras, Sutras e Crenças Budistas | Monkey Blog",
+    "subject": "Um manual de pesquisa sobre o budismo: o Buda e as quatro verdades, a originação dependente, os cânones, as escolas, a vacuidade, a meditação, os grandes mantras com pronúncia, os sutras e as suas passagens-chave, o canto, os símbolos, a ética, a morte e a receção moderna."
+  },
+  {
+    "file": "docs/mar.html",
+    "title": "CloudFlare Statistics Security Review",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/memoriesFromOldTimes.html",
+    "title": "Monkey Memories",
+    "subject": "The Dragon was always there as a Eternal Guardian and Protector"
+  },
+  {
+    "file": "docs/memoryAtlas.html",
+    "title": "The Memory Atlas — Cults, Archetypes and the Twenty Recent Pages · O Atlas das Memórias",
+    "subject": "Bilingual scientific dossier (English / Português): a method for relating cultural memories rather than the groups that carry them, an atlas of twelve memories with their documented routes, the graph of edges between them, the mechanics of cults as captured memories, and twelve testable proposals drawn from the twenty most recent pages of this archive."
+  },
+  {
+    "file": "docs/menIntheMiddle.html",
+    "title": "Suricata and Snort",
+    "subject": "Sniffing Traffic like a Cocaine addicted"
+  },
+  {
+    "file": "docs/messageToAsia.html",
+    "title": "Question to Asian persons",
+    "subject": "The Dragon originaly lives there, in his perfect world that flows harmony everywhere"
+  },
+  {
+    "file": "docs/metasploit.html",
+    "title": "MSF Technical Manual — From Zero to Hero | MSExploit Framework",
+    "subject": "Interactive technical manual: how the Metasploit (MSExploit) Framework works. Architecture, modules, payloads, exploitation, labs, post-exploitation."
+  },
+  {
+    "file": "docs/militaryDumbs.html",
+    "title": "EXPORT WAR TO THE VOID: A Philosophical Directive to Earth's Armed Forces",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/mistica.html",
+    "title": "Uma discussão Racionalizada",
+    "subject": "Fragmentos contextualizados num qualquer tempo perdido"
+  },
+  {
+    "file": "docs/mongodb.html",
+    "title": "MongoDB: Zero to Hero — A Field Manual for the Command Line",
+    "subject": "A progressive, gated technical manual for installing, configuring, securing, backing up and operating MongoDB on a dedicated Linux machine. Everything from the shell, with real examples."
+  },
+  {
+    "file": "docs/monkeyDuty.html",
+    "title": "In the Savana there are many Animals",
+    "subject": "Some of them are used in Society as Symbol of..."
+  },
+  {
+    "file": "docs/monkeyEducationStyle.html",
+    "title": "Education for Humans",
+    "subject": "Because there are better ways to do the same"
+  },
+  {
+    "file": "docs/monkeyStats.html",
+    "title": "Monkey Stats — site activity",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/monkey_love.html",
+    "title": "The Taste of Chinese Food",
+    "subject": "I will not Eat Dragons"
+  },
+  {
+    "file": "docs/moreLinuxReviews.html",
+    "title": "Overkill & HardenWing vs Zen Clora Linux Review",
+    "subject": "Both present the same problem, but..."
+  },
+  {
+    "file": "docs/moreMusicTheory.html",
+    "title": "Sound & the Brain — a psychology field guide",
+    "subject": "A science-grounded field guide to sound, the brain, memory, emotion, and behavior."
+  },
+  {
+    "file": "docs/motivatingAttackers.html",
+    "title": "Attackers who are Stupid and Dumb",
+    "subject": "I promiss to Redirect your attacks to the FBI site"
+  },
+  {
+    "file": "docs/muttHero.html",
+    "title": "mutt — From Nothing to Hero · Monkey Blog",
+    "subject": "A single-file, dark-theme field manual for mutt: configuration files, one box with many mailboxes, colors, IMAP, SMTP, multiple providers and Gmail done properly."
+  },
+  {
+    "file": "docs/myConfigs.html",
+    "title": "Setting my development Needs",
+    "subject": "I am sure that your can be more complex"
+  },
+  {
+    "file": "docs/myCountry.html",
+    "title": "My Country",
+    "subject": "Like Yours is"
+  },
+  {
+    "file": "docs/myCulture.html",
+    "title": "My Cool Culture",
+    "subject": "We Celebrate Life"
+  },
+  {
+    "file": "docs/naoComer.html",
+    "title": "40 Alimentos a Evitar: Naturais e Artificiais para a Saúde Vascular e Geral",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/nationalPride.html",
+    "title": "You are a Shame for Your Country",
+    "subject": "No proud for You"
+  },
+  {
+    "file": "docs/nativeVMMs.html",
+    "title": "VVMs in OpenBSD",
+    "subject": "Using some notes given by"
+  },
+  {
+    "file": "docs/naturally.html",
+    "title": "Naturally",
+    "subject": "Change is inevitable"
+  },
+  {
+    "file": "docs/nchat.html",
+    "title": "Nchat: C++ TUI (Terminal User Interface) Software for Whatspp and Telegram",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/negarme.html",
+    "title": "A negação do Eu, em prol do que é teu",
+    "subject": "Comportamento reversivo"
+  },
+  {
+    "file": "docs/nervous.html",
+    "title": "Tolerance Zero",
+    "subject": "When Emotional Explotions are common"
+  },
+  {
+    "file": "docs/networking.html",
+    "title": "Networking Field Manual — Zero to CCNA",
+    "subject": "A gated, single-file technical manual covering networking from first principles to CCNA-level operations, subnetting, switching, routing, security, wireless, automation, and troubleshooting — with references and knowledge gates."
+  },
+  {
+    "file": "docs/newYear.html",
+    "title": "It is what the Majority Celebrate in this Day",
+    "subject": "The New Year, as it was their Birthday"
+  },
+  {
+    "file": "docs/no2Madness.html",
+    "title": "Please: \"Don't be Mad with me\"",
+    "subject": "If you read something that you don"
+  },
+  {
+    "file": "docs/noFunDefendingAgainstAttackers.html",
+    "title": "If attacks fail...",
+    "subject": "I don"
+  },
+  {
+    "file": "docs/noTime.html",
+    "title": "Without Time reference",
+    "subject": "My blog posts are just static HTML templates"
+  },
+  {
+    "file": "docs/nodeReact.html",
+    "title": "Coding with JavaScript?",
+    "subject": "Comments about the Path of this application development"
+  },
+  {
+    "file": "docs/nodeSecurity.html",
+    "title": "Node.js Paranoid Security on Debian — Own The Server, Expose Nothing",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/notHackers.html",
+    "title": "Retification of what is not totaly true",
+    "subject": "Because"
+  },
+  {
+    "file": "docs/notIllegal.html",
+    "title": "Scanning the World",
+    "subject": "The random research for illegal proposes"
+  },
+  {
+    "file": "docs/notWhoButHow.html",
+    "title": "Is not Who, but How",
+    "subject": "Iran and their Military Education, embedded in their Religious beliefs"
+  },
+  {
+    "file": "docs/notaDJ.html",
+    "title": "OdicforceSounds | Live Shamanic Electronic Experience",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/novadireita.html",
+    "title": "Não há nada de novo na Nova Direita",
+    "subject": "Há sim algo de velho"
+  },
+  {
+    "file": "docs/oBemEmNomeDoMal.html",
+    "title": "O Bem em Nome do Mal",
+    "subject": "Fazer o bem em nome do Mal: soldados, polícias e funcionários que recusaram ordens criminosas e salvaram vidas ao longo da história."
+  },
+  {
+    "file": "docs/oDragaoMacaco.html",
+    "title": "A Lenda do Macaco Dragão - OdicforceSounds",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/oMacacoMalabarista.html",
+    "title": "O Conto do Macaco Malabarista | Dragão, Tigre, Macaco",
+    "subject": "O conto do Macaco que malabarizava Dragão e Tigre, dançando pelo Arquivo do Monkey Blog."
+  },
+  {
+    "file": "docs/oMacacoMalabaristaLabyrinth.html",
+    "title": "O Labirinto do Macaco Malabarista | Experimental Labyrinth",
+    "subject": "Um labirinto vazio. Caminhas onde quiser. Escolhas moldam equilibrio. Cada escolha encontra arquivo. Cada passo e experimento proprio e anonimo."
+  },
+  {
+    "file": "docs/oMaisComum.html",
+    "title": "Recorrente",
+    "subject": "Algo que se repete várias vezes"
+  },
+  {
+    "file": "docs/oMalEmNomeDoBem.html",
+    "title": "O Mal em Nome do Bem",
+    "subject": "Fazer o mal em nome do Bem: governos, soldados e polícias ao longo da história, e ordens feitas para não se questionar."
+  },
+  {
+    "file": "docs/obsdLearning.html",
+    "title": "OpenBSD is the next Objective to Learn",
+    "subject": "By small steps, like baby steps"
+  },
+  {
+    "file": "docs/offended_chinese.html",
+    "title": "Offended Chinese Girl",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/offensiveMessage.html",
+    "title": "Are You Stupid and Irrational?",
+    "subject": "Tell me, Are You?"
+  },
+  {
+    "file": "docs/ohFAQ.html",
+    "title": "Oh FAQ",
+    "subject": "Just another Question"
+  },
+  {
+    "file": "docs/omanFix.html",
+    "title": "Fixing without changing",
+    "subject": "Because in Fact, OpenBSD guide you throught the main Objectives"
+  },
+  {
+    "file": "docs/oneSite2ruleThemAll.html",
+    "title": "OpenBSD Fragments",
+    "subject": "The different projects associated to OpenBSD"
+  },
+  {
+    "file": "docs/onovodespertar.html",
+    "title": "Igreja Lusitana",
+    "subject": "Comunhão Anglicana"
+  },
+  {
+    "file": "docs/openMan.html",
+    "title": "OpenBSD Manuals Reference",
+    "subject": "Nothing fany. Just the basic reading when you start working with OpenBSD"
+  },
+  {
+    "file": "docs/openSecurity.html",
+    "title": "OSSS: Open & Secure Software Source",
+    "subject": "OpenBSD is a Secure and Open Source Project that diserve some Credits"
+  },
+  {
+    "file": "docs/openbsdCompilation.html",
+    "title": "OpenBSD Compilation for Developers · Monkey Blog",
+    "subject": "A single-file, dark-theme field manual for developers who compile OpenBSD from source: kernels, userland, Xenocara and ports, plus release builds."
+  },
+  {
+    "file": "docs/openbsdDesktop.html",
+    "title": "OpenBSD for Desktops · Monkey Blog",
+    "subject": "A single-file, dark-theme field manual for OpenBSD as a desktop: the sysctl and sndiod values that let Firefox play video without the OS lagging, and the rest of the knobs that stay reversible."
+  },
+  {
+    "file": "docs/openbsdDevelopers.html",
+    "title": "OpenBSD Developers",
+    "subject": "Obcessed for Security and Stability"
+  },
+  {
+    "file": "docs/ordersAndConscience.html",
+    "title": "Orders and Conscience — A Big Dossier on Obedience, Refusal and Moral Injury",
+    "subject": "Big bilingual dossier: how obedience is manufactured, evil done in the name of the good, good done in the name of evil, the price of refusal, moral injury and the skills that prevent it."
+  },
+  {
+    "file": "docs/osmAndGD.html",
+    "title": "Open Streets Heroes — OSM + Android Game Design Quest",
+    "subject": "Zero to Hero game-course: OpenStreetMap + Game Design for Android. Pure vanilla JS/CSS, no external resources."
+  },
+  {
+    "file": "docs/outrasPsicopatias.html",
+    "title": "Estados Mentais e a Psicopatia",
+    "subject": "Talvez seja somente uma questão lógica"
+  },
+  {
+    "file": "docs/palavrasRelativas.html",
+    "title": "Melhoramento interpretativo do texto referido",
+    "subject": "Psicopatia e Sociopatia Comportamental"
+  },
+  {
+    "file": "docs/palavrasSubjectivas.html",
+    "title": "A Impotência Ontológica do Discurso e o Domínio do Imaginário",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/pentestingSociety.html",
+    "title": "Pentesting Society",
+    "subject": "Is not something new, in fact is something very old"
+  },
+  {
+    "file": "docs/permissionProblems.html",
+    "title": "Permissions Problems",
+    "subject": "If you have permissions, you can have problems too"
+  },
+  {
+    "file": "docs/pharmacDrugs.html",
+    "title": "Pharmacy Miracles",
+    "subject": "Because Pharmacy Drugs reflect good results"
+  },
+  {
+    "file": "docs/phpLovers.html",
+    "title": "Attackers Only Know PHP",
+    "subject": "How can You create your Website?"
+  },
+  {
+    "file": "docs/pjSerpente.html",
+    "title": "A Serpente e o Macaco — Dossiê sobre a Polícia Judiciária",
+    "subject": "Dossiê sobre a Polícia Judiciária atualizado a 24 de outubro de 2026: origem e mandato, divisões, dados do RASI 2025, as operações Doca Seca, Hermes e Global Chain, 42 toneladas de cocaína apreendidas em 2026, as sombras da instituição e seis melhorias concretas que poderia implementar."
+  },
+  {
+    "file": "docs/poison.html",
+    "title": "Poison",
+    "subject": "What have bad ingredients is where poison is"
+  },
+  {
+    "file": "docs/police.html",
+    "title": "Police Groups in Society — A Technical Manual",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/policeAgainstHumanRights.html",
+    "title": "Human Rights Include You",
+    "subject": "Include everyone who is Alive"
+  },
+  {
+    "file": "docs/policeFreedom.html",
+    "title": "Dogs can do better",
+    "subject": "Even if they don"
+  },
+  {
+    "file": "docs/policeThePolice.html",
+    "title": "Police the Police",
+    "subject": "When the Police, Police the Police"
+  },
+  {
+    "file": "docs/policeViolence.html",
+    "title": "Don't Hit Grandma With A Sign — A Story To Stop Police Violence Against Peaceful People",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/policeViolenceNumbers.html",
+    "title": "Police Victims & Officers Victimized — A Data Review",
+    "subject": "Numbers of people killed or injured by police, and officers attacked or killed, with sources from the last decade."
+  },
+  {
+    "file": "docs/politicsOnOpenBSD.html",
+    "title": "Political OpenBSD",
+    "subject": "Political Principles on OpenBSD"
+  },
+  {
+    "file": "docs/políciaITerrorista.html",
+    "title": "O uniforme não é um álibi — dossiê sobre ordem pública, anonimato e habitação",
+    "subject": "Ensaio e dossiê de dados sobre polícia de choque sem identificação, impunidade, despejos e o direito à habitação em Portugal, Espanha e França."
+  },
+  {
+    "file": "docs/portugueseStupidLaws.html",
+    "title": "The Forbidden Choice",
+    "subject": "Just another Stupid Law"
+  },
+  {
+    "file": "docs/possiblyTrue.html",
+    "title": "Sometimes I question if",
+    "subject": "You read and think about what you had read"
+  },
+  {
+    "file": "docs/posting.html",
+    "title": "Posting: A TUI (Terminal User Interface) to Test APIs",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/postsReview.html",
+    "title": "From Markdown to HTML",
+    "subject": "The Core Language of the Web"
+  },
+  {
+    "file": "docs/pot.html",
+    "title": "POT",
+    "subject": "The easiest FreeBSD Jail Manager"
+  },
+  {
+    "file": "docs/povertyAndFaith.html",
+    "title": "The Poor and the Faithful — Poverty in Muslim-Majority and Christian-Majority Countries · Os Pobres e os Fiéis",
+    "subject": "Bilingual dossier (English / Português) on a common claim: that poverty is less harsh in Muslim-majority countries than in Christian-majority ones. The global poverty data, real cases on both sides, the mechanisms that soften poverty and the ones that do not, the command to share in every sacred book, and the measured record of which countries actually give most."
+  },
+  {
+    "file": "docs/preparingFreeBSD.html",
+    "title": "Not a FreeBSD manual",
+    "subject": "Just a ongoing reference"
+  },
+  {
+    "file": "docs/preteanSecurity.html",
+    "title": "Just another Example",
+    "subject": "How much you should not use PHP"
+  },
+  {
+    "file": "docs/prisons.html",
+    "title": "How Prisons should work",
+    "subject": "What should be the life of those who are in Prison?"
+  },
+  {
+    "file": "docs/privacy.html",
+    "title": "The TUI Privacy Manual — Windows · Linux · FreeBSD",
+    "subject": "The Privacy Manual — a gated, hands-on reference for hardening Windows, Linux and FreeBSD from first boot to opsec and forensics."
+  },
+  {
+    "file": "docs/probably.html",
+    "title": "The Biggest Probabiltiy",
+    "subject": "If more than 90% of persons Fail, why I will not Fail?"
+  },
+  {
+    "file": "docs/promote_app.html",
+    "title": "Social Tool Kit: A Social Challenge for all Groups in the World",
+    "subject": "Because Technology can change the world as we know it"
+  },
+  {
+    "file": "docs/prositution.html",
+    "title": "Sex Workers",
+    "subject": "Life exist because sex is possible"
+  },
+  {
+    "file": "docs/psicopatia.html",
+    "title": "Como topar uma psicopáta?",
+    "subject": "É fácil na condição social"
+  },
+  {
+    "file": "docs/pspTigre.html",
+    "title": "A Força Pública e o Tigre Oculto — Dossiê sobre a PSP",
+    "subject": "Dossiê sobre a PSP atualizado a 24 de outubro de 2026: origem e símbolo do Tigre, divisões, números do efetivo (20 975 polícias, 4 248 com mais de 55 anos), a operação Verão Seguro 2026, o relatório Escola Segura, a operação Kickoff e seis melhorias concretas para a força."
+  },
+  {
+    "file": "docs/pythonCert.html",
+    "title": "Python 3 — From Zero to Hero · A Field Manual",
+    "subject": "A single-file technical manual for Python 3: installation, post-install configuration, PEP 668 virtual environments, security, standard library, commands, third-party libraries, testing and production operations. With gated levels and knowledge checks."
+  },
+  {
+    "file": "docs/questionOrders.html",
+    "title": "The Art of Using the Brain",
+    "subject": "Because everything can change"
+  },
+  {
+    "file": "docs/questions.html",
+    "title": "Quest",
+    "subject": "Everything I found, moved, or renamed recently, in one place."
+  },
+  {
+    "file": "docs/racialDifference.html",
+    "title": "Racism is like...",
+    "subject": "United Colors of Skeleton"
+  },
+  {
+    "file": "docs/racismo.html",
+    "title": "O que é o Racismo?",
+    "subject": "O Lado Racional da Força"
+  },
+  {
+    "file": "docs/reactNative.html",
+    "title": "React Native Android Quest — Zero to Hero",
+    "subject": "A gamified vanilla JS/CSS adventure that teaches React Native for Android from zero to hero."
+  },
+  {
+    "file": "docs/readingBooks.html",
+    "title": "Always something New",
+    "subject": "Is what Books can give you"
+  },
+  {
+    "file": "docs/receitas.html",
+    "title": "Guia Nutritivo: Receitas para Circulação & Saúde Integrativa",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/redhatCert.html",
+    "title": "RHEL Certified — A Technical Manual, Zero to Hero",
+    "subject": "A single-file, dark-theme technical manual for the Red Hat certification track: install RHEL, harden it, automate it, and pass EX200 / EX294 / EX342."
+  },
+  {
+    "file": "docs/refusing2Learn.html",
+    "title": "By denying what you can do",
+    "subject": "The results are Obvious"
+  },
+  {
+    "file": "docs/regret.html",
+    "title": "Being Regret is not Enought",
+    "subject": "You need to demonstrate that you are willing to change"
+  },
+  {
+    "file": "docs/religions.html",
+    "title": "What Religions Are?",
+    "subject": "Groups of people who Love some"
+  },
+  {
+    "file": "docs/religionsSymbolicTime.html",
+    "title": "If Time for Humanity was possible to count",
+    "subject": "Are we in the year of 2025?"
+  },
+  {
+    "file": "docs/respectful.html",
+    "title": "Education is more than being gentle",
+    "subject": "Is more than being respectful"
+  },
+  {
+    "file": "docs/revolucionário.html",
+    "title": "Revolucionário — o que fica depois do grito | Monkey Blog",
+    "subject": "Um manifesto de método para a actualidade: porque é que as revoltas morrem ao terceiro dia e o que as faz durar. Três recusas, três construções, a regra dos doze, o método dos trinta minutos e um primeiro mês que qualquer grupo pequeno pode cumprir."
+  },
+  {
+    "file": "docs/romanticAsia.html",
+    "title": "My Romantism about Asia",
+    "subject": "Based on their Cultural Practice it looks a good place to live a Romantic Experience"
+  },
+  {
+    "file": "docs/romantismOnReligions.html",
+    "title": "Being Romantic",
+    "subject": "A Mechanism based on Illusions that help us Dream"
+  },
+  {
+    "file": "docs/roomProblem.html",
+    "title": "The Room Problem",
+    "subject": "The Solipsistic Condition of all living beings"
+  },
+  {
+    "file": "docs/rotinaMedica.html",
+    "title": "Mais uma consulta de Rotina",
+    "subject": "Que serviu para me perguntar, sem verificar ou apalpar"
+  },
+  {
+    "file": "docs/rssSites.html",
+    "title": "Monkey Feeds Aggregator",
+    "subject": "Aggregated news titles from dozens of feeds, grouped by category. Click any title to read the original article."
+  },
+  {
+    "file": "docs/rustLanguage.html",
+    "title": "Rust Field Manual — From Zero to TUI",
+    "subject": "A gated, single-file technical manual for building terminal user interfaces in Rust: installation, cargo, ownership, terminal internals, ratatui, testing, security, supply chain and shipping."
+  },
+  {
+    "file": "docs/ryanair.html",
+    "title": "Worst Fly Company in the World (Ryanair)",
+    "subject": "Because they don"
+  },
+  {
+    "file": "docs/sacredMasturbation.html",
+    "title": "The Work that anyone can do",
+    "subject": "To save Lifes and be happy with it"
+  },
+  {
+    "file": "docs/sar_pn.html",
+    "title": "Curiosidades de Coruña",
+    "subject": "Desde Miño hasta Santiago"
+  },
+  {
+    "file": "docs/seFosseDitador.html",
+    "title": "Se eu fosse um Ditador",
+    "subject": "Um Manifesto Teórico para a Reconstrução Global"
+  },
+  {
+    "file": "docs/secretFiles.html",
+    "title": "Some Stuff that is \"Hidden\"",
+    "subject": "Stuff that will be exposed"
+  },
+  {
+    "file": "docs/secretMessage.html",
+    "title": "This is a secret Message",
+    "subject": "This is NOT a secret Message"
+  },
+  {
+    "file": "docs/secureYourServer.html",
+    "title": "Your Servers Using Cloudflared",
+    "subject": "Cloudflare Tunnel is what You need"
+  },
+  {
+    "file": "docs/securityFans.html",
+    "title": "Security is on the Rise",
+    "subject": "A common Topic"
+  },
+  {
+    "file": "docs/securityOnion.html",
+    "title": "Security Onion Solutions Review",
+    "subject": "It Looks Awesome but.."
+  },
+  {
+    "file": "docs/securityParanoid.html",
+    "title": "The Security Paranoid",
+    "subject": "Because someone is always watching"
+  },
+  {
+    "file": "docs/sedawk.html",
+    "title": "Better than using Vim",
+    "subject": "Two other tools can do the Job too"
+  },
+  {
+    "file": "docs/selfJail.html",
+    "title": "The Jail of the Self",
+    "subject": "Each self is living for Eternity in the Jail of the Self. Each need to learn about the Self more than the outside world"
+  },
+  {
+    "file": "docs/semCulpa.html",
+    "title": "E a culpa é de quem?",
+    "subject": "Hábitos monoteístas e não só."
+  },
+  {
+    "file": "docs/seresPacificosEOfensivos.html",
+    "title": "Seres Pacificos e Ofensivos",
+    "subject": "Porque a Ofensa é uma forma de Questionar, Afirmando"
+  },
+  {
+    "file": "docs/sexual.html",
+    "title": "All Living Beings are Sexual",
+    "subject": "The Potencial of Imagination about sexuality within Living Beings"
+  },
+  {
+    "file": "docs/shadowCat.html",
+    "title": "Shadow Cat",
+    "subject": "Cats in the Shadow"
+  },
+  {
+    "file": "docs/sharkMap.html",
+    "title": "Wireshark + Nmap — Big Manual",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/shityGentoo.html",
+    "title": "Gentoo Linux (Hell no)",
+    "subject": "Everything You need to know to Never Use it!"
+  },
+  {
+    "file": "docs/shitySites.html",
+    "title": "Is your site readable in the terminal?",
+    "subject": "If that is your case, I like your site"
+  },
+  {
+    "file": "docs/signalsFromTheDragon.html",
+    "title": "Dragon is Trying to talk to me using his crazy style",
+    "subject": "A Style that I like becaue I need to think"
+  },
+  {
+    "file": "docs/simplicity.html",
+    "title": "Warning",
+    "subject": "Show Monkey Some Respect"
+  },
+  {
+    "file": "docs/smtpd.html",
+    "title": "Mail: SMTP/POP/IMAP + OpenSMTPD",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/sns24.html",
+    "title": "Serviço Nacional de Saúde",
+    "subject": "Crítica a um Serviço Público"
+  },
+  {
+    "file": "docs/solidarityCollectives.html",
+    "title": "Solidary Collectives",
+    "subject": "Não és capaz de vencer a tempestade"
+  },
+  {
+    "file": "docs/ssh_config.html",
+    "title": "SSH: A secure application",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/stopWars.html",
+    "title": "A Letter From A Simple Human To Leaders — Please Stop",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/strangeCelebrations.html",
+    "title": "Religions and Spiritual Groups Celebrations",
+    "subject": "Because Remembering someone can be good or not"
+  },
+  {
+    "file": "docs/strangeNaming.html",
+    "title": "React Native?",
+    "subject": "What is the Native Language then?"
+  },
+  {
+    "file": "docs/stupid.html",
+    "title": "The Sexuality of Wars",
+    "subject": ""
+  },
+  {
+    "file": "docs/stupidMastodonLaws.html",
+    "title": "Mastodon looks cool",
+    "subject": "But this servers do what Justice do"
+  },
+  {
+    "file": "docs/stupidPolice.html",
+    "title": "I don't wish to be offensive, but...",
+    "subject": "When something is obvous, I have some difficult to handle it"
+  },
+  {
+    "file": "docs/stupidPolitics.html",
+    "title": "How Easy everything can be Destroyed",
+    "subject": "Learning to discuss should be a discipline in Schools"
+  },
+  {
+    "file": "docs/style_of_god.html",
+    "title": "The Style of God",
+    "subject": "As simple as this. So Simple that can confuse a Child"
+  },
+  {
+    "file": "docs/superiorGender.html",
+    "title": "A tribute to the stronger",
+    "subject": "and the most resistent of all"
+  },
+  {
+    "file": "docs/survival.html",
+    "title": "SURVIVAL: The Field Dossier: Outside the City, Inside the Conflict",
+    "subject": "A dark-theme, self-contained survival guide: wilderness survival, urban survival during conflict, production of water, food and energy, and a levelled technical manual with quizzes."
+  },
+  {
+    "file": "docs/sysVars.html",
+    "title": "Using Bash Variables on NodeJS Applications",
+    "subject": "Inspecting attacks methods, we see"
+  },
+  {
+    "file": "docs/sysupgradeAndFix.html",
+    "title": "OpenBSD Upgrade",
+    "subject": "sysupgrade"
+  },
+  {
+    "file": "docs/taggingForChange.html",
+    "title": "Tagging for Changes",
+    "subject": "When Assertivity makes it"
+  },
+  {
+    "file": "docs/taoExpression.html",
+    "title": "道 Expression",
+    "subject": "The Way of God"
+  },
+  {
+    "file": "docs/tcpPackets.html",
+    "title": "TCP Packets In Detail — Headers, Handshakes, Examples",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/tcpdump.html",
+    "title": "tcpdump — Detailed Field Manual",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/tcpudp.html",
+    "title": "TCP/IP & UDP/IP Packets — What Actually Travels the Wire",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/tea.html",
+    "title": "I am a Tea Fan",
+    "subject": "Any kind of Tea"
+  },
+  {
+    "file": "docs/teleMetting.html",
+    "title": "Tips: Development Process with Clients",
+    "subject": "Understanding the Process"
+  },
+  {
+    "file": "docs/tendasETemplos.html",
+    "title": "Tendas e Templos — a economia, a farda e o Livro",
+    "subject": "Ensaio crítico em português: a economia moderna engole o pobre e encriminaliza-o por ser incapaz de pagar, tal como o Livro denunciava há milhares de anos. Os que se dizem cristãos não seguiram Cristo. E a PSP destrói tendas que eram a única alternativa a rendas impossíveis."
+  },
+  {
+    "file": "docs/teoricamente.html",
+    "title": "Teoricamente sou o vosso líder",
+    "subject": "Teoricamente poderá ser uma afirmação falsa"
+  },
+  {
+    "file": "docs/terroristasLegais.html",
+    "title": "A farda que ninguém consegue identificar — violência policial e impunidade",
+    "subject": "Dossiê documentado sobre letalidade policial, anonimato dos agentes e impunidade: Brasil, Estados Unidos, Portugal e o resto do mundo. Com fontes primárias."
+  },
+  {
+    "file": "docs/testingLinuxDistros.html",
+    "title": "Some Distros that look different",
+    "subject": "What they share is what make them different"
+  },
+  {
+    "file": "docs/testingSubjectivity.html",
+    "title": "This is not a test",
+    "subject": "The Last publication of this Blog, was a test"
+  },
+  {
+    "file": "docs/theBSDguy.html",
+    "title": "It feels good to learn",
+    "subject": "Just another Youtube channel"
+  },
+  {
+    "file": "docs/theBadBeingGood.html",
+    "title": "All can help others by their Will to help",
+    "subject": "It doesn"
+  },
+  {
+    "file": "docs/theBestApproach.html",
+    "title": "To be Fair against Few (condition)",
+    "subject": "We can be Unfair Against many (result)"
+  },
+  {
+    "file": "docs/theBestLinuxDistro.html",
+    "title": "Hard to maintain",
+    "subject": "Really stable for a Server"
+  },
+  {
+    "file": "docs/theBrightSideofDarkness.html",
+    "title": "Justice Systems Behaviors",
+    "subject": "Are equal to criminal ones"
+  },
+  {
+    "file": "docs/theChosenMonkey.html",
+    "title": "The Tale of the Juggling Monkey | Dragon, Tiger, Monkey",
+    "subject": "A tale of the Monkey who juggled Dragon and Tiger, danced through the Archive."
+  },
+  {
+    "file": "docs/theEmperor.html",
+    "title": "The Emperor",
+    "subject": "When Evil Plans become Intelligent attacks"
+  },
+  {
+    "file": "docs/theEvilOnChurch.html",
+    "title": "Evil is: Being coinscience of a Bad Choice",
+    "subject": "If I know is Wrong, then if I do it, I am Evil"
+  },
+  {
+    "file": "docs/theFreeDocs.html",
+    "title": "FreeBSD Handbook Articles",
+    "subject": "Their documentation is amazing and full"
+  },
+  {
+    "file": "docs/theGardener.html",
+    "title": "Dragon Favorite Hobbie",
+    "subject": "Flowers"
+  },
+  {
+    "file": "docs/theGoodOnChristianity.html",
+    "title": "The Interpretative side that Christianity Hide",
+    "subject": "Because all came become better in Time"
+  },
+  {
+    "file": "docs/theHolyMan.html",
+    "title": "Holy Spirits",
+    "subject": "Sacred lands share knowledge, everywhere"
+  },
+  {
+    "file": "docs/theKing.html",
+    "title": "Hail to the King",
+    "subject": "Known by Centuries as Some Mythologic Creature"
+  },
+  {
+    "file": "docs/theLastChild.html",
+    "title": "The Last Child Speech",
+    "subject": "Since Monkeys are Symbol of Children"
+  },
+  {
+    "file": "docs/theMoodOnLanguages.html",
+    "title": "English from America VS English from UK",
+    "subject": "Oh Theatre can explain"
+  },
+  {
+    "file": "docs/theNecessaryAttitude.html",
+    "title": "In Honor to those who Open their House for me",
+    "subject": "In a Style that Permit my Freedom from what I run away"
+  },
+  {
+    "file": "docs/theObviousDiscrimination.html",
+    "title": "Discrimination is the Nature of Languages",
+    "subject": "How can you explain the difference between each, if"
+  },
+  {
+    "file": "docs/thePlateOfNato.html",
+    "title": "Nato: A Dual Perspective of the same organization",
+    "subject": "Because by default, we all have some dark side to reveal"
+  },
+  {
+    "file": "docs/theProblemOfAI.html",
+    "title": "AI can do \"this\" better than You",
+    "subject": "Because Industry Don"
+  },
+  {
+    "file": "docs/theSource.html",
+    "title": "Philosophy — The Source of Everything",
+    "subject": "A deep journey through philosophy as the source of laws, justice, society, science, medicine and civilization — from ancient times to modern, across all continents."
+  },
+  {
+    "file": "docs/theTransformation.html",
+    "title": "What was, will become something that is",
+    "subject": "Like the evolution of living being or non-living beings"
+  },
+  {
+    "file": "docs/theTurning.html",
+    "title": "The Turning — A Wandering Game of Tao, Buddha and the Dark | Monkey Blog",
+    "subject": "A game without levels or points: begin at a gate with three doors — the way, the Buddha, the dark — and wander through sutras, mantras, five phases, trigrams, qi, dragons and dreams. Every choice opens another page from the last three publications and the English essays around them."
+  },
+  {
+    "file": "docs/the_beauty_of_the_ugly.html",
+    "title": "The source have good Documentation",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/theories.html",
+    "title": "Theories and Concepts",
+    "subject": "Security is a Concept and it"
+  },
+  {
+    "file": "docs/think_linux.html",
+    "title": "Using Linux for that last 25 years",
+    "subject": "Writing about my experience with Linux and other technologies"
+  },
+  {
+    "file": "docs/tmux.html",
+    "title": "Tmux",
+    "subject": "Just another Tmux tutorial"
+  },
+  {
+    "file": "docs/tradicional.html",
+    "title": "Medicina Tradicional",
+    "subject": "Talvez referir somente a Chinesa"
+  },
+  {
+    "file": "docs/transformacao.html",
+    "title": "Transformação Política",
+    "subject": "Só quem erra aprende e só que tem certezas, é incapaz de mudar"
+  },
+  {
+    "file": "docs/tresLadosDoSatanismo.html",
+    "title": "Os Três Lados do Adversário",
+    "subject": "Um ensaio em três faces: o preço que se cobra em nome do sagrado, a humildade que se recusa para não dever nada, e o desprendimento da religião sem a negar. Uma crítica ao comportamento, não à religião."
+  },
+  {
+    "file": "docs/tryingToFixJustice.html",
+    "title": "Does Justice can change just by Questioning?",
+    "subject": "Maybe not, since most of them, cannot question (Orders)"
+  },
+  {
+    "file": "docs/tuisILove.html",
+    "title": "Rust TUI's that I love",
+    "subject": "Because they are really minimal and helpful"
+  },
+  {
+    "file": "docs/twoDaysAfter.html",
+    "title": "The amazing results",
+    "subject": "Surprised? I am not."
+  },
+  {
+    "file": "docs/typescript.html",
+    "title": "TypeScript — Practical Guide For Web Apps",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/umaSurpresa.html",
+    "title": "Um Tributo ao meu Mais querido Mestre da vida",
+    "subject": "Mais do que um pai"
+  },
+  {
+    "file": "docs/unbound.html",
+    "title": "Bound and Unbound",
+    "subject": "Just another default feature of OBSD"
+  },
+  {
+    "file": "docs/understandingHaters.html",
+    "title": "Haters are Common",
+    "subject": "But they don"
+  },
+  {
+    "file": "docs/unfairLearning.html",
+    "title": "Fair Learning",
+    "subject": "The process of education that is failing"
+  },
+  {
+    "file": "docs/unhappy.html",
+    "title": "The Architecture of Un-Happening",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/united.html",
+    "title": "United",
+    "subject": "Without States"
+  },
+  {
+    "file": "docs/usedTechniqueIsGood.html",
+    "title": "The revolution of this site",
+    "subject": "Become with a small change"
+  },
+  {
+    "file": "docs/usingTheBrain.html",
+    "title": "Using the Brain is Optional",
+    "subject": "But what is Optional is Recommended"
+  },
+  {
+    "file": "docs/vim.html",
+    "title": "Everything You need to know to use Vim",
+    "subject": "Learn Vim within 2 minutes"
+  },
+  {
+    "file": "docs/violentTeachers.html",
+    "title": "Understanding the Reasons",
+    "subject": "Why a Teacher can become Violent and Unfair"
+  },
+  {
+    "file": "docs/visits.html",
+    "title": "More comments of statistics of this domain",
+    "subject": "OdicforceSounds Comments about Statistic Visits"
+  },
+  {
+    "file": "docs/vontadeDivina.html",
+    "title": "Vontade Divina",
+    "subject": "Os crentes que nunca vão às manifestações pelas pessoas sem casa, e os sem-deus que também não: um manual irónico de solidariedade adiada."
+  },
+  {
+    "file": "docs/w3m.html",
+    "title": "W3M Browser",
+    "subject": "My Favorite Shell Web Browser"
+  },
+  {
+    "file": "docs/warManifesto.html",
+    "title": "The Logic of Contained War: Why Wars Must Be Fought in a Dedicated Zone, By Soldiers Only, With Superiors First",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/warVoid.html",
+    "title": "EXPORT WAR TO THE VOID: An Impassioned Directive to the Armed Forces of Earth",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/wastingOpportunities.html",
+    "title": "The effect of limited IPs",
+    "subject": "Because Attackes need to change their IP"
+  },
+  {
+    "file": "docs/weLoveSecurity.html",
+    "title": "Just another blog about Security",
+    "subject": "We Love Security is the Blog in cause"
+  },
+  {
+    "file": "docs/websitesInformation.html",
+    "title": "The Normal Investigation about Websites",
+    "subject": "Using tools to verify some details about each domain"
+  },
+  {
+    "file": "docs/whatGodLikes.html",
+    "title": "Each self, is what God cares about",
+    "subject": "While giving"
+  },
+  {
+    "file": "docs/whatIsCommon.html",
+    "title": "What is Common to all?",
+    "subject": "Subjective content that points into a Objective Gold"
+  },
+  {
+    "file": "docs/whereMagicHappens.html",
+    "title": "Words can have Deeper meanings",
+    "subject": "Your ability to imagine and believe them, is what make them Divine"
+  },
+  {
+    "file": "docs/whoTheyAre.html",
+    "title": "Some people that code",
+    "subject": "And have interesting things to show"
+  },
+  {
+    "file": "docs/withDevelopers.html",
+    "title": "Working With Developers",
+    "subject": "What to Expect and what can become better?"
+  },
+  {
+    "file": "docs/wordGame.html",
+    "title": "The Game of Words: Labyrinth of Echoes",
+    "subject": "title-based"
+  },
+  {
+    "file": "docs/wordpress_attacks.html",
+    "title": "Wordpress: The sites atttackers Love",
+    "subject": "People don"
+  },
+  {
+    "file": "docs/wp-stupid.html",
+    "title": "My Awesome Unbreakable Wordpress Site",
+    "subject": "Will say Goodbye to your Stupidity"
+  },
+  {
+    "file": "docs/xorgLife.html",
+    "title": "X is just a letter",
+    "subject": "The creative details of developers"
+  },
+  {
+    "file": "docs/xtermHero.html",
+    "title": "xterm — From Nothing to Hero · Monkey Blog",
+    "subject": "A single-file, dark-theme field manual for xterm: first launch, the three mouse menus, colors, fonts, X resources, scrollback, scissors keyboard, clipboard and the hero vocabulary of flags."
+  },
+  {
+    "file": "docs/youAreSoWeek.html",
+    "title": "You are a Funny Joke",
+    "subject": "Unable to find some Hope"
+  },
+  {
+    "file": "docs/youRights.html",
+    "title": "What is shared will be copied",
+    "subject": "title-based"
+  }
+]

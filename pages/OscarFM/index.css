@@ -1,170 +1,178 @@
-html,
-body {
-  margin: 0%;
-  margin-top: 0%;
-  padding: 0%;
-  background-color: black;
+/* ===== OscarFM - Sun Wukong page ===== */
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
 }
 
-header {
-  text-align: center;
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: cyan;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
+/* Page container */
+.container {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: url(./MonkeyTouch.webp) center center / cover no-repeat fixed;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Links */
 a {
   color: yellow;
   text-decoration: none;
+  border-bottom: 1px dotted currentColor;
 }
 
-nav {
-  flex-flow: column wrap;
-  align-content: center;
-  margin-top: 2em;
+a:hover,
+a:focus-visible {
+  color: #fff;
 }
 
-nav ul {
-  top: 2em;
-  flex-direction: column-reverse;
+/* Header with navigation icons */
+header {
+  text-align: left;
+  padding: 1rem;
 }
 
-nav li {
-  list-style: none;
-  list-style-type: none;
-  display: inline;
-}
-
-.topmenus {
+nav.topmenus ul {
   display: flex;
-  flex-direction: column nowrap;
-  flex-flow: column nowrap;
+  flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-/* Tamanho das dos ICONS do site */
-.tlinkd {
+nav.topmenus li {
+  display: inline-flex;
+  list-style: none;
+}
+
+nav.topmenus img {
   width: 46px;
   height: 46px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  display: block;
 }
 
-.tlinkh {
-  width: 46px;
-  height: 46px;
+nav.topmenus a {
+  border-bottom: none;
 }
 
-#YinYang {
-  float: left;
+nav.topmenus a:hover img {
+  border-color: yellow;
 }
 
-#Home {
-  float: right;
-  margin-right: 2em;
-}
-
-.container {
-  background: url(./MonkeyTouch.webp);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-  min-width: 100%;
-  min-height: 100%;
-  position: absolute;
-}
-
-#msg {
-  margin-top: 1%;
-  margin-bottom: 1%;
-  text-align: center;
-}
-
-#p1 {
-  background-color: aqua;
-  color: brown;
-  display: inline;
-  font-size: calc(2.5vw + 0.5vh + 0.2vmin);
-}
-
-#p2 {
-  background-color: gray;
-  color: aqua;
-  display: inline;
-  font-size: calc(2.5vw + 0.5vh + 0.2vmin);
-}
-
-#p3 {
-  background-color: orangered;
-  color: yellow;
-  display: inline;
-  font-size: calc(2.5vw + 0.5vh + 0.2vmin);
-}
-
-#p4 {
-  background-color: black;
-  color: white;
-  display: inline;
-  font-size: calc(2.5vw + 0.5vh + 0.2vmin);
-  margin: 5%;
-}
-
+/* Player iframe */
 .center {
   text-align: center;
+  padding: 0 1rem;
 }
 
+.player {
+  display: block;
+  width: min(100%, 500px);
+  height: 42px;
+  margin: 0.5rem auto 0;
+  border: 0;
+}
+
+/* Message lines (4 elemental colors) */
+#msg {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 1.5rem 1rem;
+}
+
+#msg div {
+  display: block;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: clamp(0.95rem, 2vw + 0.5vh, 1.4rem);
+  line-height: 1.5;
+}
+
+#p1 { background: aqua;      color: brown; }
+#p2 { background: gray;      color: aqua; }
+#p3 { background: orangered; color: yellow; }
+#p4 { background: black;     color: #fff; }
+
+/* Main content */
 .main {
-  padding: 0.5em;
-  margin-left: 0.3em;
-  margin-right: 0.3em;
+  flex: 1;
+  padding: 0 1rem 2rem;
+  max-width: 46rem;
+  margin: 0 auto;
+  width: 100%;
   text-align: justify;
 }
 
 .main p {
-  background-color: black;
-  display: inline;
-  line-height: 2em;
-  font-size: calc(2.5vw + 0.5vh + 0.2vmin);
+  display: block;
+  margin: 0 auto 1.25rem;
+  padding: 1rem 1.25rem;
+  background: rgba(0, 0, 0, 0.68);
+  border-radius: 6px;
   color: cyan;
+  line-height: 2;
+  font-size: clamp(0.95rem, 1.3vw + 0.5vh, 1.15rem);
+  backdrop-filter: blur(3px);
 }
 
 .mark {
-  color: white;
+  color: #fff;
+  font-weight: 600;
 }
 
 .holy {
-  color: green;
+  color: greenyellow;
+  font-weight: 600;
 }
 
-.player {
-  text-align: center;
-  height: 42px;
-  width: 500px;
-  border: none;
+/* Fade-in animation */
+header,
+.center,
+#msg,
+.main {
+  animation: fade-in 0.6s ease-out both;
 }
-@media screen and (max-width:600px) {
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
   .container {
-    display: flex;
-    flex-direction: column-reverse;
+    background-attachment: scroll;
   }
 
-  .text,
-  .image {
-    width: 100%;
+  .main {
+    text-align: left;
   }
+}
 
-  .container {
-    min-width: 200px;
-    padding: 40px 0px;
-  }
-
-  .text {
-    display: block;
-    width: 100%;
-    padding: 20px 40px;
-  }
-
-  .image {
-    display: flex;
-    width: 200px;
-    align-self: center;
-    justify-content: center;
-    margin: auto;
+@media (prefers-reduced-motion: reduce) {
+  header,
+  .center,
+  #msg,
+  .main {
+    animation: none;
   }
 }

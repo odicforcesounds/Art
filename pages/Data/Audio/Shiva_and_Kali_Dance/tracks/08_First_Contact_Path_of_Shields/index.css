@@ -69,3 +69,174 @@ footer span {
   background-color: black;
   display: inline;
 }
+
+/* ==== page design (moved here so it is allowed under a self-only CSP) ==== */
+
+    /* ---- shell : ./path.webp is the full page background ---- */
+    body.container {
+      position: relative;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 100vh;
+      min-height: 100dvh;
+      margin: 0;
+      padding: 0;
+      background: #000 url(./path.webp) center center / cover no-repeat fixed;
+      color: #e6f7ff;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+
+    body.container a {
+      color: yellow;
+      text-decoration: none;
+      border-bottom: 1px dotted currentColor;
+    }
+
+    body.container a:hover,
+    body.container a:focus-visible {
+      color: #fff;
+    }
+
+    /* ---- header : the monkey icon, the way in ---- */
+    body.container header {
+      text-align: center;
+      padding: 2rem 1rem 0;
+    }
+
+    body.container nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      background: none;
+      max-width: none;
+    }
+
+    body.container nav a {
+      display: inline-block;
+      border-bottom: 0;
+    }
+
+    body.container .tlinky {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      padding: 6px;
+      background: rgba(0, 0, 0, 0.55);
+      transition: transform 0.25s ease, background 0.25s ease;
+    }
+
+    body.container .tlinky:hover,
+    body.container .tlinky:focus-visible {
+      transform: scale(1.08);
+      background: rgba(0, 0, 0, 0.85);
+    }
+
+    /* ---- player ---- */
+    body.container .center {
+      padding: 2rem 1rem 0;
+      text-align: center;
+    }
+
+    body.container .center iframe {
+      display: block;
+      max-width: 100%;
+      margin: 0 auto;
+      border: 0;
+    }
+
+    body.container .player {
+      width: min(100%, 600px);
+      height: 42px;
+    }
+
+    /* ---- the writing : one panel per stanza ---- */
+    body.container article,
+    body.container .content {
+      position: static;
+      width: 100%;
+      max-width: 46rem;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    body.container article p,
+    body.container .content p {
+      display: block;
+      font-size: clamp(0.95rem, 1.3vw + 0.5vh, 1.15rem);
+      line-height: 2;
+      background: rgba(0, 0, 0, 0.72);
+      color: cyan;
+      padding: 0.9rem 1.1rem;
+      margin: 0 auto 1rem;
+      border-radius: 6px;
+      backdrop-filter: blur(3px);
+    }
+
+    body.container h1,
+    body.container h2,
+    body.container h3,
+    body.container h4 {
+      color: #fff;
+      line-height: 1.4;
+      margin: 1.2rem 0 0.6rem;
+    }
+
+    body.container h1 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
+    body.container h3 { font-size: clamp(1.15rem, 2vw, 1.45rem); }
+    body.container h4 { font-size: clamp(1rem, 1.6vw, 1.2rem); color: #b3f0ff; }
+
+    body.container ul {
+      max-width: 46rem;
+      margin: 0 auto 1rem;
+      padding: 1rem 1rem 1rem 2.2rem;
+      background: rgba(0, 0, 0, 0.72);
+      color: cyan;
+      line-height: 1.9;
+      border-radius: 6px;
+    }
+
+    body.container img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* ---- footer ---- */
+    body.container footer {
+      text-align: center;
+      padding: 1rem;
+      background: rgba(0, 0, 0, 0.7);
+    }
+
+    body.container footer span {
+      display: inline;
+      color: cyan;
+      background: transparent;
+    }
+
+    /* ---- polish ---- */
+    body.container header,
+    body.container .center,
+    body.container article,
+    body.container .content {
+      animation: fade-in 0.6s ease-out both;
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    @media (max-width: 600px) {
+      body.container {
+        background-attachment: scroll;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body.container header,
+      body.container .center,
+      body.container article,
+      body.container .content {
+        animation: none;
+      }
+    }
